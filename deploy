@@ -1,8 +1,0 @@
-#!/bin/sh
-USER=root
-HOST=devi.biologie.hu-berlin.de
-DIR=/data/www/rocs/   # might sometimes be empty!
-
-env HUGO_ENV="production" hugo --minify && rsync -avz public/ ${USER}@${HOST}:${DIR}
-
-exit 0
