@@ -1,0 +1,277 @@
+// Override this file to add your own SCSS styling.
+
+.parallax {
+  background-attachment: scroll;
+}
+
+.home-section {
+    background: #f7f7f7;
+    position: relative;
+    padding: 50px 0 30px 0;
+    z-index: 0;
+    
+}
+
+.card{
+  background: none;
+  border-radius: 0ch;
+  text-align: justify;
+}
+
+h1,h2,h4, h5, h6 {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
+  color: #003300;
+  text-rendering: optimizeLegibility;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  -webkit-hyphens: manual;
+  -ms-hyphens: manual;
+  hyphens: manual;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
+  color: #99cc33;
+  text-rendering: optimizeLegibility;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  -webkit-hyphens: manual;
+  -ms-hyphens: manual;
+  hyphens: manual;
+}
+
+p {
+text-align: justify;
+}
+
+.portrait-title h2 {
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: #000;
+  margin: 20px 0 10px 0;
+}
+
+a, h3.article-title a:hover {
+  color: #071013;
+  text-decoration: none;
+  transition: color 0.6s ease;
+  font-weight: bold;
+}
+
+
+.btn{
+  background: #003300;
+  border: 2px solid black;
+  color: #ffff
+}
+.btn:hover{
+  border: 2px solid #99cc33;
+  color: #99cc33
+}
+
+a, h3.article-title a:hover {
+  color: #071013;
+  text-decoration: none;
+  transition: color 0.6s ease;
+  font-weight: bold;
+}
+
+.navbar {
+  background:#003300;
+backdrop-filter: blur(8px);
+}
+
+
+
+.synosys{
+  line-height: 1.3em;
+  text-align: right;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
+  color: #071013;
+  text-align: right;
+  z-index:1;
+}
+.synosys{
+  font-size: 500%;
+}
+
+
+.hero-lead {
+  max-width: 100%;
+}
+
+#banner{
+  background: radial-gradient(circle at calc(100% - 30%), rgba(51,102,102,.3) 0%, rgba(0,102,153,.41) 30%, rgba(0,153,102,.6) 100%);
+}
+
+.synosys{
+  line-height: 1.3em;
+  text-align: right;
+  font-family: "Roboto", sans-serif;
+  font-weight:lighter;
+  color: #e9e9e9;
+  
+  
+  text-align: justify;
+    margin-bottom: -1em !important;
+
+    &:after {
+        content: "";
+        display: inline-block;
+        width: 100%;
+    }
+}
+
+.hero-lead {
+  max-width: 100%;
+  text-align: justify;
+}
+
+#the-center-synergy-of-systems {
+color: #ffffff;
+font-weight:lighter;
+}
+
+#synosys_site_visualitation_container {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 48px;
+  color: #071013; 
+  position: relative;
+  z-index: -1;
+}
+
+#banner {
+  background: rgb(0,102,153);
+}
+
+.hero-lead {
+	max-width: 100%;
+	text-align: justify;
+  font-weight: 1;
+}
+
+
+.getting_lost {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  font-weight:lighter;
+}
+
+.dont_animate{
+color: white;
+display: inline-block;
+
+}
+
+.animate_me {
+  
+  --total: calc(var(--duration) + var(--delay));
+  color: transparent;
+  
+  position: relative;
+  animation: revealText calc(var(--duration) + var(--delay)) forwards;
+}
+
+.animate_me::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: scaleX(0);
+  transform-origin: left;
+  background: white;
+  animation: 
+    rollIn var(--duration) var(--delay) forwards,
+    rollOut var(--duration) var(--total) forwards;
+}
+
+.dont_animate, .animate_me {
+  display: inline;
+  white-space: nowrap;
+}
+
+@keyframes revealText {
+  0% {
+    color: transparent;
+  }
+  99.99% {
+    color: transparent;
+  }
+  100% {
+    color: white;
+  }
+}
+
+@keyframes rollIn {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+@keyframes rollOut {
+  0% {
+    transform: translateX(0%);
+    animation-timing-function: cubic-bezier(0.4, 0.0, .8, .8); /* Quick start */
+  }
+  
+  100% {
+    transform: translateX(1001%);
+  }
+}
+
+@media (max-width: 991.98px) {
+  .navbar-collapse {
+      z-index: 1031 !important;
+      position: absolute;
+      left: 0;
+      top: 50px;
+      width: 100%;
+      background:#003300;
+      text-align: center !important;
+      backdrop-filter: blur(8px);
+  }
+}
+
+.tag-cloud a:active, .tag-cloud a:focus, .tag-cloud a:hover {
+  color: #99cc33;
+  transform: scale(1.2);
+}
+
+a {
+  color: #005c00;
+}
+
+a:hover, a:focus {
+  color: #99cc33;
+}
+
+.article-metadata a:hover {
+  color: #99cc33;
+}
+
+.fa-x-twitter:before {
+  content: "\e61b"
+}
+
+.cc-theme-classic .cc-btn:last-child {
+	min-width: 140px;
+  background: #005c00;
+}

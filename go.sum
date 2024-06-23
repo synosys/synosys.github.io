@@ -1,0 +1,7 @@
+github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics v0.1.1/go.mod h1:0YQtVvRLCzZOpPmbVNk7WDx8t19/QfRTFO+pwyqQNk8=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1 h1:qlDCZWq7OhuwLr7/rDPXe8iGxam2t1kgLabZ9EP0VqM=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.1/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.0 h1:W1N6SfS/o+/CRlFSJCPHe0dlpcRUutCkg+FIvNmM4EI=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.0/go.mod h1:ABVWybDpTvDuzd9Ae4IX4B1uCSnEnbtqj2j5iaxlmVM=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210606130713-db4dcf6541e5 h1:IXJvBKhm2cfVoZAOH5q6mh3Qz/+dGZ2XRQjD+RfTy4c=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210606130713-db4dcf6541e5/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=

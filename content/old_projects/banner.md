@@ -1,0 +1,17 @@
+---
+widget: hero
+headless: true
+weight: 1
+title: Current Projects and Activities
+active: true
+design:
+  background:
+    image: "background_banner.png"
+    text_color_light: true
+    image_parallax: true
+    image_size: 
+    image_position: "right"
+    image_darken: .5
+    color: "white"
+---
+
