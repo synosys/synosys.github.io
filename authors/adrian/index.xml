@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrian Zachariae | SynoSys</title>
+    <link>https://synosys.github.io/authors/adrian/</link>
+      <atom:link href="https://synosys.github.io/authors/adrian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adrian Zachariae</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/authors/adrian/avatar_hufad7208688ebe21d5c4bbc29cb3c387f_782974_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Adrian Zachariae</title>
+      <link>https://synosys.github.io/authors/adrian/</link>
+    </image>
+    
+    <item>
+      <title>Inferring country-specific import risk of diseases from the world air transportation network</title>
+      <link>https://synosys.github.io/publication/klamser-2024-inferring/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/klamser-2024-inferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing global preparedness during an ongoing pandemic from partial and noisy data</title>
+      <link>https://synosys.github.io/publication/klamser-2023-enhancing/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/klamser-2023-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing global preparedness during an ongoing pandemic from partial and noisy data</title>
+      <link>https://synosys.github.io/publication/klamser-2022-enhancing/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/klamser-2022-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preprint out: Enhancing global preparedness during an ongoing pandemic from partial and noisy data</title>
+      <link>https://synosys.github.io/news/global_preparedness/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/global_preparedness/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The preprint is available here:&lt;/strong&gt; &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2022.08.19.22278981v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.medrxiv.org/content/10.1101/2022.08.19.22278981v1&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Monitor: Contact patterns during the Pandemic</title>
+      <link>https://synosys.github.io/news/contact_monitor/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/contact_monitor/</guid>
+      <description>&lt;p&gt;In addition to mobility, we now show the average contacts in the population over time—with equally important insights into the course of the pandemic.&lt;/p&gt;
+&lt;p&gt;The mobility of people gives us an important overview of the pandemic, but it is actually the contacts between people that are instrumental in the infection dynamics: Transmissions occur when people meet.&lt;/p&gt;
+&lt;p&gt;With the new &lt;a href=&#34;https://www.covid-19-mobility.org/contact-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;contact monitor&lt;/strong&gt;&lt;/a&gt; we make these contacts visible. The monitor shows the average number of contacts that a person in Germany had on a given day.&lt;/p&gt;
+&lt;p&gt;You can clearly see how strongly contacts have decreased in March 2020, and how they are still at a low level more than a year after the start of the pandemic. Also visible are the different phases of the pandemic and reactions to it with lockdowns, relaxations, holidays and vacations.&lt;/p&gt;
+&lt;p&gt;The number of contacts is calculated from GPS mobile phone data and provided to us as an anonymous, aggregated statistic - &lt;a href=&#34;https://www.covid-19-mobility.org/data-info/contacts/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;more on the methodology here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We will continue to analyze contact dynamics and investigate what conclusions can be drawn about infection dynamics. For example, in the study &lt;a href=&#34;https://www.pnas.org/content/118/31/e2026731118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ruediger et al.&lt;/a&gt;, contacts were shown to be related to the reproductive number R.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new COVID-19 mobility monitor report ist online</title>
+      <link>https://synosys.github.io/news/mobility_between_counties/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/mobility_between_counties/</guid>
+      <description>&lt;p&gt;You can find the whole report here: &lt;a href=&#34;https://www.covid-19-mobility.org/reports/traffic-grid/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;** -&amp;gt; Traffic Between Adjacent Counties &amp;lt;- **&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The report can be &lt;a href=&#34;https://www.covid-19-mobility.org/reports/adjacent-travel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;found on the covid-19-mobility monitor site&lt;/a&gt; but is also available as an &lt;a href=&#34;https://observablehq.com/@adrianzachariae/traffic-lattice-germany&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observable notebook&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Just published: Social networks predict the life and death of honey bees</title>
+      <link>https://synosys.github.io/news/bee_paper/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/bee_paper/</guid>
+      <description>
+
+
+
+
+
+
+  
+    
+
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+  &lt;a href=&#34;https://synosys.github.io/publication/wild-2020-social/&#34;&gt;Social networks predict the life and death of honey bees&lt;/a&gt;.&lt;br/&gt;
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+
+
+  &lt;span &gt;
+      B Wild&lt;/span&gt;, &lt;span &gt;
+      D M Dormagen&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://synosys.github.io/authors/adrian/&#34;&gt;A Zachariae&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      M L Smith&lt;/span&gt;, &lt;span &gt;
+      K S Traynor&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://synosys.github.io/authors/dirk/&#34;&gt;D Brockmann&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      I D Couzin&lt;/span&gt;, &lt;span &gt;
+      T Landgraf&lt;/span&gt;
+  &lt;/span&gt;&lt;br/&gt;
+  
+  Nature Communications 12, 1110
+  
+  (2021).
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.nature.com/articles/s41467-021-21212-5.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/wild-2020-social/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1038/s41467-021-21212-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.nature.com/articles/s41467-021-21212-5#citeas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    View&lt;/a&gt;
+  
+&lt;/p&gt;
+  
+&lt;/div&gt;
+
+  
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Social networks predict the life and death of honey bees</title>
+      <link>https://synosys.github.io/publication/wild-2020-social/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/wild-2020-social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new COVID-19 mobility monitor report ist online</title>
+      <link>https://synosys.github.io/news/new_mobility_report/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/new_mobility_report/</guid>
+      <description>&lt;p&gt;You can find the whole report here: &lt;a href=&#34;https://www.covid-19-mobility.org/reports/adjacent-travel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;** -&amp;gt; Traffic in the Pandemic by Distance &amp;lt;- **&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In past reports we have shown repeatedly that the change in mobility during the pandemic affects local and long-distance traffic differently. Recently, there has been increased interest in traffic-by-distance, as actual and proposed policies like the “15-km rule” have targeted long-distance travel to limit the spread from COVID-19 hotspots to neighboring areas and beyond. This report explores &lt;strong&gt;how much traffic remains local&lt;/strong&gt;, &lt;strong&gt;how much crosses borders&lt;/strong&gt;, and &lt;strong&gt;how drastic regional differences are&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The report can be &lt;a href=&#34;https://www.covid-19-mobility.org/reports/adjacent-travel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;found on the covid-19-mobility monitor site&lt;/a&gt; but is also available as an &lt;a href=&#34;https://observablehq.com/@adrianzachariae/traffic-in-the-pandemic-by-distance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observable notebook&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Corona Datenspende App</title>
+      <link>https://synosys.github.io/project/datenspende/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/project/datenspende/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 lockdown induces disease-mitigating structural changes in mobility networks</title>
+      <link>https://synosys.github.io/publication/schlosser-2020-covid/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/schlosser-2020-covid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clara Jongen | SynoSys</title>
+    <link>https://synosys.github.io/authors/clara/</link>
+      <atom:link href="https://synosys.github.io/authors/clara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clara Jongen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright>
+    <image>
+      <url>https://synosys.github.io/authors/clara/avatar_hu57e1c4f905262e136505cb0e0647590f_4011308_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Clara Jongen</title>
+      <link>https://synosys.github.io/authors/clara/</link>
+    </image>
+    
+  </channel>
+</rss>

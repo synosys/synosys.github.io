@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | SynoSys</title>
+    <link>https://synosys.github.io/authors/</link>
+      <atom:link href="https://synosys.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>Authors</title>
+      <link>https://synosys.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://synosys.github.io/authors/katharina/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/authors/katharina/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://synosys.github.io/authors/marc/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/authors/marc/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://synosys.github.io/authors/pascal/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/authors/pascal/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://synosys.github.io/authors/susi/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/authors/susi/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mini CV</title>
+      <link>https://synosys.github.io/authors/dirk/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/authors/dirk/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://synosys.github.io/authors/katharina/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/authors/katharina/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://synosys.github.io/authors/pascal/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/authors/pascal/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://synosys.github.io/authors/susi/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/authors/susi/skills/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

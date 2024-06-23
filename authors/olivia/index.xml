@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivia Jack | SynoSys</title>
+    <link>https://synosys.github.io/authors/olivia/</link>
+      <atom:link href="https://synosys.github.io/authors/olivia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olivia Jack</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/authors/olivia/avatar_hu24c8e1d8ff841089e81e2d0c6ba44e46_1615644_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Olivia Jack</title>
+      <link>https://synosys.github.io/authors/olivia/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 lockdown induces disease-mitigating structural changes in mobility networks</title>
+      <link>https://synosys.github.io/publication/schlosser-2020-covid/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/schlosser-2020-covid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

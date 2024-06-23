@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | SynoSys</title>
+    <link>https://synosys.github.io/publication-type/6/</link>
+      <atom:link href="https://synosys.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>6</title>
+      <link>https://synosys.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Human mobility, networks and disease dynamics on a global scale</title>
+      <link>https://synosys.github.io/publication/brockmann-2018-human/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/brockmann-2018-human/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

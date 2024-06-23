@@ -1,0 +1,2418 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
+  
+
+  <script src="home/schwarm/index.js" ></script>
+  
+  
+    <meta name="google-site-verification" content="9dEOVEaB7qydj0YBXH6OlvzWEKqwTom1RALsevenjZk" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <meta name="author" content="Dirk Brockmann" />
+
+  
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+  
+  
+
+  
+  
+
+  <meta name="description" content="SynoSys >> Center Synergy of Systems, Department of the Center of Interdisciplinary Digital Science (CIDS)">
+
+  <meta name="keywords" content="">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://synosys.github.io/visualizations/" />
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#ffffff" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.d630dc49df8945ebfce03bd4b7bc709b.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-46302068-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-46302068-1', { 'anonymize_ip': true });
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu80b1d4f6888dd525f2ad41ed1c760cae_67236_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu80b1d4f6888dd525f2ad41ed1c760cae_67236_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://synosys.github.io/visualizations/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="SynoSys" />
+  <meta property="og:url" content="https://synosys.github.io/visualizations/" />
+  <meta property="og:title" content="Visualization | SynoSys" />
+  <meta property="og:description" content="Center Synergy of Systems, Department of the Center of Interdisciplinary Digital Science (CIDS)" /><meta property="og:image" content="https://synosys.github.io/media/sharing.png" />
+    <meta property="twitter:image" content="https://synosys.github.io/media/sharing.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-01-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-01-20T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#ffffff",
+          "text": "rgb(255, 255, 255)"
+        },
+        "button": {
+          "background": "rgb(255, 255, 255)",
+          "text": "#ffffff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
+
+  
+
+
+
+
+
+  <title>Visualization | SynoSys</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   " data-wc-page-id="bede72ac0ae5ab544933843352433243" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.5c87d484a568cb9870aa36d295c02167.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#creed"><span>Creed</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/science/"><span>Science</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research/"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/projects/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publications/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>Team</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/visualizations/" data-target="[]"><span>Visualizations</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.complexity-explorables.org" target="_blank" rel="noopener"><span>Explorables</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+    
+  
+
+  
+
+  
+    
+    
+    
+      
+    
+    
+    
+      
+      
+    
+  
+
+  
+    
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="banner" class="home-section wg-hero dark "  >
+   <div class="home-section-bg  bg-image parallax" style="background-color: white;background-image: url(&#39;https://synosys.github.io/media/background_banner.png&#39;);background-position: right;filter: brightness(1.2);"></div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+
+    
+      <h1 class="hero-title">Interactive Visualizations</h1>
+    
+
+    
+
+    
+    
+
+    
+    
+
+  
+  
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="visualizations" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 ">
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="d-none default-project-filter">.js-id-interactive-visualization</span>
+
+
+
+
+
+<div class="isotope projects-container js-layout-masonry ">
+
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-interactive-visualization js-id-networks">
+  <div class="card">
+    
+    
+    <a href="https://rocs.hu-berlin.de/viz/at" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/viz-gat/featured_hu961a6cc92900c9aa2d2d1a667a525bd7_827587_550x0_resize_lanczos_3.png" alt="Global Mobility Visualization" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://rocs.hu-berlin.de/viz/at" target="_blank" rel="noopener">Global Mobility Visualization</a></h4>
+
+      
+      <div class="article-style">
+        <p>This interactive visualization illustrates the worldwide air-transportation network. The network connects approx. 4000 airports globally with roughly 51000 connections. On this network more than 3 billion passengers travel each year. In total humanity travels a total distance of over 15 million kilometers every day (under normal conditions), that is roughly three times the radius of our solar system.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://rocs.hu-berlin.de/viz/at" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Start Visualization</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-interactive-visualization js-id-networks js-id-global-mobility js-id-event-horizon js-id-COVID-19 js-id-epidemics js-id-pandemics">
+  <div class="card">
+    
+    
+    <a href="/project/viz-event-horizon/"  class="card-image hover-overlay">
+      <img src="/project/viz-event-horizon/featured_hua6450d921eb945488786a06c665580de_437615_550x0_resize_lanczos_3.png" alt="Spreading Routes on a Global Scale" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/viz-event-horizon/" >Spreading Routes on a Global Scale</a></h4>
+
+      
+      <div class="article-style">
+        <p>This interactive visualization illustrates the most probable spreading routes of a pandemic with and arbitrary initial outbreak location that you can choose. The visualization implements the ideas of series of papers that introduce and discuss the concept of effective distance in complex, network-driven contagion phenomena.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://rocs.hu-berlin.de/viz/sgb" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Start Visualization</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-COVID-19 js-id-Datenspende">
+  <div class="card">
+    
+    
+    <a href="https://corona-datenspende.github.io" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/datenspende/featured_hu95fdac4743201460349da02c35ee0ec4_1432689_550x0_resize_q75_lanczos.jpg" alt="Corona Datenspende App" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://corona-datenspende.github.io" target="_blank" rel="noopener">Corona Datenspende App</a></h4>
+
+      
+      <div class="article-style">
+        <p>At the beginning of April 2020, we launched the official Corona Datenspende App. Since then, more than 530.000 German inhabitants have decided to donate their fitness tracker data. This is the biggest data donation project worldwide. We also calculate daily fever detections by regions and update the live fever monitor.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://corona-datenspende.github.io" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Go to project page</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-COVID-19 js-id-mobility">
+  <div class="card">
+    
+    
+    <a href="/project/lockdown_monitor/"  class="card-image hover-overlay">
+      <img src="/project/lockdown_monitor/featured_hu4f954aab5f33504c81b3248eb6ab2614_856821_550x0_resize_lanczos_3.png" alt="Lockdown Monitor" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/lockdown_monitor/" >Lockdown Monitor</a></h4>
+
+      
+      <div class="article-style">
+        <p>Our newest project! We develop the Lockdown Monitor to have an overview of mobility during lockdowns. The aim is to analyse mobility patterns and advise the Ministry.</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-python js-id-Network-visualization">
+  <div class="card">
+    
+    
+    <a href="https://pypi.org/project/epipack/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/epipack/featured_hu1559a03da5314ed664c02327a760ba29_29170_550x0_resize_lanczos_3.png" alt="Epipack" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://pypi.org/project/epipack/" target="_blank" rel="noopener">Epipack</a></h4>
+
+      
+      <div class="article-style">
+        <p>Fast prototyping of epidemiological models based on reaction equations. Analyze the ODEs analytically or numerically, or run/animate stochastic simulations on networks/well-mixed systems. Simple compartmental models of infectious diseases are useful to investigate effects of certain processes on disease dissemination. Using pen and paper, quickly adding/removing compartments and transition processes is easy, yet the analytical and numerical analysis or stochastic simulations can be tedious to set up and debug—especially when the model changes (even slightly).</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http:https://pypi.org/project/epipack/" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Go to project page</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-COVID-19 js-id-mobility">
+  <div class="card">
+    
+    
+    <a href="http://rocs.hu-berlin.de/corona" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/covid-19-event-horizon/featured_hu6669cf7cdf1b1c3eab8e7ba52e554993_1168332_550x0_resize_lanczos_3.png" alt="COVID-19 - Event Horizon" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="http://rocs.hu-berlin.de/corona" target="_blank" rel="noopener">COVID-19 - Event Horizon</a></h4>
+
+      
+      <div class="article-style">
+        <p>The <strong>Covid-19 Event Horizon Project</strong> was inititated during the onset of the pandemic in the spring of 2020 when the pandemic was predominantly unfolding in mainland China. The project had two independent elements, each containing a predictive model. One model assessed the import risk of SARS-CoV-2 in different countries based on the global air-transportation network. The second dynamical model (SIRX) assessed the contaiment measures on the dynamics of the time course of the pandemic.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://rocs.hu-berlin.de/corona" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Go to project page</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-python js-id-Network-visualization">
+  <div class="card">
+    
+    
+    <a href="https://pypi.org/project/netwulf/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/netwulf/featured_huca36fcd31811df8391063951d934ac88_124864_550x0_resize_lanczos_3.png" alt="Netwulf" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://pypi.org/project/netwulf/" target="_blank" rel="noopener">Netwulf</a></h4>
+
+      
+      <div class="article-style">
+        <p>Simple and interactive network visualization in Python. Network visualization is an indispensable tool for exploring and communicating patterns in complex systems. Netwulf offers an ultra-simple API for reproducible interactive visualization of networks directly from a Python prompt or Jupyter notebook. As a research tool, its purpose is to allow hassle-free quick interactive layouting/styling for communication purposes.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http:https://pypi.org/project/netwulf/" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Go to project page</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-interactive-visualization js-id-Agent-based-models js-id-Cellular-automata js-id-Chaotic-dynamics js-id-Collective-behavior js-id-Complex-networks js-id-Coupled-oscillators js-id-Critical-phenomena js-id-Diffusion js-id-Dynamical-systems js-id-Epidemics js-id-Evolution js-id-Fractals js-id-Growth-processes js-id-Lattice-systems js-id-Nonlinear-dynamics js-id-Pattern-formation js-id-Population-dynamics js-id-Random-walks js-id-Reaction-diffusion js-id-Self-organization js-id-Self-similarity js-id-Stochastic-processes js-id-Synchronization">
+  <div class="card">
+    
+    
+    <a href="https://www.complexity-explorables.org/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/complexity_explorables/featured_hu4df2b40b388368c3ba556ef234826083_1480039_550x0_resize_lanczos_3.png" alt="Complexity Explorables" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.complexity-explorables.org/" target="_blank" rel="noopener">Complexity Explorables</a></h4>
+
+      
+      <div class="article-style">
+        <p>This project is designed for people interested in complex systems and complex dynamical processes. Complexity Explorables hosts different collections of interactive illustrations of models for complex systems in physics, mathematics, biology, chemistry, social sciences, neuroscience, epidemiology, network science and ecology.
+Topics include pattern formation, synchronization, critical phenomena, chaotic dynamics, evolutionary dynamics, fractals, collective behavior, reaction-diffusion systems and more.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.complexity-explorables.org/" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Go to project page</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Vaccination js-id-Rotavirus js-id-Measles">
+  <div class="card">
+    
+    
+    <a href="http://www.vacmap.de/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/vacmap/featured_hubae7339557515bef32838d2cd1193415_632993_550x0_resize_lanczos_3.png" alt="VacMap" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="http://www.vacmap.de/" target="_blank" rel="noopener">VacMap</a></h4>
+
+      
+      <div class="article-style">
+        <p>VacMap is an interactive visualization of the vaccination status in Germany. VacMap conveys a qualitative and quantitative representation of the vaccination coverage at the regional resolution.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.vacmap.de/" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Go to project page</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Mobility js-id-time-series js-id-COVID-19">
+  <div class="card">
+    
+    
+    <a href="/project/contact_mobitor/"  class="card-image hover-overlay">
+      <img src="/project/contact_mobitor/featured_hua266131d93e51c3312b94cdc5aad1c0d_222002_550x0_resize_lanczos_3.png" alt="Contact Monitor" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/contact_mobitor/" >Contact Monitor</a></h4>
+
+      
+      <div class="article-style">
+        <p>How a pandemic develops depends on many factors: the biology of the pathogen, its susceptibility to external influences such as humidity and temperature, the success of vaccination campaigns, but most of all it is determined by contacts between individuals: transmissions occur primarily when people have contact with each other.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.covid-19-mobility.org/contact-index/" target="_blank" rel="noopener">
+    <i class="fas fa-link mr-1"></i>Go to project page</a>
+  
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Mobility js-id-time-series js-id-COVID-19">
+  <div class="card">
+    
+    
+    <a href="https://www.covid-19-mobility.org/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/project/mobility_monitor/featured_hu499f3a4d6bb9159c9e04e7042c047dac_960151_550x0_resize_q75_lanczos.jpg" alt="COVID-19 Mobility Monitor" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.covid-19-mobility.org/" target="_blank" rel="noopener">COVID-19 Mobility Monitor</a></h4>
+
+      
+
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+</div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="tags" class="home-section wg-tag-cloud  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Popular Topics</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+    
+    
+    
+    
+    
+    
+
+    <div class="tag-cloud">
+      
+        
+        
+        
+        <a href="/tag/complex-networks/" style="font-size:1.3510834808959795rem">complex networks</a>
+      
+        
+        
+        
+        <a href="/tag/complex-systems/" style="font-size:0.7rem">complex systems</a>
+      
+        
+        
+        
+        <a href="/tag/complexity/" style="font-size:0.8798495830208322rem">complexity</a>
+      
+        
+        
+        
+        <a href="/tag/corona/" style="font-size:1.3131829163541657rem">Corona</a>
+      
+        
+        
+        
+        <a href="/tag/covid-19/" style="font-size:1.9868380854144752rem">COVID-19</a>
+      
+        
+        
+        
+        <a href="/tag/data-donation-project/" style="font-size:0.7rem">data donation project</a>
+      
+        
+        
+        
+        <a href="/tag/datenspende/" style="font-size:0.796370049245794rem">datenspende</a>
+      
+        
+        
+        
+        <a href="/tag/epidemics/" style="font-size:1.1333333333333333rem">epidemics</a>
+      
+        
+        
+        
+        <a href="/tag/human-mobility/" style="font-size:1.2728355077845237rem">human mobility</a>
+      
+        
+        
+        
+        <a href="/tag/infectious-disease-dynamics/" style="font-size:1.3510834808959795rem">infectious disease dynamics</a>
+      
+        
+        
+        
+        <a href="/tag/mobility/" style="font-size:0.9534837503125011rem">mobility</a>
+      
+        
+        
+        
+        <a href="/tag/modell/" style="font-size:0.9534837503125011rem">modell</a>
+      
+        
+        
+        
+        <a href="/tag/modellierung/" style="font-size:0.9534837503125011rem">Modellierung</a>
+      
+        
+        
+        
+        <a href="/tag/modelling/" style="font-size:1.3131829163541657rem">modelling</a>
+      
+        
+        
+        
+        <a href="/tag/omicron/" style="font-size:0.9534837503125011rem">Omicron</a>
+      
+        
+        
+        
+        <a href="/tag/pandemic/" style="font-size:1.1333333333333333rem">pandemic</a>
+      
+        
+        
+        
+        <a href="/tag/pandemics/" style="font-size:0.7rem">pandemics</a>
+      
+        
+        
+        
+        <a href="/tag/random-walks/" style="font-size:0.7rem">Random walks</a>
+      
+        
+        
+        
+        <a href="/tag/sars-cov-2/" style="font-size:0.7rem">SARS-CoV-2</a>
+      
+        
+        
+        
+        <a href="/tag/vaccination/" style="font-size:0.8798495830208322rem">vaccination</a>
+      
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2024 Center Synergy of Systems
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.f7a5e0a5c39e010ad2fd6899a284771d.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

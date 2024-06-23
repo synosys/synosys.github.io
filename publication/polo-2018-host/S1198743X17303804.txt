@@ -1,0 +1,20 @@
+S. Santibanez, J.M. Hübschen, M.C. Ben Mamou, M. Muscat, K.E. Brown, R. Myers, O. Donoso Mantke, H. Zeichhardt, D. Brockmann, S.V. Shulga, C.P. Muller, P.M. O'Connor, M.N. Mulders, A. Mankertz,
+Molecular surveillance of measles and rubella in the WHO European Region: new challenges in the elimination phase,
+Clinical Microbiology and Infection,
+Volume 23, Issue 8,
+2017,
+Pages 516-523,
+ISSN 1198-743X,
+https://doi.org/10.1016/j.cmi.2017.06.030.
+(http://www.sciencedirect.com/science/article/pii/S1198743X17303804)
+Abstract: Background
+The WHO European Region (EUR) has adopted the goal of eliminating measles and rubella but individual countries perform differently in achieving this goal. Measles virus spread across the EUR by mobile groups has recently led to large outbreaks in the insufficiently vaccinated resident population. As an instrument for monitoring the elimination process and verifying the interruption of endemic virus transmission, molecular surveillance has to provide valid and representative data. Irrespective of the country's specific situation, it is required to ensure the functionality of the laboratory surveillance that is supported by the WHO Global Measles and Rubella Laboratory Network.
+Aims
+To investigate whether the molecular surveillance in the EUR is adequate for the challenges in the elimination phase, we addressed the quality assurance of molecular data, the continuity and intensity of molecular monitoring, and the analysis of transmission chains.
+Sources
+Published articles, the molecular External Quality Assessment Programme of the WHO, the Centralized Information System for Infectious Diseases of the WHO EUR and the WHO Measles and Rubella Nucleotide Surveillance databases served as information sources.
+Content
+Molecular proficiency testing conducted by the WHO in 2016 has shown that the expertise for measles and rubella virus genotyping exists in all parts of the EUR. The analysis of surveillance data reported nationally to the WHO in 2013–2016 has revealed some countries with outbreaks but not sufficiently representative molecular data. Long-lasting supranational MV transmission chains were identified.
+Implications
+A more systematic molecular monitoring and recording of the transmission pattern for the whole EUR could help to create a meaningful picture of the elimination process.
+Keywords: Endemic transmission; Genotype; Measles virus; Outbreak; Phylogeny; Quality assurance; Rubella virus; Transmission chain; Virus importation
