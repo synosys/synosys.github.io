@@ -6,12 +6,16 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   
   
   
     <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
   
 
+  <script src="home/schwarm/index.js" ></script>
+  
   
     <meta name="google-site-verification" content="9dEOVEaB7qydj0YBXH6OlvzWEKqwTom1RALsevenjZk" />
 
@@ -26,7 +30,7 @@
   
   
 
-  <meta name="author" content="Prof. Dr. Dirk Brockmann" />
+  <meta name="author" content="Dirk Brockmann" />
 
   
   
@@ -51,6 +55,7 @@
 
   
   <link rel="alternate" hreflang="en-us" href="http://localhost:1313/tag/pandemic/" />
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
 
   
 
@@ -73,10 +78,13 @@
   
   
   
-    <meta name="theme-color" content="darkred" />
+    <meta name="theme-color" content="#ffffff" />
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -231,9 +239,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -294,8 +302,8 @@
 
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hud66ece61213ab40cef7e9904adfae312_8432_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hud66ece61213ab40cef7e9904adfae312_8432_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu80b1d4f6888dd525f2ad41ed1c760cae_67236_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu80b1d4f6888dd525f2ad41ed1c760cae_67236_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="http://localhost:1313/tag/pandemic/" />
 
@@ -319,7 +327,7 @@
     <meta property="twitter:image" content="http://localhost:1313/media/sharing.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-07-10T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2023-07-25T00:00:00&#43;00:00" />
     
   
 
@@ -329,6 +337,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#ffffff",
+          "text": "rgb(255, 255, 255)"
+        },
+        "button": {
+          "background": "rgb(255, 255, 255)",
+          "text": "#ffffff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
   
 
@@ -416,7 +454,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hu7e2d9bf0ba4b7e9ee4485aebd1ab7d7e_2595831_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
     </div>
     
 
@@ -429,16 +467,113 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hu7e2d9bf0ba4b7e9ee4485aebd1ab7d7e_2595831_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
     </div>
     
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#creed"><span>Creed</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/science/"><span>Science</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research/"><span>Research</span></a>
+        </li>
+
+        
         
 
         
@@ -495,7 +630,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+          <a class="nav-link " href="/publications/"><span>Publications</span></a>
         </li>
 
         
@@ -563,6 +698,38 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/visualizations/"><span>Visualizations</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.complexity-explorables.org" target="_blank" rel="noopener"><span>Explorables</span></a>
         </li>
 
         
@@ -714,6 +881,688 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/wiedermann-2023-evidence/" >Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics</a>
+    </div>
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  <span >
+      <a href="/authors/marc/">M Wiedermann</a></span>, <span >
+      <a href="/authors/annika/">A H Rose</a></span>, <span >
+      <a href="/authors/benjamin/">B F Maier</a></span>, <span >
+      <a href="/authors/jakob/">Kolb, Jakob J.</a></span>, <span >
+      <a href="/authors/david/">D Hinrichs</a></span>, <span >
+      <a href="/authors/dirk/">D Brockmann</a></span>
+      </div>
+      
+    </div>
+
+    
+      <div class="article-style">
+        <strong>PNAS Nexus 2(7), pgad223 (2023)</strong>
+      </div>
+    </a>
+    
+
+    
+    <a href="/publication/wiedermann-2023-evidence/"  class="summary-link">
+      <div class="article-style">Vaccines are among the most powerful tools to combat the COVID-19 pandemic. They are highly effective against infection and substantially reduce the …</div>
+    </a>
+    
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://watermark.silverchair.com/pgad223.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1wwggNYBgkqhkiG9w0BBwagggNJMIIDRQIBADCCAz4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM-GVODOjKveP40Dj_AgEQgIIDD1hGpP-wI2bSKG5fSYIN5fem_IsV-PYjKZ1gxkZusN3AbzDl2WId_oWKQVy9VdhZd6LNaZqn9lF8XTnMKFfnl_RZ7I96-2a_i8mOHsC_ZWrK5u7tTcdumbWTd3iTcsW1DABKYKE9RA7DlqJ_urDfU5e_ikihGESkbuQ4162P92rtSBMIBTs2gj5joFQjQtV2xyaE_jIoJMFh6J5B7d04TshxCcvt0uWZ8Y4Eq8u-4LN_p46_LeDN75Ww6ucefvhDPBtDq5KBAEyip2bx_SumuzFKU0-vRnOFC9fRA7m32TG8VQ3Ff1IGUIMcgbbpssJy3tTOP7ARyUtuBSQSQAN1RTBEd4zs8tEn87uVThrHaGakRjXTsheBStOm2shqxhGyX25Kt8s9Im2v4g-0NSzDvSCgXW3xpdXqx4iRNlWOWSRvjO5ETEO3a6IrjuJrS2fV_4olePBZ-6IH8AOpOI3G8brHCFD1HnWRtW8RUM8-V_aBfWxCPX1icNBRdrgIWzU9kxlUKCP_AT8HQYYn4ZnkbZ8fISi-kkPDRqQdgqZoZhH8YR_8c3BDLJWiBMJZKe4yCRIKBfy22eBZR9UXE8xiP1qNkZcyxl6ML1kHAFq2sHnUwDGan394NDbcT3d0Yyut0gCKXvmeV2-uazEaoYEUMZMJ10HkgfbeFQAJE8fh0Ykp-KjQnrD5rv7tAMzjpCysrqpjeBuW8kiVABtwdRvKRkv5eF1v6boKktQY64HRFgc0XXRDxtpw3mptr8QEl9C6e55FazkEiCkS6fNn4ESHJNmwoJBuQrre8nB6-yzDkBFtEfNGlEKWzJmqOLFR62cXI8eoVyds5iH7kyqMgEVUW-y_WJ5M_8J7AMOBqdeZrPFlzRRLFyEPzkr1PdswxA-gu9PmC79kZpOgiQnADbHlylUn0wbxGdO0URrhT-rIWgxzgRuM-fBhdD6O-FVU2v8ZdTR-k-hGSoHJn1D-UWIobqSR8OQajBPewgWomXeTztJv1AcnXYljNZ-9wiRvIBabtUtmjrIvL-OkigruMve-fw" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1093/pnasnexus/pgad223" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/pnasnexus/article/2/7/pgad223/7225910" target="_blank" rel="noopener">
+    View</a>
+  
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/wiedermann-2023-evidence/" >
+      <img src="/publication/wiedermann-2023-evidence/featured_hued4f8c1cfbc6ee1e48fd5cb5a1cf11f2_526302_150x0_resize_lanczos_3.png" alt="Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/klamser-2023-enhancing/" >Enhancing global preparedness during an ongoing pandemic from partial and noisy data</a>
+    </div>
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  <span >
+      <a href="/authors/pascal/">P Klamser</a></span>, <span >
+      </span>, <span >
+      </span>, <span >
+      <a href="/authors/adrian/">A Zachariae</a></span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      <a href="/authors/benjamin/">B F Maier</a></span>, <span >
+      </span>, <span >
+      <a href="/authors/dirk/">D Brockmann</a></span>, <span >
+      </span>
+      </div>
+      
+    </div>
+
+    
+      <div class="article-style">
+        <strong>PNAS Nexus 2(6), pgad192 (2023)</strong>
+      </div>
+    </a>
+    
+
+    
+    <a href="/publication/klamser-2023-enhancing/"  class="summary-link">
+      <div class="article-style">As the coronavirus disease 2019 spread globally, emerging variants such as B.1.1.529 quickly became dominant worldwide. Sustained community …</div>
+    </a>
+    
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1093/pnasnexus/pgad192" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/pnasnexus/article/2/6/pgad192/7191545" target="_blank" rel="noopener">
+    View</a>
+  
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/klamser-2023-enhancing/" >
+      <img src="/publication/klamser-2023-enhancing/featured_huf377986e91e45d0d15e489ca6118f85c_967243_150x0_resize_q75_lanczos.jpeg" alt="Enhancing global preparedness during an ongoing pandemic from partial and noisy data" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/maier-2023-modeling/" >Modeling the impact of the Omicron infection wave in Germany</a>
+    </div>
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  <span >
+      <a href="/authors/benjamin/">B F Maier</a></span>, <span >
+      <a href="/authors/angie/">A Burdinski</a></span>, <span >
+      <a href="/authors/marc/">M Wiedermann</a></span>, <span >
+      <a href="/authors/annika/">A H Rose</a></span>, <span >
+      <a href="/authors/frank/">F Schlosser</a></span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      <a href="/authors/dirk/">D Brockmann</a></span>
+      </div>
+      
+    </div>
+
+    
+      <div class="article-style">
+        <strong>Biology Methods and Protocols 8 (1), bpad005 (2023)</strong>
+      </div>
+    </a>
+    
+
+    
+    <a href="/publication/maier-2023-modeling/"  class="summary-link">
+      <div class="article-style">In November 2021, the first infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant of concern (VOC) B.1.1.529 (‘Omicron’) …</div>
+    </a>
+    
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1093/biomethods/bpad005" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/biomethods/article/8/1/bpad005/7082501" target="_blank" rel="noopener">
+    View</a>
+  
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/maier-2023-modeling/" >
+      <img src="/publication/maier-2023-modeling/featured_hu4b19b201c74f951be5f904cf8d7f21db_220826_150x0_resize_q75_lanczos.jpeg" alt="Modeling the impact of the Omicron infection wave in Germany" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/maier-2023-estimating/" >Estimating the share of SARS-CoV-2- immunologically naïve individuals in Germany up to June 2022</a>
+    </div>
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  <span >
+      <a href="/authors/benjamin/">B F Maier</a></span>, <span >
+      <a href="/authors/annika/">A H Rose</a></span>, <span >
+      <a href="/authors/angie/">A Burdinski</a></span>, <span >
+      <a href="/authors/pascal/">P Klamser</a></span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      <a href="/authors/dirk/">D Brockmann</a></span>
+      </div>
+      
+    </div>
+
+    
+      <div class="article-style">
+        <strong>Epidemiology &amp; Infection , Volume 151, e38 (2023)</strong>
+      </div>
+    </a>
+    
+
+    
+    <a href="/publication/maier-2023-estimating/"  class="summary-link">
+      <div class="article-style">After the winter of 2021/2022, the coronavirus disease 2019 (COVID-19) pandemic had reached a phase where a considerable number of people in Germany …</div>
+    </a>
+    
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D465300E4136D1D63B25BD6F48EC2994/S0950268823000195a.pdf/estimating-the-share-of-sars-cov-2-immunologically-naive-individuals-in-germany-up-to-june-2022.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1017/S0950268823000195" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cambridge.org/core/journals/epidemiology-and-infection/article/estimating-the-share-of-sarscov2immunologically-naive-individuals-in-germany-up-to-june-2022/D465300E4136D1D63B25BD6F48EC2994" target="_blank" rel="noopener">
+    View</a>
+  
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/maier-2023-estimating/" >
+      <img src="/publication/maier-2023-estimating/featured_hud855882235d225f05d426e8e4ae198d4_95587_150x0_resize_lanczos_3.png" alt="Estimating the share of SARS-CoV-2- immunologically naïve individuals in Germany up to June 2022" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/myall-2023-reconstructing/" >Reconstructing and predicting the spatial evolution of Carbapenemase-producing Enterobacteriaceae outbreaks</a>
+    </div>
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  <span >
+      </span>, <span >
+      <a href="/authors/marc/">M Wiedermann</a></span>, <span >
+      </span>, <span >
+      <a href="/authors/pascal/">P Klamser</a></span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      </span>, <span >
+      <a href="/authors/dirk/">D Brockmann</a></span>
+      </div>
+      
+    </div>
+
+    
+      <div class="article-style">
+        <strong>International Journal of Infectious Diseases 130, S65 (2023)</strong>
+      </div>
+    </a>
+    
+
+    
+    <a href="/publication/myall-2023-reconstructing/"  class="summary-link">
+      <div class="article-style">Intro Controlling the spread of infectious diseases requires correctly targeting preventative resources. When poorly deployed, these resources are …</div>
+    </a>
+    
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D465300E4136D1D63B25BD6F48EC2994/S0950268823000195a.pdf/estimating-the-share-of-sars-cov-2-immunologically-naive-individuals-in-germany-up-to-june-2022.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1016/j.ijid.2023.04.163" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S1201971223002928" target="_blank" rel="noopener">
+    View</a>
+  
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
   
     
       
@@ -1332,342 +2181,17 @@
 
     
   
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
 
   
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/news/long_covid_preprint/" >New preprint: Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics -- Insights from the German Corona Data Donation Project</a>
-    </div>
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  <span >
-      <a href="/authors/marc/">M Wiedermann</a></span>, <span >
-      <a href="/authors/annika/">A H Rose</a></span>, <span >
-      <a href="/authors/benjamin/">B F Maier</a></span>, <span >
-      <a href="/authors/jakob/">Kolb, Jakob J.</a></span>, <span >
-      <a href="/authors/david/">D Hinrichs</a></span>, <span >
-      <a href="/authors/dirk/">D Brockmann</a></span>
-  </div>
-  
-  
-
-  
-  
-  
-
-  
-
-  
-
-  
-  
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-    
-    <a href="/news/long_covid_preprint/"  class="summary-link">
-      <div class="article-style">Vaccines are among the most powerful tools used to combat the COVID-19 pandemic. They are highly effective against infection and substantially reduce …</div>
-    </a>
-    
-
-    
-
-  </div>
-  <div class="ml-3">
+<nav class="mt-1">
+  <ul class="pagination justify-content-center">
     
     
+    <li class="page-item"><a class="page-link" href="/tag/pandemic/page/2/">&raquo;</a></li>
     
-    <a href="/news/long_covid_preprint/" >
-      <img src="/news/long_covid_preprint/featured_hu001cd8756fee5be502d399745a8712f2_161157_150x0_resize_lanczos_3.png" alt="New preprint: Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics -- Insights from the German Corona Data Donation Project" loading="lazy">
-    </a>
-    
-  </div>
-</div>
+  </ul>
+</nav>
 
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/maier-2022-omicron/" >Abschätzung der Infektionswelle durch die SARS-CoV-2 VOC Omikron</a>
-    </div>
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  <span >
-      <a href="/authors/benjamin/">B F Maier</a></span>, <span >
-      <a href="/authors/angie/">A Burdinski</a></span>, <span >
-      <a href="/authors/marc/">M Wiedermann</a></span>, <span >
-      </span>, <span >
-      </span>, <span >
-      <a href="/authors/frank/">F Schlosser</a></span>, <span >
-      <a href="/authors/dirk/">D Brockmann</a></span>
-      </div>
-      
-    </div>
-
-    
-      <div class="article-style">
-        <strong>Bericht (German)</strong>
-      </div>
-    </a>
-    
-
-    
-    <a href="/publication/maier-2022-omicron/"  class="summary-link">
-      <div class="article-style">Wir modellieren mögliche Verläufe einer durch die SARS-CoV-2 “variant of concern” (VOC) <strong>B.1.1.529</strong> (<em>“Omikron”</em>) verursachten Infektionswelle in …</div>
-    </a>
-    
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Modellierung_Omikronwelle_Bericht.pdf;jsessionid=E77266894671106DCA81AFB5C3B9C43C.internet072?__blob=publicationFile" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/maier-2022-omicron/" >
-      <img src="/publication/maier-2022-omicron/featured_hu3d5c6e1d3cefe035974ff808eefa24d4_385651_150x0_resize_lanczos_3.png" alt="Abschätzung der Infektionswelle durch die SARS-CoV-2 VOC Omikron" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-  
-  
-
-
-  
-
-
-
-
-
-
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="https://rocs.hu-berlin.de/viz/COVID-19-geographical-animations-js/public/" target="_blank" rel="noopener">Covid-19 Dynamics on a Global Scale</a>
-    </div>
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  <span >
-      <a href="/authors/olivia/">O Jack</a></span>, <span >
-      </span>
-      </div>
-      
-    </div>
-
-    
-
-    
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://rocs.hu-berlin.de/viz/COVID-19-geographical-animations-js/public/" target="_blank" rel="noopener">
-    <i class="fas fa-link mr-1"></i>Start Visualization</a>
-  
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="https://rocs.hu-berlin.de/viz/COVID-19-geographical-animations-js/public/" target="_blank" rel="noopener">
-      <img src="/project/viz-covid-geography/featured_huc3b5f1bbc18317704f17fa05761e18ab_368915_150x0_resize_lanczos_3.png" alt="Covid-19 Dynamics on a Global Scale" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-
-  
 
 </div>
   </div>

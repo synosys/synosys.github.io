@@ -6,12 +6,16 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   
   
   
     <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
   
 
+  <script src="home/schwarm/index.js" ></script>
+  
   
     <meta name="google-site-verification" content="9dEOVEaB7qydj0YBXH6OlvzWEKqwTom1RALsevenjZk" />
 
@@ -26,7 +30,7 @@
   
   
 
-  <meta name="author" content="Prof. Dr. Dirk Brockmann" />
+  <meta name="author" content="Dirk Brockmann" />
 
   
   
@@ -51,6 +55,7 @@
 
   
   <link rel="alternate" hreflang="en-us" href="http://localhost:1313/authors/thomas-harder/" />
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
 
   
 
@@ -73,10 +78,13 @@
   
   
   
-    <meta name="theme-color" content="darkred" />
+    <meta name="theme-color" content="#ffffff" />
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -231,9 +239,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -294,8 +302,8 @@
 
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hud66ece61213ab40cef7e9904adfae312_8432_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hud66ece61213ab40cef7e9904adfae312_8432_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu80b1d4f6888dd525f2ad41ed1c760cae_67236_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu80b1d4f6888dd525f2ad41ed1c760cae_67236_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="http://localhost:1313/authors/thomas-harder/" />
 
@@ -319,7 +327,7 @@
     <meta property="twitter:image" content="http://localhost:1313/media/sharing.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-07-10T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2023-03-21T00:00:00&#43;00:00" />
     
   
 
@@ -329,6 +337,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#ffffff",
+          "text": "rgb(255, 255, 255)"
+        },
+        "button": {
+          "background": "rgb(255, 255, 255)",
+          "text": "#ffffff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
   
 
@@ -416,7 +454,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hu7e2d9bf0ba4b7e9ee4485aebd1ab7d7e_2595831_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
     </div>
     
 
@@ -429,16 +467,113 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hu7e2d9bf0ba4b7e9ee4485aebd1ab7d7e_2595831_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_huadcf591365e3e14dbad9136ac9a06bd6_438486_0x70_resize_lanczos_3.png" alt="SynoSys"></a>
     </div>
     
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#creed"><span>Creed</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/science/"><span>Science</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research/"><span>Research</span></a>
+        </li>
+
+        
         
 
         
@@ -495,7 +630,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication/"><span>Publications</span></a>
+          <a class="nav-link " href="/publications/"><span>Publications</span></a>
         </li>
 
         
@@ -563,6 +698,38 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/visualizations/"><span>Visualizations</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.complexity-explorables.org" target="_blank" rel="noopener"><span>Explorables</span></a>
         </li>
 
         
@@ -660,6 +827,10 @@
     <div class="article-widget content-widget-hr">
       <h3>Latest</h3>
       <ul>
+        
+        <li>
+          <a href="/publication/maier-2023-modeling/">Modeling the impact of the Omicron infection wave in Germany</a>
+        </li>
         
         <li>
           <a href="/publication/maier-2022-modeling-the-impact/">Modeling the impact of the Omicron infection wave in Germany</a>

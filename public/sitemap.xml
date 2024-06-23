@@ -14,52 +14,316 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/2/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/angie/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/authors/adrianp/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/fractals/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/human_mobility/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/non-linear-dynamics/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/time-series/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/</loc>
+    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/citizen_science/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/cooperative_phenomena/</loc>
+    <lastmod>2024-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/dirk/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/welcome_synosys/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/3/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/gilbert-2024-citizen/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/corona/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/covid-19/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/giorgio-quer/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/katie-baca-motes/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/marc/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/stephen-gilbert/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/digital_epidemiology/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/evolutionary_dynamics/</loc>
+    <lastmod>2024-02-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/unser_credo/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news_collection/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publications/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/science/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/adrian/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/benjamin/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/clara-jongen/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/frank-schlosser/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/klamser-2024-inferring/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/mobility/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/olga-baranov/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/pascal/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/christopher-t.-monk/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/ecology/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/fish/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/movement/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/monk-2023-rhythm/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/robert-arlinghaus/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/ulf-aslak/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/annika/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/david/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/wiedermann-2023-evidence/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/jakob/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/modell/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/modellierung/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/modelling/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/omicron/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/pandemic/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/antonello-di-nardo/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/klamser-2023-enhancing/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/francesco-di-lauro/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/luca-ferretti/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/manlio-de-domenico/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/matthew-hall/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/sebastiano-bontorin/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/valeria-dandrea/</loc>
+    <lastmod>2023-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/angie/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/frank/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/matthias-an-der-heiden/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/maier-2023-modeling/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/ole-wichmann/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/thomas-harder/</loc>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/a.-holmes/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/a.-myall/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/a.-wei%C3%9Fe/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/a.-zachariae/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/e.-jauneikaite/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/maier-2023-estimating/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/f.-davies/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/hannelore-neuhauser/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/i.-dorigatti/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/j.-price/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/j.-rodgus/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/l.-kreitmann/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/lars-schaade/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/lothar-h.-wieler/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/m.-barahona/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/m.-getino-redondo/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/p.-vasikasin/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/r.-peach/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/myall-2023-reconstructing/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/s.-mookerje/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/y.-wan/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/compliance/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/cornelia-betsch/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/sprengholz-2023-fromdelta/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/organizational-behavior/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/philipp-sprengholz/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/robert-bruckmann/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/social-norms/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/work-safety/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/workplace-behavior/</loc>
+    <lastmod>2022-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/containment/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/covid-19/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/digital-contact-tracing/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/modelling/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/dct-paper/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/non-pharmaceutical-interventions/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/dirk/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/publication/burdinski-2021-tracing/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/sprengholz-2022/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/lecture/</loc>
@@ -95,9 +359,6 @@
     <loc>http://localhost:1313/authors/m-jenny/</loc>
     <lastmod>2022-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/marc/</loc>
-    <lastmod>2022-09-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/role_of_vaccinated/</loc>
     <lastmod>2022-09-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -105,9 +366,6 @@
     <lastmod>2022-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/pandemics/</loc>
-    <lastmod>2022-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/pascal/</loc>
     <lastmod>2022-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/das_neue_berlin/</loc>
@@ -137,22 +395,13 @@
     <loc>http://localhost:1313/tag/video-clip/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication-type/3/</loc>
-    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/authors/a-di-nardo/</loc>
-    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/adrian/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/air-transportation-network/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/computational-epidemiology/</loc>
-    <lastmod>2022-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/corona/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/klamser-2022-enhancing/</loc>
@@ -182,13 +431,7 @@
     <loc>http://localhost:1313/authors/v-dandrea/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/annika/</loc>
-    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/datenspende/</loc>
-    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/david/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/datenspende_blog_incidence/</loc>
@@ -200,34 +443,10 @@
     <loc>http://localhost:1313/authors/robert/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/frank/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/matthias-an-der-heiden/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/publication/maier-2022-modeling-the-impact/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/modell/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/modellierung/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/omicron/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/ole-wichmann/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/omicron/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/pandemic/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/thomas-harder/</loc>
     <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/dirk_re_publica/</loc>
@@ -236,31 +455,43 @@
     <loc>http://localhost:1313/news/lets_talk_change/</loc>
     <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tag/cooperation/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/covid_19/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tag/data-donation-project/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/digital-epidemiology/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/topics/emergence_of_cooperation/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/publication/maier-2022-sero/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/hannelore-neuhauser/</loc>
+    <loc>http://localhost:1313/topics/infectious_disease_dynamics/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/lars-schaade/</loc>
+    <loc>http://localhost:1313/tag/infectious-diseases/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/longcovid/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/lothar-h.-wieler/</loc>
+    <loc>http://localhost:1313/topics/network_science/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/sero_preprint/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/postcovid/</loc>
+    <lastmod>2022-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/topics/data_projects/</loc>
     <lastmod>2022-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/ben/</loc>
@@ -272,25 +503,16 @@
     <loc>http://localhost:1313/publication/wiedermann-2022-long_covid/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/jakob/</loc>
-    <lastmod>2022-04-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/news/long_covid_preprint/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/animal-behavior/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/christopher-t.-monk/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/collective-behavior/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/contact-patterns/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/fish/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/networks/</loc>
@@ -302,13 +524,7 @@
     <loc>http://localhost:1313/publication/aslak-2022-preprint/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/robert-arlinghaus/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tag/temporal-networks/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/ulf-aslak/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/maier-2022-omicron/</loc>
@@ -359,22 +575,13 @@
     <loc>http://localhost:1313/news/dirks_book_out/</loc>
     <lastmod>2021-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/viz-covid-geography/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/hiroki-sayama/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/interactive-visualization/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/olivia/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/project/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/viz-gat/</loc>
+    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tag/interactive-visualization/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/dirk-helbing/</loc>
@@ -388,9 +595,6 @@
   </url><url>
     <loc>http://localhost:1313/project/viz-event-horizon/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/adrianp/</loc>
-    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/paul/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
@@ -491,13 +695,10 @@
     <loc>http://localhost:1313/press/zeitonline_2021_01_21/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tag/mobility/</loc>
-    <lastmod>2021-01-27T19:04:43+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/press/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/old_projects/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/visualizations/</loc>
@@ -505,6 +706,15 @@
   </url><url>
     <loc>http://localhost:1313/press/rbb24_2021_01_15/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/datenspende/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/lockdown_monitor/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/maria/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/press/youtube_2021_01_14/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
@@ -519,6 +729,9 @@
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/schlosser-2020-covid/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/olivia/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/c-krauth/</loc>
@@ -837,9 +1050,6 @@
     <lastmod>2021-01-30T17:31:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/evolution/</loc>
-    <lastmod>2017-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tag/fractals/</loc>
     <lastmod>2017-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tag/growth-processes/</loc>
@@ -1265,9 +1475,11 @@
   </url><url>
     <loc>http://localhost:1313/authors/clara/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/cuba/</loc>
+    <loc>http://localhost:1313/project/contact_mobitor/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/adrianp/experience/</loc>
+    <loc>http://localhost:1313/project/mobility_monitor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/cuba/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/katharina/experience/</loc>
   </url><url>
@@ -1277,22 +1489,26 @@
   </url><url>
     <loc>http://localhost:1313/authors/susi/experience/</loc>
   </url><url>
+    <loc>http://localhost:1313/authors/fransiska/</loc>
+  </url><url>
     <loc>http://localhost:1313/authors/katharina/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/katja/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/maria/</loc>
+    <loc>http://localhost:1313/authors/kristina/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/dirk/experience/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/mowgli/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/adrianp/skills/</loc>
+    <loc>http://localhost:1313/authors/samuel/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/katharina/skills/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/pascal/skills/</loc>
   </url><url>
     <loc>http://localhost:1313/authors/susi/skills/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/thordis/</loc>
   </url>
 </urlset>
