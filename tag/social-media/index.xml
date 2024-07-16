@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social media | SynoSys</title>
+    <link>https://synosys.github.io/tag/social-media/</link>
+      <atom:link href="https://synosys.github.io/tag/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>social media</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>social media</title>
+      <link>https://synosys.github.io/tag/social-media/</link>
+    </image>
+    
+    <item>
+      <title>How behavioural sciences can promote truth, autonomy and democratic discourse online</title>
+      <link>https://synosys.github.io/publication/phillipp-2020-behavioural/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/phillipp-2020-behavioural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

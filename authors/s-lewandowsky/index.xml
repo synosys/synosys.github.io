@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Lewandowsky | SynoSys</title>
+    <link>https://synosys.github.io/authors/s-lewandowsky/</link>
+      <atom:link href="https://synosys.github.io/authors/s-lewandowsky/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Lewandowsky</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>S Lewandowsky</title>
+      <link>https://synosys.github.io/authors/s-lewandowsky/</link>
+    </image>
+    
+    <item>
+      <title>Toolbox of individual-level interventions against online misinformation</title>
+      <link>https://synosys.github.io/publication/phillipp-2024-toolbox/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/phillipp-2024-toolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic review of worldwide causal and correlational evidence on digital media and democracy</title>
+      <link>https://synosys.github.io/publication/phillipp-2022-systematic/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/phillipp-2022-systematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting people’s ability to detect microtargeted advertising</title>
+      <link>https://synosys.github.io/publication/phillipp-2021-boosting/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/phillipp-2021-boosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How behavioural sciences can promote truth, autonomy and democratic discourse online</title>
+      <link>https://synosys.github.io/publication/phillipp-2020-behavioural/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/phillipp-2020-behavioural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
