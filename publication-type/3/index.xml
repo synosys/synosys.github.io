@@ -5,12 +5,20 @@
     <link>https://synosys.github.io/publication-type/3/</link>
       <atom:link href="https://synosys.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Fri, 03 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>3</title>
       <link>https://synosys.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Susceptibility to Online Misinformation: A Systematic Meta-Analysis of Demographic and Psychological Factors</title>
+      <link>https://synosys.github.io/publication/phillipp-2024-susceptibility/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/phillipp-2024-susceptibility/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Citizen data sovereignty is key to wearables and wellness data reuse for the common good</title>
@@ -153,6 +161,14 @@
       <link>https://synosys.github.io/publication/maier-2021-potential/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://synosys.github.io/publication/maier-2021-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling echo chambers and polarization dynamics in social networks</title>
+      <link>https://synosys.github.io/publication/phillipp-2020-echo/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/phillipp-2020-echo/</guid>
       <description></description>
     </item>
     
