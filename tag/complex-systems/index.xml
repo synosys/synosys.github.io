@@ -5,12 +5,21 @@
     <link>https://synosys.github.io/tag/complex-systems/</link>
       <atom:link href="https://synosys.github.io/tag/complex-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>complex systems</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>complex systems</title>
       <link>https://synosys.github.io/tag/complex-systems/</link>
     </image>
+    
+    <item>
+      <title>Complexity Explorables @ Cosmo</title>
+      <link>https://synosys.github.io/project/explorables_at_cosmo/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/project/explorables_at_cosmo/</guid>
+      <description>&lt;p&gt;gront gront gront&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Real-time assessment of motives for sharing and creating content among highly active Twitter users</title>
