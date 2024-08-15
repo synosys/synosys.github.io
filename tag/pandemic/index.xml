@@ -5,12 +5,121 @@
     <link>https://synosys.github.io/tag/pandemic/</link>
       <atom:link href="https://synosys.github.io/tag/pandemic/index.xml" rel="self" type="application/rss+xml" />
     <description>pandemic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>pandemic</title>
       <link>https://synosys.github.io/tag/pandemic/</link>
     </image>
+    
+    <item>
+      <title>Just published: Using smartphones to study vaccination decisions in the wild</title>
+      <link>https://synosys.github.io/news/smartphones_vaccination_paper/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/smartphones_vaccination_paper/</guid>
+      <description>&lt;p&gt;We are pleased to share our latest research findings with the community. Recently, we have developed an innovative method in cooperation with the DTU to study how people make vaccination decisions in everyday life. For this purpose, we used a specially designed smartphone app that captures real interactions and allows us to analyze the impact of these interactions on vaccination decisions.
+Our findings show that people in real decision-making situations rely more heavily on their personal experiences or personal risk assessments than on what they hear or see from others. This method allows us to better understand decision-making behavior in a real-world context.
+We are confident that these new insights will provide valuable input for shaping future vaccination campaigns.&lt;/p&gt;
+&lt;p&gt;You can find the detailed paper here:&lt;/p&gt;
+
+
+
+
+
+
+
+  
+    
+
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+  &lt;a href=&#34;https://synosys.github.io/publication/girardini-2024-understanding/&#34;&gt;Using smartphones to study vaccination decisions in the wild&lt;/a&gt;.&lt;br/&gt;
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+
+
+  &lt;span &gt;
+      N A Girardini&lt;/span&gt;, &lt;span &gt;
+      A Stopczynski&lt;/span&gt;, &lt;span &gt;
+      O Baranov&lt;/span&gt;, &lt;span &gt;
+      C Betsch&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://synosys.github.io/authors/dirk/&#34;&gt;D Brockmann&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      S Lehmann&lt;/span&gt;, &lt;span &gt;
+      R Böhm&lt;/span&gt;
+  &lt;/span&gt;&lt;br/&gt;
+  
+  PLOS Digital Health 3(8): e0000550
+  
+  (2024).
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1371/journal.pdig.0000550&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000550&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    View&lt;/a&gt;
+  
+&lt;/p&gt;
+  
+&lt;/div&gt;
+
+  
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Using smartphones to study vaccination decisions in the wild</title>
+      <link>https://synosys.github.io/publication/girardini-2024-understanding/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/girardini-2024-understanding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics</title>
@@ -62,9 +171,9 @@
     
     <item>
       <title>New Preprint Out: Modeling the impact of the Omicron infection wave in Germany</title>
-      <link>https://synosys.github.io/news/omicron/</link>
+      <link>https://synosys.github.io/old_news/omicron/</link>
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/omicron/</guid>
+      <guid>https://synosys.github.io/old_news/omicron/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;In November 2021, the first case of SARS-CoV-2 “variant of concern” (VOC) B.1.1.529 (“Omicron”) was reported in Germany, alongside global reports of reduced vaccine efficacy against infections with this variant. The potential threat posed by the rapid spread of this variant in Germany remained, at the time, elusive.
 We developed a variant-dependent population-averaged susceptible-exposed-infected-recovered (SEIR) infectious disease model. The model was calibrated on the observed fixation dynamics of the Omicron variant in December 2021, and allowed us to estimate potential courses of upcoming infection waves in Germany, focusing on the corresponding burden on intensive care units (ICUs) and the efficacy of contact reduction strategies. A maximum median incidence of approximately 300 000 (50% PI in 1000: [181,454], 95% PI in 1000: [55,804]) reported cases per day was expected with the median peak occurring in the mid of February 2022, reaching a cumulative Omicron case count of 16.5 million (50% PI in mio: [11.4, 21.3], 95% PI in mio: [4.1, 27.9]) until Apr 1, 2022. These figures were in line with the actual Omicron waves that were subsequently observed in Germany with respective peaks occurring in mid February (peak: 191k daily new cases) and mid March (peak: 230k daily new cases), cumulatively infecting 14.8 million individuals during the study period. The model peak incidence was observed to be highly sensitive to variations in the assumed generation time and decreased with shorter generation time. Low contact reductions were expected to lead to containment. Early, strict, and short contact reductions could have led to a strong “rebound” effect with high incidences after the end of the respective non-pharmaceutical interventions. Higher vaccine uptake would have led to a lower outbreak size. To ensure that ICU occupancy remained below maximum capacity, a relative risk of requiring ICU care of 10%–20% was necessary (after infection with Omicron vs. infection with Delta).
@@ -82,9 +191,9 @@ We expected a large cumulative number of infections with the VOC Omicron in Germ
     
     <item>
       <title>New preprint: Estimating the distribution of COVID-19-susceptible, -recovered, and -vaccinated individuals in Germany up to April 2022</title>
-      <link>https://synosys.github.io/news/sero_preprint/</link>
+      <link>https://synosys.github.io/old_news/sero_preprint/</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/sero_preprint/</guid>
+      <guid>https://synosys.github.io/old_news/sero_preprint/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The preprint is available here:&lt;/strong&gt; &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2022.04.19.22274030v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.medrxiv.org/content/10.1101/2022.04.19.22274030v1&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -99,9 +208,9 @@ We expected a large cumulative number of infections with the VOC Omicron in Germ
     
     <item>
       <title>New preprint: Evidence for positive long- and short-term effects of vaccinations against COVID-19 in wearable sensor metrics -- Insights from the German Corona Data Donation Project</title>
-      <link>https://synosys.github.io/news/long_covid_preprint/</link>
+      <link>https://synosys.github.io/old_news/long_covid_preprint/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/long_covid_preprint/</guid>
+      <guid>https://synosys.github.io/old_news/long_covid_preprint/</guid>
       <description>&lt;p&gt;In this paper we use physiological data collected in the &lt;a href=&#34;https://corona-datenspende.de/science/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;German Data Donation Project (Datenspende)&lt;/a&gt; to investigate the differential impact of vaccination on the effect that a COVID-19 infection has on &lt;strong&gt;resting heart rate&lt;/strong&gt;, &lt;strong&gt;physical activity&lt;/strong&gt; and &lt;strong&gt;sleep&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The preprint is available here:&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2204.02846&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2204.02846&lt;/a&gt;.&lt;/p&gt;
 </description>
