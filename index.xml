@@ -28,6 +28,14 @@
     </item>
     
     <item>
+      <title>Towards an understanding of physical activity-induced post-exertional malaise: Insights into microvascular alterations and immunometabolic interactions in post-COVID condition and myalgic encephalomyelitis/chronic fatigue syndrome</title>
+      <link>https://synosys.github.io/publication/haunhorst-2024-towards/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/haunhorst-2024-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Clonal Interference in Heterogeneous Networks</title>
       <link>https://synosys.github.io/project/clonal_interference/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
@@ -138,7 +146,7 @@ In the seminal paper by &lt;a href=&#34;https://www.science.org/doi/full/10.1126
   Adapted from &lt;a href=&#34;https://www.science.org/doi/full/10.1126/science.1245200&#34;&gt;Brockmann and Helbing&lt;/a&gt;.
 &lt;/figcaption&gt;
 &lt;/figure&gt; 
-&lt;p&gt;In our recent paper&lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011775&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Klamser et al. (2024)&lt;/a&gt; we deepen the connection between the effective distance shortest path tree, spreading dynamics and mobility.
+&lt;p&gt;In our recent paper &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011775&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Klamser et al. (2024)&lt;/a&gt; we deepen the connection between the effective distance shortest path tree, spreading dynamics and mobility.
 We present a way to estimate the passenger flow between any two airports (including those without direct connections) given that we only know the number and maximal capacity of planes (see illustrative example in Fig. 3).
 At the end the method allows us to estimate the number of infected passenger leaving B when we know the number of infected that entered A.
 Thus we know the risk of importation, why it is named &lt;b&gt;import risk method&lt;/b&gt;.&lt;/p&gt;
