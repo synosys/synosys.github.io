@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Getting Started</title>
+	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+	<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="./main.js"></script>	
+  </head>
+  <body class="code pa5">
+	  <div id="all_explorables" class="code mw8 center cf
+	  ">
+	  	<h1>Complexity Explorables</h1>
+	  </div>
+
+
+  	<script type="text/javascript">
+		
+		const ex_names = Object.keys(explorables);
+
+		const sections = d3.select("#all_explorables").selectAll(".explorable").data(ex_names).enter()
+			.append("div").attr("class","explorable")
+		
+		sections.append("h2").text(d=>explorables[d].meta.title)
+		sections.append("h3").text(d=>explorables[d].meta.subtitle)
+		sections.append("p").text(d=>explorables[d].meta.description)
+		sections.append("div").attr("id",d=>d)
+		sections.append("hr")
+
+		ex_names.forEach(x=>{explorables[x].load(x)})
+  	</script>
+  </body>
+</html>

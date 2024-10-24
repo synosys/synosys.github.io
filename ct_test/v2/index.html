@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+  <head>
+	<meta name="generator" content="Hugo 0.123.7">
+    <meta charset="utf-8">
+<title>Complexity Explorables</title>
+
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><link rel="stylesheet" href="/reveal-js/dist/reset.css">
+<link rel="stylesheet" href="/reveal-js/dist/reveal.css"><link rel="stylesheet" href="/reveal-js/dist/theme/serif.css" id="theme">
+<link rel="stylesheet" href="/highlight-js/default.min.css">
+
+
+<script src="js/main.js"></script>
+<style type="text/css">
+    :root {
+        --r-main-font-size: 18px;
+    }
+</style>
+  </head>
+  <body>
+    
+    <div class="reveal">
+      <div class="slides">
+  
+
+    <section><section>
+	
+	
+	<h2 id="the_walking_head_title"></h2>
+	<h3 id="the_walking_head_subtitle"></h3>
+	<div id="the_walking_head_container" data-prevent-swipe></div>
+	<p id="the_walking_head_description"></p>
+	
+	<script type="text/javascript">	
+			
+			var id = "the_walking_head";
+			explorables[id].config.display_class="fl w-50 w-50-ns pa2 ph3-ns";
+			explorables[id].config.controls_class="fl w-50 w-50-ns pa2 ph3-ns";
+			explorables[id].load(id+'_container');
+			document.getElementById(id+"_title").innerHTML = explorables[id].meta.title
+			document.getElementById(id+"_subtitle").innerHTML = explorables[id].meta.subtitle
+			document.getElementById(id+"_description").innerHTML = explorables[id].meta.description
+	</script>
+
+</section>
+</section><section>
+<section>
+	
+	
+	<h2 id="berlin_8_am_title"></h2>
+	<h3 id="berlin_8_am_subtitle"></h3>
+	<div id="berlin_8_am_container" data-prevent-swipe></div>
+	<p id="berlin_8_am_description"></p>
+	
+	<script type="text/javascript">	
+			
+			var id = "berlin_8_am";
+			explorables[id].config.display_class="fl w-50 w-50-ns pa2 ph3-ns";
+			explorables[id].config.controls_class="fl w-50 w-50-ns pa2 ph3-ns";
+			explorables[id].load(id+'_container');
+			document.getElementById(id+"_title").innerHTML = explorables[id].meta.title
+			document.getElementById(id+"_subtitle").innerHTML = explorables[id].meta.subtitle
+			document.getElementById(id+"_description").innerHTML = explorables[id].meta.description
+	</script>
+
+</section>
+</section><section>
+<section>
+	
+	
+	<h2 id="critically_inflammatory_title"></h2>
+	<h3 id="critically_inflammatory_subtitle"></h3>
+	<div id="critically_inflammatory_container" data-prevent-swipe></div>
+	<p id="critically_inflammatory_description"></p>
+	
+	<script type="text/javascript">	
+			
+			var id = "critically_inflammatory";
+			explorables[id].config.display_class="fl w-50 w-50-ns pa2 ph3-ns";
+			explorables[id].config.controls_class="fl w-50 w-50-ns pa2 ph3-ns";
+			explorables[id].load(id+'_container');
+			document.getElementById(id+"_title").innerHTML = explorables[id].meta.title
+			document.getElementById(id+"_subtitle").innerHTML = explorables[id].meta.subtitle
+			document.getElementById(id+"_description").innerHTML = explorables[id].meta.description
+	</script>
+
+</section>
+</section>
+
+  
+
+
+</div>
+      
+
+    </div>
+<script type="text/javascript" src=/reveal-hugo/object-assign.js></script>
+
+
+<script src="/reveal-js/dist/reveal.js"></script>
+
+
+  <script type="text/javascript" src="/reveal-js/plugin/markdown/markdown.js"></script>
+  
+  <script type="text/javascript" src="/reveal-js/plugin/highlight/highlight.js"></script>
+  
+  <script type="text/javascript" src="/reveal-js/plugin/zoom/zoom.js"></script>
+  
+  <script type="text/javascript" src="/reveal-js/plugin/notes/notes.js"></script>
+  
+<script type="text/javascript">
+  
+  
+  function camelize(map) {
+    if (map) {
+      Object.keys(map).forEach(function(k) {
+        newK = k.replace(/(\_\w)/g, function(m) { return m[1].toUpperCase() });
+        if (newK != k) {
+          map[newK] = map[k];
+          delete map[k];
+        }
+      });
+    }
+    return map;
+  }
+
+  var revealHugoDefaults = { center: true, controls: true, history: true, progress: true, transition: "slide" };
+  var revealHugoSiteParams = {"theme":"serif"};
+  var revealHugoPageParams = {};
+
+  var revealHugoPlugins = {
+    
+    plugins: [RevealMarkdown,RevealHighlight,RevealZoom,RevealNotes]
+  };
+
+  
+  var options = Object.assign({},
+    camelize(revealHugoDefaults),
+    camelize(revealHugoSiteParams),
+    camelize(revealHugoPageParams),
+    camelize(revealHugoPlugins));
+
+  Reveal.initialize(options);
+</script>
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+
+
+
+    <script>
+	
+	
+	
+	
+	Reveal.on( 'slidetransitionend', event => {
+		
+		function deleteChild(e) {
+		        let child = e.lastElementChild;
+		        while (child) {
+		            e.removeChild(child);
+		            child = e.lastElementChild;
+		        }
+		    }
+			
+		Object.keys(explorables).forEach(x=>{
+			var cont = document.getElementById(x+'_container');
+			if(cont!=null){
+					deleteChild(cont)
+					explorables[x].halt()
+					explorables[x].load(x+'_container')
+			}
+		})
+	});
+</script>
+    
+  </body>
+</html>
