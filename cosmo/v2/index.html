@@ -128,7 +128,7 @@
   }
 
   var revealHugoDefaults = { center: true, controls: true, history: true, progress: true, transition: "slide" };
-  var revealHugoSiteParams = {"theme":"serif"};
+  var revealHugoSiteParams = {"disablelayout":true,"slide_number":false,"theme":"serif"};
   var revealHugoPageParams = {};
 
   var revealHugoPlugins = {
@@ -166,7 +166,21 @@
     <script>
 	
 	
-	
+	Reveal.initialize({
+	  
+	  
+	  
+	  width: 1200,
+	  height: 1000,
+
+	  
+	  
+	  margin: 0.0,
+
+	  
+	  minScale: 1.0,
+	  maxScale: 1.0,
+	});
 	
 	Reveal.on( 'slidetransitionend', event => {
 		
@@ -187,6 +201,9 @@
 			}
 		})
 	});
+	
+	
+	
 </script>
     
   </body>
