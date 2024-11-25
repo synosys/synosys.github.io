@@ -5,12 +5,20 @@
     <link>https://synosys.github.io/tag/mobility/</link>
       <atom:link href="https://synosys.github.io/tag/mobility/index.xml" rel="self" type="application/rss+xml" />
     <description>mobility</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>mobility</title>
       <link>https://synosys.github.io/tag/mobility/</link>
     </image>
+    
+    <item>
+      <title>Inferring country-specific import risk of diseases from the world air transportation network</title>
+      <link>https://synosys.github.io/publication/klamser-2024-inferring/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/klamser-2024-inferring/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Import Risk</title>
@@ -64,14 +72,6 @@ We were even able to smash everything into one number, which we call the &lt;str
 It revealed that only by combining mobility data with a phylogenetic estimate of the reproduction number, the pandemic potentials of the lineages are correctly
 assessed relative to each other.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Inferring country-specific import risk of diseases from the world air transportation network</title>
-      <link>https://synosys.github.io/publication/klamser-2024-inferring/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/publication/klamser-2024-inferring/</guid>
-      <description></description>
     </item>
     
     <item>
