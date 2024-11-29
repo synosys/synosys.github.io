@@ -28,6 +28,15 @@
     </item>
     
     <item>
+      <title>New Study Reveals Who’s Most Vulnerable to Misinformation—and why</title>
+      <link>https://synosys.github.io/news/misinformation/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/misinformation/</guid>
+      <description>&lt;p&gt;Our junior research group leader Philipp Lorenz-Spreen, whose work focuses on the digital information environment and among other things on misinformation, has co-authored a comprehensive meta-analysis of over 256,000 decisions from thousands of participants that sheds light on who is most susceptible to misinformation and the factors behind it. Their research reveals that susceptibility depends less on formal education and more on individual and contextual factors, such as age, analytical thinking, and political alignment. Older adults and those with strong analytical skills tend to discern truth from falsehood better, though they are also more skeptical, which means they classify more news as false overall. A tendency called “true news bias” emerges when people encounter news aligning with their political beliefs or previously seen content, making them more prone to believe information without scrutiny. These findings offer valuable insights for his further studies of the spreading dynamics of misinformation and the development of interventions that help people to navigate the information environment of the internet. &lt;a href=&#34;https://doi.org/10.1073/pnas.2409329121&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Inferring country-specific import risk of diseases from the world air transportation network</title>
       <link>https://synosys.github.io/publication/klamser-2024-inferring/</link>
       <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
@@ -269,17 +278,14 @@ We are confident that these new insights will provide valuable input for shaping
   &lt;a href=&#34;https://synosys.github.io/publication/girardini-2024-understanding/&#34;&gt;Using smartphones to study vaccination decisions in the wild&lt;/a&gt;.&lt;br /&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
-
-
-
   &lt;span &gt;
-      N A Girardini&lt;/span&gt;, &lt;span &gt;
-      A Stopczynski&lt;/span&gt;, &lt;span &gt;
-      O Baranov&lt;/span&gt;, &lt;span &gt;
-      C Betsch&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://synosys.github.io/authors/dirk/&#34;&gt;D Brockmann&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      S Lehmann&lt;/span&gt;, &lt;span &gt;
-      R Böhm&lt;/span&gt; &lt;/span
+  N A Girardini&lt;/span&gt;, &lt;span &gt;
+  A Stopczynski&lt;/span&gt;, &lt;span &gt;
+  O Baranov&lt;/span&gt;, &lt;span &gt;
+  C Betsch&lt;/span&gt;, &lt;span &gt;
+  &lt;a href=&#34;https://synosys.github.io/authors/dirk/&#34;&gt;D Brockmann&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+  S Lehmann&lt;/span&gt;, &lt;span &gt;
+  R Böhm&lt;/span&gt; &lt;/span
   &gt;&lt;br /&gt;
    PLOS Digital Health 3(8): e0000550
    (2024).
@@ -1083,18 +1089,15 @@ outbreaks of COVID-19 or similar diseases.&lt;/p&gt;
   &lt;a href=&#34;https://synosys.github.io/publication/wild-2020-social/&#34;&gt;Social networks predict the life and death of honey bees&lt;/a&gt;.&lt;br /&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
-
-
-
   &lt;span &gt;
-      B Wild&lt;/span&gt;, &lt;span &gt;
-      D M Dormagen&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://synosys.github.io/authors/adrian/&#34;&gt;A Zachariae&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      M L Smith&lt;/span&gt;, &lt;span &gt;
-      K S Traynor&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://synosys.github.io/authors/dirk/&#34;&gt;D Brockmann&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      I D Couzin&lt;/span&gt;, &lt;span &gt;
-      T Landgraf&lt;/span&gt; &lt;/span
+  B Wild&lt;/span&gt;, &lt;span &gt;
+  D M Dormagen&lt;/span&gt;, &lt;span &gt;
+  &lt;a href=&#34;https://synosys.github.io/authors/adrian/&#34;&gt;A Zachariae&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+  M L Smith&lt;/span&gt;, &lt;span &gt;
+  K S Traynor&lt;/span&gt;, &lt;span &gt;
+  &lt;a href=&#34;https://synosys.github.io/authors/dirk/&#34;&gt;D Brockmann&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+  I D Couzin&lt;/span&gt;, &lt;span &gt;
+  T Landgraf&lt;/span&gt; &lt;/span
   &gt;&lt;br /&gt;
    Nature Communications 12, 1110
    (2021).
