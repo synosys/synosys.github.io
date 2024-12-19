@@ -952,7 +952,7 @@
 
     <div class="article-style">
       <p>Fungi interact in a mycorrhizal symbiosis with plants or are simple decomposers of organic matter.
-In this project we investigate the growth of filamentous fungi by creating and investigating mathematical growth models.
+In this project, we investigate the growth of filamentous fungi by creating and investigating mathematical growth models.
 We cooperate with experimental biologists from the <a href="https://www.aguilar-ecology.com/" target="_blank" rel="noopener">aguilar ecology lab</a> who have a profound knowledge of the growth patterns of different fungal species (see Fig.1).
 In a first <a href="https://academic.oup.com/ismecommun/article/2/1/2/7460968" target="_blank" rel="noopener">network analysis of our collaborators</a>, they identified that some network traits vary most in between species, as for example the meshedness (how different the network is from a fully-connected one without crossing edges).</p>
 <figure>
@@ -961,19 +961,19 @@ In a first <a href="https://academic.oup.com/ismecommun/article/2/1/2/7460968" t
   Figure is adapted from <a href="https://academic.oup.com/ismecommun/article/2/1/2/7460968">Aguilar-Trigueros et al. (2022)</a>.
   </figcaption>
 </figure>
-<p>We approach the problem from a modeling perspective, that means we build an agent based model, which is motivated from real fungi.
-In our model each each agent represents the tip of a hyphen and the tip as well as the whole hyphen release an enzyme.
+<p>We address the problem from a modeling perspective, that means we build an agent-based model, which is motivated from real fungi.
+In our model each agent represents the tip of a hyphen and the tip as well as the whole hyphen release an enzyme.
 This enzyme diffuses though the environment and other tips/agents can sense the local concentration and gradient.
 This is all the information the tip has about its environment, i.e. only local information is allowed.
-New Tips/Agents are created either by an apical branching event, at which one tip splits in two, or by a lateral branching event, where from the lower half of a tip compartment muliple branches grow perpendicular to the local growth direction.
+New Tips/Agents are created either by an apical branching event, at which one tip splits in two, or by a lateral branching event, where from the lower half of a tip compartment multiple branches grow perpendicular to the local growth direction.
 By varying some fundamental parameters of the model as the diffusion coefficient, the enzyme release rate or the number of lateral branches, different shapes can emerge as shown if Fig. 2.</p>
 <figure>
   <img src="./figures/3_mycel_compilation.png" alt="drawing" width="1200"/>
   <figcaption>Fig.2 -
-  Depending on the parameters, the mycelium grows densely (A) or less densely (B, C) if for example the enzyme release rate is increased (B)  or the septation rule is adapted (C). The enzyme in the environment (orange and red background color) inhibit the growth of the mycelium, thus the mycelium is more responsive to its own form (compare A with B). In (A, B) the septation and lateral branching form always two septas and branches at each septation event. In (C) 6 septa and branches are formed during an septation event. While the quadrants 2-4 show the concentration on a variable linear scale (bottom colorbar), the 1st quadrant uses a fixed logarithmic scale (top colorbar) to enable a fair comparison between simulations.
+  Depending on the parameters, the mycelium grows densely (A) or less densely (B, C) if for example the enzyme release rate is increased (B)  or the septation rule is adapted (C). The enzyme in the environment (orange and red background color) inhibits the growth of the mycelium, thus the mycelium is more responsive to its own form (compare A with B). In (A, B) the septation and lateral branching form always two septa and branches at each septation event. In (C) 6 septa and branches are formed during a septation event. While the quadrants 2-4 show the concentration on a variable linear scale (bottom color bar), the 1st quadrant uses a fixed logarithmic scale (top color bar) to enable a fair comparison between simulations.
   </figcaption>
 </figure>
-<p>Our goals are now to reproduce key structural properties of real fungal species with a model as simple as possible, study the statistical properties of the different phases of the model and what task the fungi can perform at each phase best.
+<p>Our goals are now to reproduce key structural properties of real fungal species with a model as simple as possible, study the statistical properties of the different phases of the model and what task the fungi can perform beast at every phase.
 This is exciting, especially because we are able to switch between theory, modelling and experiments.
 The big picture is of course the role of the fungi in the ecosystems in connection with their growth strategies.</p>
 
