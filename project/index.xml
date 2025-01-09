@@ -5,7 +5,7 @@
     <link>https://synosys.github.io/project/</link>
       <atom:link href="https://synosys.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Center Synergy of Systems</copyright><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>Projects</title>
@@ -33,6 +33,19 @@ Spatiotemporal analyses of sleep behavior have great informative value for publi
   &lt;!-- &lt;figcaption&gt; --&gt;
 &lt;!-- &lt;/figcaption&gt; --&gt;
 &lt;!-- &lt;/figure&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Recent Paper Unveils Breakthrough Insights into Fatigue Symptoms in Post-COVID Syndrome and ME/CFS</title>
+      <link>https://synosys.github.io/project/post_covid-syndrome/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/project/post_covid-syndrome/</guid>
+      <description>&lt;p&gt;We are excited to share the results of our recent study, in which we report new insights into Post-exertional Malaise (PEM), a severe condition where physical activity amplifies symptoms in people with Post-COVID Syndrome (PCC) and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).&lt;/p&gt;
+&lt;p&gt;Our study highlights that even everyday activities, such as walking or light exertion, can significantly increase symptoms in affected patients. The root cause is an impaired ability of the body to utilize oxygen efficiently. Normally, cells utilize oxygen for energy production. However, in patients with PCC and ME/CFS, this process is disrupted, causing rapid exhaustion and muscle fatigue.&lt;/p&gt;
+&lt;p&gt;We also found that many patients exhibit ongoing immune activation, as if their bodies are still fighting an infection long after recovery from their COVID-19. This immune response contributes to the impaired oxygen utilization and amplifies fatigue and other symptoms.&lt;/p&gt;
+&lt;p&gt;We are excited because we believe that our findings may open up new pathways for developing effective treatments. Our research suggests that careful management of physical activity, including avoiding overexertion, could be key to preventing symptom flare-ups and to improving daily life for affected patients.&lt;/p&gt;
+&lt;p&gt;We are excited about the potential impact of this study and are confident that it offers hope for those struggling with the long-lasting effects of PCC and ME/CFS. You can read the full paper &lt;a href=&#34;https://link.springer.com/article/10.1007/s15010-024-02386-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -81,6 +94,19 @@ Additionally confirmatory models have been developed which showed performances c
   Fig. 3 - Permutation Feature Importance for the test dataset for the Confirmatory XGBoost Model: Focusing on features that led to a mean increase in model performance (increase in Geometric Mean (GM)). This represents a selection from the complete set of features. Each box displayed on the dashed line in the plot illustrates the range from the first to the third quartile of the GM reduction observed over 100 iterations for each catch22 feature. The median reduction in GM is denoted by the orange line within each box. The whiskers extend to the most extreme GM reduction value that falls within 1.5 times the interquartile range from the edges of the box. Any outliers are represented by dots.
 &lt;/figcaption&gt;
 &lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FEDORA Project Secures Funding to Explore Post-COVID Ecological Dynamics</title>
+      <link>https://synosys.github.io/project/fedora/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/project/fedora/</guid>
+      <description>&lt;p&gt;We are thrilled to announce that our project, “FEDORA - Federated Network Modeling of Ecological Complex Dynamical Patterns in Post-COVID,” has successfully secured funding. This pioneering initiative aims to advance the understanding of how ecological systems are affected by complex dynamical patterns emerging in the aftermath of the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;The FEDORA project will focus on federated network modeling to examine these complex patterns, particularly those related to wearable technology, sleep, as well as persistent symptoms observed post-COVID. Through a collaborative approach, the project will harness cutting-edge data and modeling techniques to reveal new insights into the long-term impacts of COVID-19 on ecological and human health.&lt;/p&gt;
+&lt;p&gt;Our interdisciplinary team will work together to develop groundbreaking models that integrate data from various sources, creating a comprehensive understanding of the interplay between ecological and health dynamics in the post-COVID world. The insights gained from this project will not only contribute to scientific knowledge but also guide future public health strategies and ecological conservation efforts.&lt;/p&gt;
+&lt;p&gt;We look forward to sharing more updates as the project progresses and invite the community to stay tuned for further developments.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;logo-federal.jpg&#34; alt=&#34;FEDORA Project Logo&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
