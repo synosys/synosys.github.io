@@ -5,12 +5,24 @@
     <link>https://synosys.github.io/project/</link>
       <atom:link href="https://synosys.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>Projects</title>
       <link>https://synosys.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>€2.3 Million Funding for SynoSys to Advance Long-COVID Research</title>
+      <link>https://synosys.github.io/project/funding-pc/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/project/funding-pc/</guid>
+      <description>&lt;p&gt;A major milestone for us: We have been awarded €2.3 million in funding from the Federal Ministry of Health (BMG) for the SynoSys.PC project, aimed at advancing the understanding of Long-COVID and advancing patient care.&lt;/p&gt;
+&lt;p&gt;By harnessing high-resolution wearable data and applying methods from network science, data analytics and AI, SynoSys, in collaboration with the University Hospital Jena, seeks to develop innovative approaches and gain significant insights to the underlying mechanisms of Long-Covid and Post-Covid-Condition (PCC).&lt;/p&gt;
+&lt;p&gt;The project builds on one of the largest datasets of its kind, with high-resolution individual time series of wearable data, e.g. heart rate, physical activity and sleep from more than 500,000 participants. Key goals include identifying wearable-based indicators of persistent symptoms and establishing an open competence center to drive the integration of digital technologies into health research and care.&lt;/p&gt;
+&lt;p&gt;This project represents a significant leap toward leveraging digital health tools and smart technologies for public health. SynoSys is proud to be at the forefront of shaping the future of healthcare and we are super excited to start pushing the envelope in this area.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spatiotemporal Organization of Sleep</title>
@@ -33,19 +45,6 @@ Spatiotemporal analyses of sleep behavior have great informative value for publi
   &lt;!-- &lt;figcaption&gt; --&gt;
 &lt;!-- &lt;/figcaption&gt; --&gt;
 &lt;!-- &lt;/figure&gt; --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Our Recent Paper Unveils Breakthrough Insights into Fatigue Symptoms in Post-COVID Syndrome and ME/CFS</title>
-      <link>https://synosys.github.io/project/post_covid-syndrome/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/project/post_covid-syndrome/</guid>
-      <description>&lt;p&gt;We are excited to share the results of our recent study, in which we report new insights into Post-exertional Malaise (PEM), a severe condition where physical activity amplifies symptoms in people with Post-COVID Syndrome (PCC) and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).&lt;/p&gt;
-&lt;p&gt;Our study highlights that even everyday activities, such as walking or light exertion, can significantly increase symptoms in affected patients. The root cause is an impaired ability of the body to utilize oxygen efficiently. Normally, cells utilize oxygen for energy production. However, in patients with PCC and ME/CFS, this process is disrupted, causing rapid exhaustion and muscle fatigue.&lt;/p&gt;
-&lt;p&gt;We also found that many patients exhibit ongoing immune activation, as if their bodies are still fighting an infection long after recovery from their COVID-19. This immune response contributes to the impaired oxygen utilization and amplifies fatigue and other symptoms.&lt;/p&gt;
-&lt;p&gt;We are excited because we believe that our findings may open up new pathways for developing effective treatments. Our research suggests that careful management of physical activity, including avoiding overexertion, could be key to preventing symptom flare-ups and to improving daily life for affected patients.&lt;/p&gt;
-&lt;p&gt;We are excited about the potential impact of this study and are confident that it offers hope for those struggling with the long-lasting effects of PCC and ME/CFS. You can read the full paper &lt;a href=&#34;https://link.springer.com/article/10.1007/s15010-024-02386-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
