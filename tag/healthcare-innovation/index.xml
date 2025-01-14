@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Healthcare Innovation | SynoSys</title>
+    <title>healthcare innovation | SynoSys</title>
     <link>https://synosys.github.io/tag/healthcare-innovation/</link>
       <atom:link href="https://synosys.github.io/tag/healthcare-innovation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Healthcare Innovation</description>
+    <description>healthcare innovation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
-      <title>Healthcare Innovation</title>
+      <title>healthcare innovation</title>
       <link>https://synosys.github.io/tag/healthcare-innovation/</link>
     </image>
     
@@ -33,6 +33,60 @@
 &lt;p&gt;By harnessing high-resolution wearable data and applying methods from network science, data analytics and AI, SynoSys, in collaboration with the University Hospital Jena, seeks to develop innovative approaches and gain significant insights to the underlying mechanisms of Long-Covid and Post-Covid-Condition (PCC).&lt;/p&gt;
 &lt;p&gt;The project builds on one of the largest datasets of its kind, with high-resolution individual time series of wearable data, e.g. heart rate, physical activity and sleep from more than 500,000 participants. Key goals include identifying wearable-based indicators of persistent symptoms and establishing an open competence center to drive the integration of digital technologies into health research and care.&lt;/p&gt;
 &lt;p&gt;This project represents a significant leap toward leveraging digital health tools and smart technologies for public health. SynoSys is proud to be at the forefront of shaping the future of healthcare and we are super excited to start pushing the envelope in this area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We Are Hiring – Join the SynoSys.PC Project Team!</title>
+      <link>https://synosys.github.io/job/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/job/</guid>
+      <description>&lt;p&gt;We are thrilled to announce that SynoSys has been awarded €2.3 million in funding from the Federal Ministry of Health (BMG) for the innovative &lt;strong&gt;SynoSys.PC project&lt;/strong&gt;. This pioneering initiative aims to revolutionize our understanding of Long-COVID and improve patient care through cutting-edge technology and research.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;SynoSys.PC project&lt;/strong&gt; focuses on leveraging high-resolution wearable data, network science, data analytics, and AI to uncover the mechanisms behind Long-COVID and Post-COVID-Condition (PCC). With one of the largest datasets of its kind, including time series data from over 500,000 participants, our goal is to identify wearable-based indicators of persistent symptoms and establish an open competence center for integrating digital technologies into health research and care.&lt;/p&gt;
+&lt;!-- ### Key Highlights:
+
+- **Collaboration with University Hospital Jena**
+- **High-resolution time series data from 500,000+ participants**
+- **Focus on wearable-based indicators for Long-COVID symptoms**
+- **Development of an open competence center for health research** --&gt;
+&lt;h3 id=&#34;vacancies&#34;&gt;Vacancies:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research Associate/PhD Student&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Associate/PostDoc&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Associate for Database Management and Data Curation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Application Deadline:&lt;/strong&gt; January 31:&lt;/p&gt;
+&lt;p&gt;Be part of a team that’s shaping the future of healthcare! Explore our open positions today and join us in driving innovation and improving public health with digital tools and smart technologies. Together, we can make a difference!&lt;/p&gt;
+&lt;p&gt;If you have any questions about the position, please contact us at &lt;a href=&#34;mailto:synosys@tu-dresden.de&#34;&gt;synosys@tu-dresden.de&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- ![SynoSys.PC Project](https://pixabay.com/illustrations/clock-wrist-watch-smartwatch-7708859/) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We Are Hiring – Join the SynoSys.PC Project Team!</title>
+      <link>https://synosys.github.io/news/job_post/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/job_post/</guid>
+      <description>&lt;p&gt;We are thrilled to announce that SynoSys has been awarded €2.3 million in funding from the Federal Ministry of Health (BMG) for the innovative &lt;strong&gt;SynoSys.PC project&lt;/strong&gt;. This pioneering initiative aims to revolutionize our understanding of Long-COVID and improve patient care through cutting-edge technology and research.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;SynoSys.PC project&lt;/strong&gt; focuses on leveraging high-resolution wearable data, network science, data analytics, and AI to uncover the mechanisms behind Long-COVID and Post-COVID-Condition (PCC). With one of the largest datasets of its kind, including time series data from over 500,000 participants, our goal is to identify wearable-based indicators of persistent symptoms and establish an open competence center for integrating digital technologies into health research and care.&lt;/p&gt;
+&lt;!-- ### Key Highlights:
+
+- **Collaboration with University Hospital Jena**
+- **High-resolution time series data from 500,000+ participants**
+- **Focus on wearable-based indicators for Long-COVID symptoms**
+- **Development of an open competence center for health research** --&gt;
+&lt;h3 id=&#34;open-positions&#34;&gt;Open Positions:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research Associate/PhD Student&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Associate/PostDoc&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Associate for Database Management and Data Curation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ### Join Us:
+
+Be part of a team that’s shaping the future of healthcare! Explore our open positions today and join us in driving innovation and improving public health with digital tools and smart technologies. Together, we can make a difference! --&gt;
+&lt;p&gt;&lt;strong&gt;Application Deadline:&lt;/strong&gt; January 31&lt;/p&gt;
+&lt;p&gt;If you have any questions about the position, please contact us at &lt;a href=&#34;mailto:synosys@tu-dresden.de&#34;&gt;synosys@tu-dresden.de&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- ![SynoSys.PC Project](https://pixabay.com/illustrations/clock-wrist-watch-smartwatch-7708859/) --&gt;
 </description>
     </item>
     
