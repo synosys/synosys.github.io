@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seminar | SynoSys</title>
+    <link>https://synosys.github.io/tag/seminar/</link>
+      <atom:link href="https://synosys.github.io/tag/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <description>seminar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>seminar</title>
+      <link>https://synosys.github.io/tag/seminar/</link>
+    </image>
+    
+    <item>
+      <title>Causal Inference in Pandemic Time Series</title>
+      <link>https://synosys.github.io/teaching/intro_css/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/teaching/intro_css/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;#&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Department: Complex Systems / Epidemiology&lt;/p&gt;
+&lt;p&gt;Language: English&lt;/p&gt;
+&lt;p&gt;Termin: TBA&lt;/p&gt;
+&lt;p&gt;Raum: TBA&lt;/p&gt;
+&lt;p&gt;Assessment: Report / Presentation&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;Naturally emerging phenomena, such as the COVID-19 pandemic, cannot be studied in controlled experiments with &amp;ldquo;laboratory&amp;rdquo; settings. This makes it all the more important to investigate the complex relationships between empirically observable variables in order to understand the driving forces.&lt;/p&gt;
+&lt;p&gt;Here, we are interested in the time-lagged linear and nonlinear causal relationships between multiple time series variables originating from the 38 &lt;em&gt;NUTS2&lt;/em&gt; regions of Germany. These variables include environmental drivers such as daily temperature ($W$), mobility indicators like influx mobility ($J$), inner mobility ($J^{in}$), and the contact index ($CX$), as well as the approximated reproduction rate ($A$) of COVID-19.&lt;/p&gt;
+&lt;p&gt;We apply three analytical methods: time-lagged cross-correlation, time-lagged partial cross-correlation, and time-lagged cross-mapping rooted in state space reconstruction.&lt;/p&gt;
+&lt;p&gt;Our results show that on a NUTS2 scale, mobility is consistently influenced by temperature. Moreover, mobility typically precedes changes in the reproduction rate at longer lags, while the reproduction rate tends to influence mobility with shorter time lags. This highlights the need for location-specific analysis when interpreting pandemic dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

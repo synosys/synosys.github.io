@@ -14,14 +14,50 @@
     <loc>https://synosys.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://synosys.github.io/tag/analysis/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/authors/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/authors/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/behavioural-data/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/computational-social-science/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/teaching/stats_model/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/authors/kamil/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/methods/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/teaching/methods_css/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/nlp/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/authors/philipp/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/authors/sami/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/statistics/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tags/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://synosys.github.io/publication-type/2/</loc>
     <lastmod>2024-09-09T13:58:23+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/authors/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/authors/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/authors/christian-puta/</loc>
     <lastmod>2024-09-09T13:58:23+00:00</lastmod>
@@ -64,9 +100,6 @@
   </url><url>
     <loc>https://synosys.github.io/authors/stefan-thurner/</loc>
     <lastmod>2024-08-08T17:31:07+01:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/tags/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/vaccination/</loc>
     <lastmod>2024-08-08T17:31:07+01:00</lastmod>
@@ -165,9 +198,6 @@
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/political-alignment/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/authors/sami/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/social-media/</loc>
@@ -323,6 +353,18 @@
     <loc>https://synosys.github.io/authors/wilhelm-bloch/</loc>
     <lastmod>2024-09-09T13:58:23+00:00</lastmod>
   </url><url>
+    <loc>https://synosys.github.io/authors/adrianp/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/causal-inference/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/teaching/intro_css/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/seminar/</loc>
+    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://synosys.github.io/authors/adrian/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -441,9 +483,6 @@
     <lastmod>2024-01-30T17:31:07+01:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/authors/m-geers/</loc>
-    <lastmod>2024-01-30T17:31:07+01:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/authors/philipp/</loc>
     <lastmod>2024-01-30T17:31:07+01:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/authors/r-c-arslan/</loc>
@@ -568,9 +607,6 @@
   </url><url>
     <loc>https://synosys.github.io/publication/phillipp-2024-evolution/</loc>
     <lastmod>2024-01-30T17:31:07+01:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/authors/adrianp/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/fractals/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
@@ -1039,6 +1075,9 @@
   </url><url>
     <loc>https://synosys.github.io/old_news/long_covid_preprint/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/teaching/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/animal-behavior/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
@@ -1760,9 +1799,6 @@
     <loc>https://synosys.github.io/tag/cancer/</loc>
     <lastmod>2021-01-30T17:31:06+01:00</lastmod>
   </url><url>
-    <loc>https://synosys.github.io/tag/computational-social-science/</loc>
-    <lastmod>2021-01-30T17:31:04+01:00</lastmod>
-  </url><url>
     <loc>https://synosys.github.io/authors/d-helbing/</loc>
     <lastmod>2021-01-30T17:31:06+01:00</lastmod>
   </url><url>
@@ -1928,6 +1964,8 @@
     <loc>https://synosys.github.io/publication/brockmann-2002-levy/</loc>
     <lastmod>2021-01-30T17:30:57+01:00</lastmod>
   </url><url>
+    <loc>https://synosys.github.io/authors/abdullahi/</loc>
+  </url><url>
     <loc>https://synosys.github.io/authors/barbara/</loc>
   </url><url>
     <loc>https://synosys.github.io/categories/</loc>
@@ -1947,8 +1985,6 @@
     <loc>https://synosys.github.io/authors/franziska/</loc>
   </url><url>
     <loc>https://synosys.github.io/authors/isin/</loc>
-  </url><url>
-    <loc>https://synosys.github.io/authors/kamil/</loc>
   </url><url>
     <loc>https://synosys.github.io/authors/katharina/</loc>
   </url><url>
@@ -1971,6 +2007,8 @@
     <loc>https://synosys.github.io/authors/pascal/skills/</loc>
   </url><url>
     <loc>https://synosys.github.io/authors/susi/skills/</loc>
+  </url><url>
+    <loc>https://synosys.github.io/teachings/</loc>
   </url><url>
     <loc>https://synosys.github.io/authors/thordis/</loc>
   </url>

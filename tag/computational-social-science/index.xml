@@ -5,12 +5,55 @@
     <link>https://synosys.github.io/tag/computational-social-science/</link>
       <atom:link href="https://synosys.github.io/tag/computational-social-science/index.xml" rel="self" type="application/rss+xml" />
     <description>computational social science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>computational social science</title>
       <link>https://synosys.github.io/tag/computational-social-science/</link>
     </image>
+    
+    <item>
+      <title>Methods for Computational Social Sciences</title>
+      <link>https://synosys.github.io/teaching/methods_css/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/teaching/methods_css/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48847978502/CourseNode/1743388566773105003/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Time (Lecture) Mondays, 3. DS and 5. DS&lt;/p&gt;
+&lt;p&gt;Location APB/E001&lt;/p&gt;
+&lt;p&gt;Department Computer Science&lt;/p&gt;
+&lt;p&gt;Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
+&lt;p&gt;Language English&lt;/p&gt;
+&lt;p&gt;Assessment oral exam&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;The lecture will introduce you to social science research questions and findings, while the exercise will give you the practical skills to answer social questions yourself using computational tools. The first part focuses on basic techniques of text analysis. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing (NLP), such as sentiment analysis.&lt;/p&gt;
+&lt;p&gt;We will then move on to analyzing the structural factors of online data, from time series to networks and their dynamics. We will also explore how to collect such data from social media and how to conduct online field experiments. We will then have the tools to move on to applied research questions, covering topics such as political polarization, misinformation, public health and human mobility. We will learn what conclusions can and cannot be drawn from these descriptions. Finally, we will go beyond description and learn about causality, simulation models of social systems that allow mechanistic understanding.&lt;/p&gt;
+&lt;p&gt;The last part of the course will focus on NLP again, this time with a focus on deep learning methods such as Large Language Models (LLMs). We will use transformer models to identify complex patterns in the communication of German parties on social media.&lt;/p&gt;
+&lt;p&gt;In summary, this course will provide a toolbox for describing different types of social systems with a focus on textual data, as well as a family of modelling approaches that can go beyond individual-level statistics to describe collective processes.&lt;/p&gt;
+&lt;h3 id=&#34;schedule&#34;&gt;Schedule:&lt;/h3&gt;
+&lt;p&gt;Week 1 What is Computational Social Science?&lt;/p&gt;
+&lt;p&gt;Week 2 Data, types, sources and preparation in R/Python&lt;/p&gt;
+&lt;p&gt;Week 3 Collecting text data&lt;/p&gt;
+&lt;p&gt;Week 4 Identifying sentiment and clusters&lt;/p&gt;
+&lt;p&gt;Week 5 Time series analysis&lt;/p&gt;
+&lt;p&gt;Week 6 Regressions and statistical modeling&lt;/p&gt;
+&lt;p&gt;Week 7 Network science 1&lt;/p&gt;
+&lt;p&gt;Week 8 Network science 2&lt;/p&gt;
+&lt;p&gt;Week 9 Causal inference in observational data&lt;/p&gt;
+&lt;p&gt;Break June 8 - 15&lt;/p&gt;
+&lt;p&gt;Week 10 Agent-based-models&lt;/p&gt;
+&lt;p&gt;Week 11 Topic Modeling with Transformers 1&lt;/p&gt;
+&lt;p&gt;Week 12 Topic Modeling with Transformers 2&lt;/p&gt;
+&lt;p&gt;Week 13 LLMs&lt;/p&gt;
+&lt;p&gt;Week 14 Final session, feedback, Q&amp;amp;A, Discussion&lt;/p&gt;
+&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography:&lt;/h3&gt;
+&lt;p&gt;Llaudet, E., &amp;amp; Imai, K. (2022). Data analysis for social science: A friendly and practical introduction. Princeton University Press.&lt;/p&gt;
+&lt;p&gt;Albert-László Barabási (2015). Network Science. Cambridge University Press (also here: networksciencebook.com)&lt;/p&gt;
+&lt;p&gt;Cunningham, S. (2021). Causal inference: The mixtape. Yale university press.&lt;/p&gt;
+&lt;p&gt;Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., &amp;hellip; &amp;amp; Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.&lt;/p&gt;
+&lt;p&gt;Flache, A., Mäs, M., Feliciani, T., Chattoe-Brown, E., Deffuant, G., Huet, S., &amp;amp; Lorenz, J. (2017). Models of social influence: Towards the next frontiers. Jasss-The journal of artificial societies and social simulation, 20(4), 2.&lt;/p&gt;
+&lt;p&gt;Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., &amp;amp; Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature human behaviour, 7(1), 74-101.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Saving human lives: What complexity science and information systems can contribute</title>
