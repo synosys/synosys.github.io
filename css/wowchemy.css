@@ -9783,3 +9783,20 @@ a:focus {
 footer {
   margin: 1rem 0 0 !important;
   width: 100%; }
+
+/* Change background color on hover for dropdown items */
+/* Entire dropdown menu background */
+.navbar-nav .dropdown-menu {
+  background-color: #00008c !important;
+  border: none !important;
+  /* optional: removes border */ }
+
+/* Individual items inside the dropdown */
+.navbar-nav .dropdown-menu .dropdown-item {
+  background-color: #00008c !important;
+  color: white !important; }
+
+/* Hover effect for each item */
+.navbar-nav .dropdown-menu .dropdown-item:hover {
+  background-color: #00008c !important;
+  color: white !important; }
