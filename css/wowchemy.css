@@ -9800,3 +9800,8 @@ footer {
 .navbar-nav .dropdown-menu .dropdown-item:hover {
   background-color: #00008c !important;
   color: white !important; }
+
+b,
+strong {
+  font-weight: bold;
+  font-size: medium; }
