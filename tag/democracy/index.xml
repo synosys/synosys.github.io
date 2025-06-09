@@ -1,12 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Democracy | SynoSys</title><link>https://synosys.github.io/tag/democracy/</link><atom:link href="https://synosys.github.io/tag/democracy/index.xml" rel="self" type="application/rss+xml"/><description>Democracy</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://synosys.github.io/media/sharing.png</url><title>Democracy</title><link>https://synosys.github.io/tag/democracy/</link></image><item><title>What a blast! Philipp Lorenz-Spreen at re:publica 2025</title><link>https://synosys.github.io/news/republica-2025/</link><pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/republica-2025/</guid><description>&lt;p>On Wednesday, our colleague Philipp Lorenz-Spreen took the stage at &lt;strong>re:publica 2025&lt;/strong> to address one of the most pressing questions of our digital era:&lt;/p>
-&lt;p>&lt;strong>“Gesellschaftliche Kipppunkte: Die Spirale aus Aufmerksamkeit und Plattformmacht und wie wir da noch rauskommen”&lt;/strong>&lt;br>
-(&lt;em>“Societal Tipping Points: The Spiral of Attention and Platform Power – and How We Might Escape It”&lt;/em>)&lt;/p>
-&lt;p>In his talk, he explored how notifications, newsfeeds, and social platforms constantly demand our attention – and how this attention has become a source of power with far-reaching political consequences. Moving from everyday habits to systemic impacts, he examined how platform dynamics influence democratic discourse and what needs to change for us to regain agency and foster a healthier public debate.&lt;/p>
-&lt;p>His session sparked thoughtful discussions around the architecture of digital platforms, the challenges of measurements in social sciences, and the urgent need for alternative models that empower users rather than exploit their attention.&lt;/p>
-&lt;p>We’re proud to see our research contributing to this important conversation. Thank you to the re:publica community for the energy, engagement, and inspiration!&lt;/p>
-&lt;p>📺 &lt;strong>Full talk available online&lt;/strong>: &lt;a href="https://youtu.be/7j4QIayjAaY" target="_blank" rel="noopener">Watch here&lt;/a>&lt;/p></description></item><item><title>New replication study examines the influence of digital media on democracy</title><link>https://synosys.github.io/news/replication/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/replication/</guid><description>&lt;p>© [AI] ChatGPT / MPG adapted from the &lt;a href="https://www.mpg.de/24519906/digital-media-a-threat-to-democracy" target="_blank" rel="noopener">press release&lt;/a>&lt;/p>
-&lt;p>The research team systematically replicated the methodology of the original study and used an updated dataset with studies up to March 2024. The results confirm the findings of the original study: Digital media have many problematic effects on democratic processes, in addition to positive ones. On the one hand, they promote political participation and facilitate access to information. On the other hand, they increase polarization, mistrust in institutions, and populist movements.&lt;/p>
-&lt;p>A recent research paper by the Institute for Replication (I4R) analyzes and reviews the results of the 2023 study, ‘A Systematic Review of Worldwide Causal and Correlational Evidence on Digital Media and Democracy,’ by Lorenz-Spreen et al. The replication study, conducted by researchers from Tongji University, the University of Cambridge, and Duke University, confirms the original findings on the relationships between digital media and democracy.&lt;/p>
-&lt;p>“The replication study supports our findings, and the worrying trends continue,” explains Philipp Lorenz-Spreen, research group leader for Computational Social Science at TU Dresden and research scientist at the Max Planck Institute for Human Development (MPIB) in Berlin. He and Lisa Oswald – both working at the Center for Adaptive Rationality – led the 2023 study. Postdoctoral researcher Lisa Oswald underscores the significance of these findings. “The correlative evidence is mounting that digital media can negatively influence political processes – we see increased polarization, rising mistrust in democratic institutions and media, and a proliferation of misinformation.”&lt;/p>
-&lt;p>Replication study: &lt;a href="https://ideas.repec.org/p/zbw/i4rdps/206.html" target="_blank" rel="noopener">https://ideas.repec.org/p/zbw/i4rdps/206.html&lt;/a>&lt;/p>
-&lt;p>Original study: &lt;a href="https://www.nature.com/articles/s41562-022-01460-1" target="_blank" rel="noopener">https://www.nature.com/articles/s41562-022-01460-1&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Democracy | SynoSys</title>
+    <link>https://synosys.github.io/tag/democracy/</link>
+      <atom:link href="https://synosys.github.io/tag/democracy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Democracy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>Democracy</title>
+      <link>https://synosys.github.io/tag/democracy/</link>
+    </image>
+    
+    <item>
+      <title>What a blast! Philipp Lorenz-Spreen at re:publica 2025</title>
+      <link>https://synosys.github.io/news/republica-2025/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/republica-2025/</guid>
+      <description>&lt;p&gt;On Wednesday, our colleague Philipp Lorenz-Spreen took the stage at &lt;strong&gt;re:publica 2025&lt;/strong&gt; to address one of the most pressing questions of our digital era:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“Gesellschaftliche Kipppunkte: Die Spirale aus Aufmerksamkeit und Plattformmacht und wie wir da noch rauskommen”&lt;/strong&gt;&lt;br&gt;
+(&lt;em&gt;“Societal Tipping Points: The Spiral of Attention and Platform Power – and How We Might Escape It”&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;In his talk, he explored how notifications, newsfeeds, and social platforms constantly demand our attention – and how this attention has become a source of power with far-reaching political consequences. Moving from everyday habits to systemic impacts, he examined how platform dynamics influence democratic discourse and what needs to change for us to regain agency and foster a healthier public debate.&lt;/p&gt;
+&lt;p&gt;His session sparked thoughtful discussions around the architecture of digital platforms, the challenges of measurements in social sciences, and the urgent need for alternative models that empower users rather than exploit their attention.&lt;/p&gt;
+&lt;p&gt;We’re proud to see our research contributing to this important conversation. Thank you to the re:publica community for the energy, engagement, and inspiration!&lt;/p&gt;
+&lt;p&gt;📺 &lt;strong&gt;Full talk available online&lt;/strong&gt;: &lt;a href=&#34;https://youtu.be/7j4QIayjAaY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New replication study examines the influence of digital media on democracy</title>
+      <link>https://synosys.github.io/news/replication/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/replication/</guid>
+      <description>&lt;p&gt;© [AI] ChatGPT / MPG adapted from the &lt;a href=&#34;https://www.mpg.de/24519906/digital-media-a-threat-to-democracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;press release&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The research team systematically replicated the methodology of the original study and used an updated dataset with studies up to March 2024. The results confirm the findings of the original study: Digital media have many problematic effects on democratic processes, in addition to positive ones. On the one hand, they promote political participation and facilitate access to information. On the other hand, they increase polarization, mistrust in institutions, and populist movements.&lt;/p&gt;
+&lt;p&gt;A recent research paper by the Institute for Replication (I4R) analyzes and reviews the results of the 2023 study, ‘A Systematic Review of Worldwide Causal and Correlational Evidence on Digital Media and Democracy,’ by Lorenz-Spreen et al. The replication study, conducted by researchers from Tongji University, the University of Cambridge, and Duke University, confirms the original findings on the relationships between digital media and democracy.&lt;/p&gt;
+&lt;p&gt;“The replication study supports our findings, and the worrying trends continue,” explains Philipp Lorenz-Spreen, research group leader for Computational Social Science at TU Dresden and research scientist at the Max Planck Institute for Human Development (MPIB) in Berlin. He and Lisa Oswald – both working at the Center for Adaptive Rationality – led the 2023 study. Postdoctoral researcher Lisa Oswald underscores the significance of these findings. “The correlative evidence is mounting that digital media can negatively influence political processes – we see increased polarization, rising mistrust in democratic institutions and media, and a proliferation of misinformation.”&lt;/p&gt;
+&lt;p&gt;Replication study: &lt;a href=&#34;https://ideas.repec.org/p/zbw/i4rdps/206.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ideas.repec.org/p/zbw/i4rdps/206.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Original study: &lt;a href=&#34;https://www.nature.com/articles/s41562-022-01460-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/s41562-022-01460-1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Adrian Pelcaru | SynoSys</title><link>https://synosys.github.io/authors/adrianp/</link><atom:link href="https://synosys.github.io/authors/adrianp/index.xml" rel="self" type="application/rss+xml"/><description>Adrian Pelcaru</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate><image><url>https://synosys.github.io/authors/adrianp/avatar_huf3a73697990a8d484a6c715623fa96ab_2200593_270x270_fill_q75_lanczos_center.jpg</url><title>Adrian Pelcaru</title><link>https://synosys.github.io/authors/adrianp/</link></image><item><title>Human Mobility</title><link>https://synosys.github.io/topics/human_mobility/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/topics/human_mobility/</guid><description>&lt;div align="justify">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrian Pelcaru | SynoSys</title>
+    <link>https://synosys.github.io/authors/adrianp/</link>
+      <atom:link href="https://synosys.github.io/authors/adrianp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adrian Pelcaru</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/authors/adrianp/avatar_huf3a73697990a8d484a6c715623fa96ab_2200593_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Adrian Pelcaru</title>
+      <link>https://synosys.github.io/authors/adrianp/</link>
+    </image>
+    
+    <item>
+      <title>Human Mobility</title>
+      <link>https://synosys.github.io/topics/human_mobility/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/topics/human_mobility/</guid>
+      <description>&lt;div align=&#34;justify&#34;&gt;
 From daily commutes and travel behaviors to the migration of populations on a global scale, human mobility encompasses a vast array of phenomena with profound societal implications. By leveraging innovative data sources such as GPS traces, mobile phone records, and social media check-ins, we gain unprecedented insights into the factors driving human movement patterns. Understanding human mobility is not only essential for urban planning, transportation management, and public health but also sheds light on broader societal trends, including the spread of infectious diseases, urbanization, and social inequalities. Through interdisciplinary collaboration and advanced analytical techniques, we strive to uncover the underlying mechanisms shaping human mobility and its impact on our interconnected world. Join us on a journey to unravel the complexities of human mobility and harness its potential to address pressing challenges and shape the future of our societies.
-&lt;/div></description></item><item><title>The ROCS-Team welcomes new members!</title><link>https://synosys.github.io/old_news/welcome_new_members/</link><pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate><guid>https://synosys.github.io/old_news/welcome_new_members/</guid><description>&lt;p>Our team keeps growing!&lt;/p>
-&lt;p>We warmly welcome:&lt;/p>
-&lt;ul>
-&lt;li>Adrian Pelcaru&lt;/li>
-&lt;li>Paul Buttkus&lt;/li>
-&lt;li>Tashin Talbot&lt;/li>
-&lt;li>Marc Wiedemann&lt;/li>
-&lt;li>Jakob Kolb&lt;/li>
-&lt;/ul>
-&lt;p>We are very happy that they are on board. Welcome!&lt;/p></description></item></channel></rss>
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>The ROCS-Team welcomes new members!</title>
+      <link>https://synosys.github.io/old_news/welcome_new_members/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/old_news/welcome_new_members/</guid>
+      <description>&lt;p&gt;Our team keeps growing!&lt;/p&gt;
+&lt;p&gt;We warmly welcome:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adrian Pelcaru&lt;/li&gt;
+&lt;li&gt;Paul Buttkus&lt;/li&gt;
+&lt;li&gt;Tashin Talbot&lt;/li&gt;
+&lt;li&gt;Marc Wiedemann&lt;/li&gt;
+&lt;li&gt;Jakob Kolb&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are very happy that they are on board. Welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

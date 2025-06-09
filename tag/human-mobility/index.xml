@@ -1,10 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>human mobility | SynoSys</title><link>https://synosys.github.io/tag/human-mobility/</link><atom:link href="https://synosys.github.io/tag/human-mobility/index.xml" rel="self" type="application/rss+xml"/><description>human mobility</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate><image><url>https://synosys.github.io/media/sharing.png</url><title>human mobility</title><link>https://synosys.github.io/tag/human-mobility/</link></image><item><title>Biases in human mobility data impact epidemic modeling</title><link>https://synosys.github.io/publication/schlosser-2021-bias/</link><pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/schlosser-2021-bias/</guid><description/></item><item><title>Finding disease outbreak locations from human mobility data</title><link>https://synosys.github.io/publication/schlosser-2021-finding/</link><pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/schlosser-2021-finding/</guid><description/></item><item><title>New paper out: Finding disease outbreak locations from human mobility data</title><link>https://synosys.github.io/old_news/outbreak_detection/</link><pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate><guid>https://synosys.github.io/old_news/outbreak_detection/</guid><description>&lt;p>In this paper we investigated how much information on individual mobility patterns is required
-to reconstruct the origin of an outbreak from spatially distributed cases.&lt;/p>
-&lt;p>It turns out: not so much.&lt;/p>
-&lt;p>The paper is available &lt;a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00306-6#citeas" target="_blank" rel="noopener">&lt;strong>here&lt;/strong>&lt;/a>.&lt;/p>
-&lt;p>&lt;strong>Here&amp;rsquo;s the abstract:&lt;/strong>&lt;/p>
-&lt;hr>
-&lt;p>Finding the origin location of an infectious disease outbreak quickly is crucial in
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>human mobility | SynoSys</title>
+    <link>https://synosys.github.io/tag/human-mobility/</link>
+      <atom:link href="https://synosys.github.io/tag/human-mobility/index.xml" rel="self" type="application/rss+xml" />
+    <description>human mobility</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>human mobility</title>
+      <link>https://synosys.github.io/tag/human-mobility/</link>
+    </image>
+    
+    <item>
+      <title>Biases in human mobility data impact epidemic modeling</title>
+      <link>https://synosys.github.io/publication/schlosser-2021-bias/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/schlosser-2021-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding disease outbreak locations from human mobility data</title>
+      <link>https://synosys.github.io/publication/schlosser-2021-finding/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/schlosser-2021-finding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper out: Finding disease outbreak locations from human mobility data</title>
+      <link>https://synosys.github.io/old_news/outbreak_detection/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/old_news/outbreak_detection/</guid>
+      <description>&lt;p&gt;In this paper we investigated how much information on individual mobility patterns is required
+to reconstruct the origin of an outbreak from spatially distributed cases.&lt;/p&gt;
+&lt;p&gt;It turns out: not so much.&lt;/p&gt;
+&lt;p&gt;The paper is available &lt;a href=&#34;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00306-6#citeas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here&amp;rsquo;s the abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Finding the origin location of an infectious disease outbreak quickly is crucial in
 mitigating its further dissemination. Current methods to identify outbreak locations
 early on rely on interviewing affected individuals and correlating their movements,
 which is a manual, time-consuming, and error-prone process. Other methods such as
@@ -24,5 +59,106 @@ method is the first to offer a reliable, accurate out-of-the-box approach to ide
 outbreak locations in the initial phase of an outbreak. It can be easily and quickly
 applied in a crisis situation, improving on previous manual approaches. The method is
 not only applicable in the context of disease outbreaks, but can be used to find
-shared locations in movement data in other contexts as well.&lt;/p>
-&lt;hr></description></item><item><title>COVID-19 lockdown induces disease-mitigating structural changes in mobility networks</title><link>https://synosys.github.io/publication/schlosser-2020-covid/</link><pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/schlosser-2020-covid/</guid><description/></item><item><title>Human mobility, networks and disease dynamics on a global scale</title><link>https://synosys.github.io/publication/brockmann-2018-human/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/brockmann-2018-human/</guid><description/></item><item><title>A complex network perspective for characterizing urban travel demand patterns: graph theoretical analysis of large-scale origin--destination demand networks</title><link>https://synosys.github.io/publication/saberi-2017-complex/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/saberi-2017-complex/</guid><description/></item><item><title>Effective distances for epidemics spreading on complex networks</title><link>https://synosys.github.io/publication/iannelli-2017-effective/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/iannelli-2017-effective/</guid><description/></item><item><title>Understanding and predicting the global spread of emergent infectious diseases</title><link>https://synosys.github.io/publication/brockmann-2014-understanding/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/brockmann-2014-understanding/</guid><description/></item><item><title>Unifying viral genetics and human transportation data to predict the global transmission dynamics of human influenza H3N2</title><link>https://synosys.github.io/publication/lemey-2014-unifying/</link><pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/lemey-2014-unifying/</guid><description/></item><item><title>The hidden geometry of complex, network-driven contagion phenomena</title><link>https://synosys.github.io/publication/brockmann-2013-hidden/</link><pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/brockmann-2013-hidden/</guid><description/></item><item><title>Natural human mobility patterns and spatial spread of infectious diseases</title><link>https://synosys.github.io/publication/belik-2011-natural/</link><pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/belik-2011-natural/</guid><description/></item><item><title>The structure of borders in a small world</title><link>https://synosys.github.io/publication/thiemann-2010-structure/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/thiemann-2010-structure/</guid><description/></item><item><title>Human mobility and spatial disease dynamics</title><link>https://synosys.github.io/publication/brockmann-2009-human/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/brockmann-2009-human/</guid><description/></item><item><title>The scaling laws of human travel</title><link>https://synosys.github.io/publication/brockmann-2006-scaling/</link><pubDate>Thu, 26 Jan 2006 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/brockmann-2006-scaling/</guid><description/></item><item><title>Forecast and control of epidemics in a globalized world</title><link>https://synosys.github.io/publication/hufnagel-2004-forecast/</link><pubDate>Tue, 19 Oct 2004 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/hufnagel-2004-forecast/</guid><description/></item></channel></rss>
+shared locations in movement data in other contexts as well.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 lockdown induces disease-mitigating structural changes in mobility networks</title>
+      <link>https://synosys.github.io/publication/schlosser-2020-covid/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/schlosser-2020-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human mobility, networks and disease dynamics on a global scale</title>
+      <link>https://synosys.github.io/publication/brockmann-2018-human/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/brockmann-2018-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A complex network perspective for characterizing urban travel demand patterns: graph theoretical analysis of large-scale origin--destination demand networks</title>
+      <link>https://synosys.github.io/publication/saberi-2017-complex/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/saberi-2017-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective distances for epidemics spreading on complex networks</title>
+      <link>https://synosys.github.io/publication/iannelli-2017-effective/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/iannelli-2017-effective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and predicting the global spread of emergent infectious diseases</title>
+      <link>https://synosys.github.io/publication/brockmann-2014-understanding/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/brockmann-2014-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unifying viral genetics and human transportation data to predict the global transmission dynamics of human influenza H3N2</title>
+      <link>https://synosys.github.io/publication/lemey-2014-unifying/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/lemey-2014-unifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The hidden geometry of complex, network-driven contagion phenomena</title>
+      <link>https://synosys.github.io/publication/brockmann-2013-hidden/</link>
+      <pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/brockmann-2013-hidden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural human mobility patterns and spatial spread of infectious diseases</title>
+      <link>https://synosys.github.io/publication/belik-2011-natural/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/belik-2011-natural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of borders in a small world</title>
+      <link>https://synosys.github.io/publication/thiemann-2010-structure/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/thiemann-2010-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human mobility and spatial disease dynamics</title>
+      <link>https://synosys.github.io/publication/brockmann-2009-human/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/brockmann-2009-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The scaling laws of human travel</title>
+      <link>https://synosys.github.io/publication/brockmann-2006-scaling/</link>
+      <pubDate>Thu, 26 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/brockmann-2006-scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast and control of epidemics in a globalized world</title>
+      <link>https://synosys.github.io/publication/hufnagel-2004-forecast/</link>
+      <pubDate>Tue, 19 Oct 2004 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/hufnagel-2004-forecast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
