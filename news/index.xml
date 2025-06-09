@@ -1,282 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>News | SynoSys</title>
-    <link>https://synosys.github.io/news/</link>
-      <atom:link href="https://synosys.github.io/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://synosys.github.io/media/sharing.png</url>
-      <title>News</title>
-      <link>https://synosys.github.io/news/</link>
-    </image>
-    
-    <item>
-      <title>What a blast! Philipp Lorenz-Spreen at re:publica 2025</title>
-      <link>https://synosys.github.io/news/republica-2025/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/republica-2025/</guid>
-      <description>&lt;p&gt;On Wednesday, our colleague Philipp Lorenz-Spreen took the stage at &lt;strong&gt;re:publica 2025&lt;/strong&gt; to address one of the most pressing questions of our digital era:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;“Gesellschaftliche Kipppunkte: Die Spirale aus Aufmerksamkeit und Plattformmacht und wie wir da noch rauskommen”&lt;/strong&gt;&lt;br&gt;
-(&lt;em&gt;“Societal Tipping Points: The Spiral of Attention and Platform Power – and How We Might Escape It”&lt;/em&gt;)&lt;/p&gt;
-&lt;p&gt;In his talk, he explored how notifications, newsfeeds, and social platforms constantly demand our attention – and how this attention has become a source of power with far-reaching political consequences. Moving from everyday habits to systemic impacts, he examined how platform dynamics influence democratic discourse and what needs to change for us to regain agency and foster a healthier public debate.&lt;/p&gt;
-&lt;p&gt;His session sparked thoughtful discussions around the architecture of digital platforms, the challenges of measurements in social sciences, and the urgent need for alternative models that empower users rather than exploit their attention.&lt;/p&gt;
-&lt;p&gt;We’re proud to see our research contributing to this important conversation. Thank you to the re:publica community for the energy, engagement, and inspiration!&lt;/p&gt;
-&lt;p&gt;📺 &lt;strong&gt;Full talk available online&lt;/strong&gt;: &lt;a href=&#34;https://youtu.be/7j4QIayjAaY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New replication study examines the influence of digital media on democracy</title>
-      <link>https://synosys.github.io/news/replication/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/replication/</guid>
-      <description>&lt;p&gt;© [AI] ChatGPT / MPG adapted from the &lt;a href=&#34;https://www.mpg.de/24519906/digital-media-a-threat-to-democracy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;press release&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The research team systematically replicated the methodology of the original study and used an updated dataset with studies up to March 2024. The results confirm the findings of the original study: Digital media have many problematic effects on democratic processes, in addition to positive ones. On the one hand, they promote political participation and facilitate access to information. On the other hand, they increase polarization, mistrust in institutions, and populist movements.&lt;/p&gt;
-&lt;p&gt;A recent research paper by the Institute for Replication (I4R) analyzes and reviews the results of the 2023 study, ‘A Systematic Review of Worldwide Causal and Correlational Evidence on Digital Media and Democracy,’ by Lorenz-Spreen et al. The replication study, conducted by researchers from Tongji University, the University of Cambridge, and Duke University, confirms the original findings on the relationships between digital media and democracy.&lt;/p&gt;
-&lt;p&gt;“The replication study supports our findings, and the worrying trends continue,” explains Philipp Lorenz-Spreen, research group leader for Computational Social Science at TU Dresden and research scientist at the Max Planck Institute for Human Development (MPIB) in Berlin. He and Lisa Oswald – both working at the Center for Adaptive Rationality – led the 2023 study. Postdoctoral researcher Lisa Oswald underscores the significance of these findings. “The correlative evidence is mounting that digital media can negatively influence political processes – we see increased polarization, rising mistrust in democratic institutions and media, and a proliferation of misinformation.”&lt;/p&gt;
-&lt;p&gt;Replication study: &lt;a href=&#34;https://ideas.repec.org/p/zbw/i4rdps/206.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ideas.repec.org/p/zbw/i4rdps/206.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Original study: &lt;a href=&#34;https://www.nature.com/articles/s41562-022-01460-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/s41562-022-01460-1&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>€2.3 Million Funding for SynoSys to Advance Long-COVID Research</title>
-      <link>https://synosys.github.io/news/funding/</link>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/funding/</guid>
-      <description>&lt;p&gt;A major milestone for us: We have been awarded €2.3 million in funding from the Federal Ministry of Health (BMG) for the SynoSys.PC project, aimed at advancing the understanding of Long-COVID and advancing patient care.&lt;/p&gt;
-&lt;p&gt;By harnessing high-resolution wearable data and applying methods from network science, data analytics and AI, SynoSys, in collaboration with the University Hospital Jena, seeks to develop innovative approaches and gain significant insights to the underlying mechanisms of Long-Covid and Post-Covid-Condition (PCC).&lt;/p&gt;
-&lt;p&gt;The project builds on one of the largest datasets of its kind, with high-resolution individual time series of wearable data, e.g. heart rate, physical activity and sleep from more than 500,000 participants. Key goals include identifying wearable-based indicators of persistent symptoms and establishing an open competence center to drive the integration of digital technologies into health research and care.&lt;/p&gt;
-&lt;p&gt;This project represents a significant leap toward leveraging digital health tools and smart technologies for public health. SynoSys is proud to be at the forefront of shaping the future of healthcare and we are super excited to start pushing the envelope in this area.
-&lt;img src=&#34;bmg-logo-funding.jpg&#34; alt=&#34;BMG funding logo&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breaking Boundaries: Prof. Brockmann’s Vision for Complexity Research</title>
-      <link>https://synosys.github.io/news/breaking_boundaries/</link>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/breaking_boundaries/</guid>
-      <description>&lt;p&gt;On February 6, 2025, Professor Dirk Brockmann, head of our Center Synergy of Systems, delivered his university-wide inaugural lecture at TU Dresden, attracting over 100 attendees from various disciplines.&lt;/p&gt;
-&lt;p&gt;Under the intriguing title &amp;ldquo;Doing Science Like a Fungus – Complexity Research in the 21st Century&amp;rdquo;, Dirk Brockmann provided fascinating insights into complex systems and the hidden rules that govern social and natural phenomena. He emphasized the importance of interdisciplinary research, combining methods from physics, biology, and social sciences to better understand and address pressing global challenges. &lt;img src=&#34;featured2.JPG&#34; alt=&#34;Brockman-with Audience&#34;&gt;&lt;/p&gt;
-&lt;p&gt;One particularly interesting aspect of his lecture was his discussion on the connection between science and magic. He explained that when people witness something they perceive as magical—something they believed to be impossible—it sharpens their senses and heightens their awareness. This, he argued, is precisely what scientists must do in their research: approach the unknown with a sense of wonder, question assumptions, and stay open to unexpected discoveries. Just as magic challenges our understanding of reality, scientific breakthroughs emerge when we push beyond the boundaries of what we think we know. Doing science with a compass rather than a map.
-&lt;img src=&#34;featured3.JPG&#34; alt=&#34;Brockman-with Audience&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The event, held at the Fritz-Foerster-Bau of TU Dresden, provided an engaging platform for discussions, followed by a lively Q&amp;amp;A session and networking opportunity.
-Prof. Brockmann’s inspiring lecture set the tone for his future work at SynoSys, demonstrating how complexity science can drive impactful research and innovative solutions.&lt;/p&gt;
-&lt;p&gt;For those who missed the event, the full lecture is available online: &lt;a href=&#34;https://www.youtube.com/watch?v=iwMYuq4np6Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Do Alice Weidel and the AfD benefit from Musk&#39;s attention on X?</title>
-      <link>https://synosys.github.io/news/x-election/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/x-election/</guid>
-      <description>&lt;p&gt;Has Elon Musk manipulated X to give the AfD more reach? He has made it clear in posts, articles and election events that he is a fan - and at the same time, Alice Weidel’s reach on X has increased significantly. Could these developments be linked? This blog post describes a data analysis in which we take a closer look at which accounts have received how much reach and whether Musk’s influence can be determined. Where does the sudden increase in Weidel’s reach on X come from?&lt;/p&gt;
-&lt;p&gt;Note: This work has not yet been peer reviewed.&lt;/p&gt;
-&lt;p&gt;In recent weeks, there has been a lot of fuss about Elon Musk’s possible influence in favour of the AfD. First, on 20 December, he wrote on his platform X (formerly Twitter) that only the AfD can save Germany. On 28 December, Die Welt published a guest article by Musk in which he expressed the same position. Finally, on 9 January, he held a public conversation on X with the AfD candidate Alice Weidel.&lt;/p&gt;
-&lt;p&gt;As already reported in one place or another, Weidel gained a lot of reach on X. The German parliamentary administration then announced that it would investigate whether Musk is influencing the election campaign. At the same time, the EU Commission is demanding insight into possible changes to X’s recommendation algorithms. This article analyses the possible impact of Musk’s activities on the reach of the AfD and Weidel in particular on social media.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Do Community Notes have a party preference?</title>
-      <link>https://synosys.github.io/news/community_notes/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/community_notes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Community notes are supposed to curb disinformation on X - but they themselves follow political patterns. A new data analysis shows that Green Party posts are particularly criticised, but their notes are hardly considered helpful. At the same time, there is no clear political trend in the notes that are actually published. Why is this the case? The article analyses patterns in the distribution and rating of the notes and sheds light on the dynamics that can be derived from the data.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note: This work has not yet been peer reviewed.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;community-notes-instead-of-fact-checks&#34;&gt;Community Notes instead of Fact-checks?&lt;/h2&gt;
-&lt;p&gt;At the beginning of the year, &lt;a href=&#34;https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/&#34; target=&#34;_blank&#34;&gt; Meta&amp;rsquo;s CEO Mark Zuckerberg announced &lt;/a&gt; that the company was ending its collaboration with independent fact-checkers replacing them with X-style Community Notes (Notes for short). Zuckerberg claimed that fact-checking limited free speech. However, &lt;a href=&#34;https://netzpolitik.org/2025/zuckerbergs-kehrtwende-meta-goes-maga/&#34; target=&#34;_blank&#34;&gt;it seems more likely&lt;/a&gt; that this is a concession to Trump and the Republican Party, who accuse fact-checkers of being politically motivated.&lt;/p&gt;
-&lt;p&gt;The accusation that fact-checking is biased in favour of the left or liberal camp is not new and is also made in &lt;a href=&#34;https://www.nzz.ch/meinung/faktenchecks-zuckerberg-musk-trump-medien-aktivismus-ard-faktenfinder-russland-nordstream-propaganda-fake-news-ld.1867044&#34; target=&#34;_blank&#34;&gt;German-speaking countries&lt;/a&gt;. Of course, fact-checking, like any other journalistic genre, is not free of errors and distortions. However, it is often overlooked that disinformation is frequently associated with right-wing and populist attitudes (Lasser et al. 2022, Törnberg and Chueri 2025). If fact-checks tend to scrutinise right-wing actors, this does not necessarily reveal a bias, but could also reflect an actual asymmetry (Mosleh et al. 2024). For example, a recent study shows that helpful Notes are also more likely to be found in posts from the Republicans (Renault et al. 2025).&lt;/p&gt;
-&lt;p&gt;This blog post presents the results of a data analysis of German-language Notes that were rated as helpful or unhelpful at least 20 times and published between January 2024 and January 2025 inclusive. As Notes will also be launched on Facebook and Instagram in the future (initially only in the US), it is worth asking whether there is a focus on parties from a particular ideological spectrum.&lt;/p&gt;
-&lt;h2 id=&#34;how-do-community-notes-work-on-x&#34;&gt;How do Community Notes work on X?&lt;/h2&gt;
-&lt;p&gt;Notes are found as comments on posts and are intended to point out their shortcomings. The Notes for this data analysis show posts as incorrect or unverified (Fig. 1). Notes are written by previously registered users. To register, the account must be older than six months and a verified phone number is required. Because anyone can participate, Notes are often described as the wisdom of the crowd and contrasted with fact-checks as an unbiased alternative. However, this interpretation overlooks the fact that the users who write Notes are not free of political views. Their assessments and comments may therefore be influenced by their own interests or ideological biases (Allen et al. 2022).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://synosys.github.io/Söder_Community_Note.png&#34; width=&#34;50%&#34; height=&#34;700px&#34; frameborder=&#34;0&#34;&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Figure 1&lt;/strong&gt; &lt;a href=&#34;https://x.com/Markus_Soeder/status/1879106313956765889&#34; target=&#34;_blank&#34;&gt;Post&lt;/a&gt; with a community note that was rated as helpful and therefore published.&lt;/p&gt;
-&lt;p&gt;Precisely because a single registration is enough to write Notes for all posts on X, this is not yet a sign of quality for their correctness. For this reason, registered users can not only write their own Notes, but also rate the Notes of others as helpful or not. To arrive at a final rating, X uses a so-called bridging algorithm. This algorithm takes into account the position of registered users on the political spectrum and requires contributors with different viewpoints to rate the note as helpful (Wojcik et al. 2022). This process is often successful in reflecting the political spectrum, but it also ensures that significantly fewer Notes are published than are actually written.&lt;/p&gt;
-&lt;h2 id=&#34;which-accounts-of-german-parties-and-politicians-receive-community-notes&#34;&gt;Which accounts of German parties and politicians receive Community Notes?&lt;/h2&gt;
-&lt;iframe src=&#34;https://synosys.github.io/Barplots.html&#34; width=&#34;100%&#34; height=&#34;600px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;strong&gt;Figure 2&lt;/strong&gt; Number of posts with Community Notes.&lt;/p&gt;
-&lt;p&gt;In the following, I present the results of the data analysis. In total, I analysed almost 9000 Notes, of which almost 1700 were considered helpful and therefore published. Figure 2a shows the accounts with the most Notes. Of all accounts on X, Markus Söder, the leader of the CSU and Chief Minister of Bavaria, received the most Notes. However, this changes when it comes to helpful Notes (Fig. 2b). Here, with the exception of Julian Reichelt, former editor-in-chief of Bild and founder of Nius, rather unknown accounts are among the top-ranked accounts. Political accounts, namely those of the CSU and Markus Söder, are only found from 8th place onwards. With this in mind, and also looking at Fig. 2c and Fig. 2d, we can see that the accounts with the most Notes and those with the most helpful Notes are in some cases very different.&lt;/p&gt;
-&lt;h2 id=&#34;which-parties-receive-the-most-community-notes&#34;&gt;Which parties receive the most Community Notes?&lt;/h2&gt;
-&lt;iframe src=&#34;https://synosys.github.io/Barplots_Parties.html&#34; width=&#34;100%&#34; height=&#34;500px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;strong&gt;Figure 3&lt;/strong&gt; Number of posts with Community Notes.&lt;/p&gt;
-&lt;p&gt;Figure 3 shows the Notes of German politicians by party. Party scores are often strongly influenced by individual politicians. As shown in Figure 2, for the CSU it is mainly the official party account and that of Markus Söder. For the SPD it is mainly Ralf Stegner, member of the Bundestag, and Arno Gottschalk, financial policy spokesman for the Bremen parliamentary group. A rough analysis of the content shows that Stegner&amp;rsquo;s posts mainly relate to the Russian war in Ukraine.&lt;/p&gt;
-&lt;p&gt;As before, the ranking of most Notes differs if you only look at the helpful ones. The Greens lead the ranking of Notes, closely followe&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New multi-author preprint about who should govern online environments</title>
-      <link>https://synosys.github.io/news/choice_architects/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/choice_architects/</guid>
-      <description>&lt;p&gt;In this multi-author paper, spearheaded by &lt;a href=&#34;https://www.mpib-berlin.mpg.de/person/friederike-stock/419405&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Friederike Stock&lt;/a&gt;, and as part of the &lt;a href=&#34;https://jrp.pscholars.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Junior Researcher Program&lt;/a&gt; with young researchers from 26 different countries and the project was supervised by Philipp Lorenz-Spreen. Little is known about who users themselves think should control their online environments, and under what circumstances. In our preregistered study, participants across 26 countries (N = 11,686) decided between combinations of three possible choice architects—governments, platforms, and individuals—and three objectives—societal, commercial, and personal—in seven real-world contexts. Across all countries, people strongly prefer to set their own rules for their online choice architectures. Find the full preprint &lt;a href=&#34;https://osf.io/preprints/osf/haqu9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Research Explores News Values in Perceived Misinformation Across 24 Countries</title>
-      <link>https://synosys.github.io/news/fake_news_24/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/fake_news_24/</guid>
-      <description>&lt;p&gt;Sami Nenno, Postdoc in the Junior Research Group Computational Social Science at SynoSys, Center Synergy of Systems, has co-authored an insightful new paper, All the (Fake) News That’s Fit to Share? News Values in Perceived Misinformation Across Twenty-Four Countries. Co-written with Cornelius Puschmann, the study has been published in The International Journal of Press/Politics and investigates the relationship between journalistic news values and perceived misinformation in diverse national contexts.&lt;/p&gt;
-&lt;p&gt;The research addresses a notable gap in the understanding of how misinformation is shaped and perceived globally. While much of the previous scholarship has focused on misinformation within WEIRD (Western, Educated, Industrialized, Rich, and Democratic) countries, this study expands the scope by including both WEIRD and non-WEIRD regions. Using a dataset of over 770,000 Facebook-shared URLs flagged as misinformation by users, the study analyzes the prevalence of five key news values: conflict, negativity, proximity, individualization, and informativeness. Through computational analysis, the authors explore how these news values appear in flagged and unflagged content and assess their variation across 24 countries.&lt;/p&gt;
-&lt;p&gt;The research reveals that flagged content, often perceived as misinformation, tends to emphasize conflict and negativity more strongly than unflagged content. Other news values, such as proximity and individualization, also appear more prominently in flagged items, though with varying intensity. Significant differences in the prevalence of news values were observed between WEIRD and non-WEIRD countries. For instance, proximity and negativity were found to be more pronounced in WEIRD countries, whereas individualization was more prevalent in non-WEIRD contexts. The study also highlights unique patterns in countries such as the United States and Brazil, where conflict and negativity were particularly dominant in flagged content.&lt;/p&gt;
-&lt;p&gt;The findings challenge existing frameworks of news values, which were primarily developed within Western contexts, by showing that these models may not fully account for the diversity of global media landscapes. This emphasizes the need for more inclusive theoretical models that better reflect regional and cultural differences.&lt;/p&gt;
-&lt;p&gt;This study contributes to the growing field of misinformation research by providing a global perspective on how news values intersect with perceived misinformation. It highlights the influence of journalistic styles and national media systems on the characteristics of flagged content, offering valuable insights for academics, journalists, and policymakers seeking to address the challenges posed by misinformation.&lt;/p&gt;
-&lt;p&gt;This publication was part of Sami Nenno&amp;rsquo;s PhD project and was written during his time at the University of Bremen and at the Alexander von Humboldt Institute for Internet and Society. He recently joined Synosys to continue his work. The paper is accessible online at &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/19401612241311893&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Study Reveals Who’s Most Vulnerable to Misinformation—and why</title>
-      <link>https://synosys.github.io/news/misinformation/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/misinformation/</guid>
-      <description>&lt;p&gt;Our junior research group leader Philipp Lorenz-Spreen, whose work focuses on the digital information environment and among other things on misinformation, has co-authored a comprehensive meta-analysis of over 256,000 decisions from thousands of participants that sheds light on who is most susceptible to misinformation and the factors behind it. Their research reveals that susceptibility depends less on formal education and more on individual and contextual factors, such as age, analytical thinking, and political alignment. Older adults and those with strong analytical skills tend to discern truth from falsehood better, though they are also more skeptical, which means they classify more news as false overall. A tendency called “true news bias” emerges when people encounter news aligning with their political beliefs or previously seen content, making them more prone to believe information without scrutiny. These findings offer valuable insights for his further studies of the spreading dynamics of misinformation and the development of interventions that help people to navigate the information environment of the internet. &lt;a href=&#34;https://doi.org/10.1073/pnas.2409329121&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read in full here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence is spreading fake news during the U.S. election campaign</title>
-      <link>https://synosys.github.io/news/ai_fake_news_us_election/</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/ai_fake_news_us_election/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Escalating Foreign Influence: How during the U.S. election campaign Russia, China, and Iran, create a surge of misleading narratives seeks to distort perceptions of key political figures</title>
-      <link>https://synosys.github.io/news/kamala_harris_us_election/</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/kamala_harris_us_election/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Our Recent Paper Unveils Breakthrough Insights into Fatigue Symptoms in Post-COVID Syndrome and ME/CFS</title>
-      <link>https://synosys.github.io/news/post_covid-syndrome/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/post_covid-syndrome/</guid>
-      <description>&lt;p&gt;We are excited to share the results of our recent study, in which we report new insights into Post-exertional Malaise (PEM), a severe condition where physical activity amplifies symptoms in people with Post-COVID Syndrome (PCC) and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).&lt;/p&gt;
-&lt;p&gt;Our study highlights that even everyday activities, such as walking or light exertion, can significantly increase symptoms in affected patients. The root cause is an impaired ability of the body to utilize oxygen efficiently. Normally, cells utilize oxygen for energy production. However, in patients with PCC and ME/CFS, this process is disrupted, causing rapid exhaustion and muscle fatigue.&lt;/p&gt;
-&lt;p&gt;We also found that many patients exhibit ongoing immune activation, as if their bodies are still fighting an infection long after recovery from their COVID-19. This immune response contributes to the impaired oxygen utilization and amplifies fatigue and other symptoms.&lt;/p&gt;
-&lt;p&gt;We are excited because we believe that our findings may open up new pathways for developing effective treatments. Our research suggests that careful management of physical activity, including avoiding overexertion, could be key to preventing symptom flare-ups and to improving daily life for affected patients.&lt;/p&gt;
-&lt;p&gt;We are excited about the potential impact of this study and are confident that it offers hope for those struggling with the long-lasting effects of PCC and ME/CFS. You can read the full paper &lt;a href=&#34;https://link.springer.com/article/10.1007/s15010-024-02386-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FEDORA Project Secures Funding to Explore Post-COVID Ecological Dynamics</title>
-      <link>https://synosys.github.io/news/fedora/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/fedora/</guid>
-      <description>&lt;p&gt;We are thrilled to announce that our project, “FEDORA - Federated Network Modeling of Ecological Complex Dynamical Patterns in Post-COVID,” has successfully secured funding. This pioneering initiative aims to advance the understanding of how ecological systems are affected by complex dynamical patterns emerging in the aftermath of the COVID-19 pandemic.&lt;/p&gt;
-&lt;p&gt;The FEDORA project will focus on federated network modeling to examine these complex patterns, particularly those related to wearable technology, sleep, as well as persistent symptoms observed post-COVID. Through a collaborative approach, the project will harness cutting-edge data and modeling techniques to reveal new insights into the long-term impacts of COVID-19 on ecological and human health.&lt;/p&gt;
-&lt;p&gt;Our interdisciplinary team will work together to develop groundbreaking models that integrate data from various sources, creating a comprehensive understanding of the interplay between ecological and health dynamics in the post-COVID world. The insights gained from this project will not only contribute to scientific knowledge but also guide future public health strategies and ecological conservation efforts.&lt;/p&gt;
-&lt;p&gt;We look forward to sharing more updates as the project progresses and invite the community to stay tuned for further developments.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;logo-federal.jpg&#34; alt=&#34;FEDORA Project Logo&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Just published: Using smartphones to study vaccination decisions in the wild</title>
-      <link>https://synosys.github.io/news/smartphones_vaccination_paper/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/smartphones_vaccination_paper/</guid>
-      <description>&lt;p&gt;We are pleased to share our latest research findings with the community. Recently, we have developed an innovative method in cooperation with the DTU to study how people make vaccination decisions in everyday life. For this purpose, we used a specially designed smartphone app that captures real interactions and allows us to analyze the impact of these interactions on vaccination decisions.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | SynoSys</title><link>https://synosys.github.io/news/</link><atom:link href="https://synosys.github.io/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://synosys.github.io/media/sharing.png</url><title>News</title><link>https://synosys.github.io/news/</link></image><item><title>What a blast! Philipp Lorenz-Spreen at re:publica 2025</title><link>https://synosys.github.io/news/republica-2025/</link><pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/republica-2025/</guid><description>&lt;p>On Wednesday, our colleague Philipp Lorenz-Spreen took the stage at &lt;strong>re:publica 2025&lt;/strong> to address one of the most pressing questions of our digital era:&lt;/p>
+&lt;p>&lt;strong>“Gesellschaftliche Kipppunkte: Die Spirale aus Aufmerksamkeit und Plattformmacht und wie wir da noch rauskommen”&lt;/strong>&lt;br>
+(&lt;em>“Societal Tipping Points: The Spiral of Attention and Platform Power – and How We Might Escape It”&lt;/em>)&lt;/p>
+&lt;p>In his talk, he explored how notifications, newsfeeds, and social platforms constantly demand our attention – and how this attention has become a source of power with far-reaching political consequences. Moving from everyday habits to systemic impacts, he examined how platform dynamics influence democratic discourse and what needs to change for us to regain agency and foster a healthier public debate.&lt;/p>
+&lt;p>His session sparked thoughtful discussions around the architecture of digital platforms, the challenges of measurements in social sciences, and the urgent need for alternative models that empower users rather than exploit their attention.&lt;/p>
+&lt;p>We’re proud to see our research contributing to this important conversation. Thank you to the re:publica community for the energy, engagement, and inspiration!&lt;/p>
+&lt;p>📺 &lt;strong>Full talk available online&lt;/strong>: &lt;a href="https://youtu.be/7j4QIayjAaY" target="_blank" rel="noopener">Watch here&lt;/a>&lt;/p></description></item><item><title>New replication study examines the influence of digital media on democracy</title><link>https://synosys.github.io/news/replication/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/replication/</guid><description>&lt;p>© [AI] ChatGPT / MPG adapted from the &lt;a href="https://www.mpg.de/24519906/digital-media-a-threat-to-democracy" target="_blank" rel="noopener">press release&lt;/a>&lt;/p>
+&lt;p>The research team systematically replicated the methodology of the original study and used an updated dataset with studies up to March 2024. The results confirm the findings of the original study: Digital media have many problematic effects on democratic processes, in addition to positive ones. On the one hand, they promote political participation and facilitate access to information. On the other hand, they increase polarization, mistrust in institutions, and populist movements.&lt;/p>
+&lt;p>A recent research paper by the Institute for Replication (I4R) analyzes and reviews the results of the 2023 study, ‘A Systematic Review of Worldwide Causal and Correlational Evidence on Digital Media and Democracy,’ by Lorenz-Spreen et al. The replication study, conducted by researchers from Tongji University, the University of Cambridge, and Duke University, confirms the original findings on the relationships between digital media and democracy.&lt;/p>
+&lt;p>“The replication study supports our findings, and the worrying trends continue,” explains Philipp Lorenz-Spreen, research group leader for Computational Social Science at TU Dresden and research scientist at the Max Planck Institute for Human Development (MPIB) in Berlin. He and Lisa Oswald – both working at the Center for Adaptive Rationality – led the 2023 study. Postdoctoral researcher Lisa Oswald underscores the significance of these findings. “The correlative evidence is mounting that digital media can negatively influence political processes – we see increased polarization, rising mistrust in democratic institutions and media, and a proliferation of misinformation.”&lt;/p>
+&lt;p>Replication study: &lt;a href="https://ideas.repec.org/p/zbw/i4rdps/206.html" target="_blank" rel="noopener">https://ideas.repec.org/p/zbw/i4rdps/206.html&lt;/a>&lt;/p>
+&lt;p>Original study: &lt;a href="https://www.nature.com/articles/s41562-022-01460-1" target="_blank" rel="noopener">https://www.nature.com/articles/s41562-022-01460-1&lt;/a>&lt;/p></description></item><item><title>€2.3 Million Funding for SynoSys to Advance Long-COVID Research</title><link>https://synosys.github.io/news/funding/</link><pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/funding/</guid><description>&lt;p>A major milestone for us: We have been awarded €2.3 million in funding from the Federal Ministry of Health (BMG) for the SynoSys.PC project, aimed at advancing the understanding of Long-COVID and advancing patient care.&lt;/p>
+&lt;p>By harnessing high-resolution wearable data and applying methods from network science, data analytics and AI, SynoSys, in collaboration with the University Hospital Jena, seeks to develop innovative approaches and gain significant insights to the underlying mechanisms of Long-Covid and Post-Covid-Condition (PCC).&lt;/p>
+&lt;p>The project builds on one of the largest datasets of its kind, with high-resolution individual time series of wearable data, e.g. heart rate, physical activity and sleep from more than 500,000 participants. Key goals include identifying wearable-based indicators of persistent symptoms and establishing an open competence center to drive the integration of digital technologies into health research and care.&lt;/p>
+&lt;p>This project represents a significant leap toward leveraging digital health tools and smart technologies for public health. SynoSys is proud to be at the forefront of shaping the future of healthcare and we are super excited to start pushing the envelope in this area.
+&lt;img src="bmg-logo-funding.jpg" alt="BMG funding logo">&lt;/p></description></item><item><title>Breaking Boundaries: Prof. Brockmann’s Vision for Complexity Research</title><link>https://synosys.github.io/news/breaking_boundaries/</link><pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/breaking_boundaries/</guid><description>&lt;p>On February 6, 2025, Professor Dirk Brockmann, head of our Center Synergy of Systems, delivered his university-wide inaugural lecture at TU Dresden, attracting over 100 attendees from various disciplines.&lt;/p>
+&lt;p>Under the intriguing title &amp;ldquo;Doing Science Like a Fungus – Complexity Research in the 21st Century&amp;rdquo;, Dirk Brockmann provided fascinating insights into complex systems and the hidden rules that govern social and natural phenomena. He emphasized the importance of interdisciplinary research, combining methods from physics, biology, and social sciences to better understand and address pressing global challenges. &lt;img src="featured2.JPG" alt="Brockman-with Audience">&lt;/p>
+&lt;p>One particularly interesting aspect of his lecture was his discussion on the connection between science and magic. He explained that when people witness something they perceive as magical—something they believed to be impossible—it sharpens their senses and heightens their awareness. This, he argued, is precisely what scientists must do in their research: approach the unknown with a sense of wonder, question assumptions, and stay open to unexpected discoveries. Just as magic challenges our understanding of reality, scientific breakthroughs emerge when we push beyond the boundaries of what we think we know. Doing science with a compass rather than a map.
+&lt;img src="featured3.JPG" alt="Brockman-with Audience">&lt;/p>
+&lt;p>The event, held at the Fritz-Foerster-Bau of TU Dresden, provided an engaging platform for discussions, followed by a lively Q&amp;amp;A session and networking opportunity.
+Prof. Brockmann’s inspiring lecture set the tone for his future work at SynoSys, demonstrating how complexity science can drive impactful research and innovative solutions.&lt;/p>
+&lt;p>For those who missed the event, the full lecture is available online: &lt;a href="https://www.youtube.com/watch?v=iwMYuq4np6Y" target="_blank" rel="noopener">Watch here&lt;/a>.&lt;/p></description></item><item><title>Do Alice Weidel and the AfD benefit from Musk's attention on X?</title><link>https://synosys.github.io/news/x-election/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/x-election/</guid><description>&lt;p>Has Elon Musk manipulated X to give the AfD more reach? He has made it clear in posts, articles and election events that he is a fan - and at the same time, Alice Weidel’s reach on X has increased significantly. Could these developments be linked? This blog post describes a data analysis in which we take a closer look at which accounts have received how much reach and whether Musk’s influence can be determined. Where does the sudden increase in Weidel’s reach on X come from?&lt;/p>
+&lt;p>Note: This work has not yet been peer reviewed.&lt;/p>
+&lt;p>In recent weeks, there has been a lot of fuss about Elon Musk’s possible influence in favour of the AfD. First, on 20 December, he wrote on his platform X (formerly Twitter) that only the AfD can save Germany. On 28 December, Die Welt published a guest article by Musk in which he expressed the same position. Finally, on 9 January, he held a public conversation on X with the AfD candidate Alice Weidel.&lt;/p>
+&lt;p>As already reported in one place or another, Weidel gained a lot of reach on X. The German parliamentary administration then announced that it would investigate whether Musk is influencing the election campaign. At the same time, the EU Commission is demanding insight into possible changes to X’s recommendation algorithms. This article analyses the possible impact of Musk’s activities on the reach of the AfD and Weidel in particular on social media.&lt;/p></description></item><item><title>Do Community Notes have a party preference?</title><link>https://synosys.github.io/news/community_notes/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/community_notes/</guid><description>&lt;p>&lt;strong>Community notes are supposed to curb disinformation on X - but they themselves follow political patterns. A new data analysis shows that Green Party posts are particularly criticised, but their notes are hardly considered helpful. At the same time, there is no clear political trend in the notes that are actually published. Why is this the case? The article analyses patterns in the distribution and rating of the notes and sheds light on the dynamics that can be derived from the data.&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Note: This work has not yet been peer reviewed.&lt;/strong>&lt;/p>
+&lt;h2 id="community-notes-instead-of-fact-checks">Community Notes instead of Fact-checks?&lt;/h2>
+&lt;p>At the beginning of the year, &lt;a href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank"> Meta&amp;rsquo;s CEO Mark Zuckerberg announced &lt;/a> that the company was ending its collaboration with independent fact-checkers replacing them with X-style Community Notes (Notes for short). Zuckerberg claimed that fact-checking limited free speech. However, &lt;a href="https://netzpolitik.org/2025/zuckerbergs-kehrtwende-meta-goes-maga/" target="_blank">it seems more likely&lt;/a> that this is a concession to Trump and the Republican Party, who accuse fact-checkers of being politically motivated.&lt;/p>
+&lt;p>The accusation that fact-checking is biased in favour of the left or liberal camp is not new and is also made in &lt;a href="https://www.nzz.ch/meinung/faktenchecks-zuckerberg-musk-trump-medien-aktivismus-ard-faktenfinder-russland-nordstream-propaganda-fake-news-ld.1867044" target="_blank">German-speaking countries&lt;/a>. Of course, fact-checking, like any other journalistic genre, is not free of errors and distortions. However, it is often overlooked that disinformation is frequently associated with right-wing and populist attitudes (Lasser et al. 2022, Törnberg and Chueri 2025). If fact-checks tend to scrutinise right-wing actors, this does not necessarily reveal a bias, but could also reflect an actual asymmetry (Mosleh et al. 2024). For example, a recent study shows that helpful Notes are also more likely to be found in posts from the Republicans (Renault et al. 2025).&lt;/p>
+&lt;p>This blog post presents the results of a data analysis of German-language Notes that were rated as helpful or unhelpful at least 20 times and published between January 2024 and January 2025 inclusive. As Notes will also be launched on Facebook and Instagram in the future (initially only in the US), it is worth asking whether there is a focus on parties from a particular ideological spectrum.&lt;/p>
+&lt;h2 id="how-do-community-notes-work-on-x">How do Community Notes work on X?&lt;/h2>
+&lt;p>Notes are found as comments on posts and are intended to point out their shortcomings. The Notes for this data analysis show posts as incorrect or unverified (Fig. 1). Notes are written by previously registered users. To register, the account must be older than six months and a verified phone number is required. Because anyone can participate, Notes are often described as the wisdom of the crowd and contrasted with fact-checks as an unbiased alternative. However, this interpretation overlooks the fact that the users who write Notes are not free of political views. Their assessments and comments may therefore be influenced by their own interests or ideological biases (Allen et al. 2022).&lt;/p>
+&lt;p>&lt;img src="https://synosys.github.io/Söder_Community_Note.png" width="50%" height="700px" frameborder="0">&lt;/img>&lt;/p>
+&lt;p>&lt;strong>Figure 1&lt;/strong> &lt;a href="https://x.com/Markus_Soeder/status/1879106313956765889" target="_blank">Post&lt;/a> with a community note that was rated as helpful and therefore published.&lt;/p>
+&lt;p>Precisely because a single registration is enough to write Notes for all posts on X, this is not yet a sign of quality for their correctness. For this reason, registered users can not only write their own Notes, but also rate the Notes of others as helpful or not. To arrive at a final rating, X uses a so-called bridging algorithm. This algorithm takes into account the position of registered users on the political spectrum and requires contributors with different viewpoints to rate the note as helpful (Wojcik et al. 2022). This process is often successful in reflecting the political spectrum, but it also ensures that significantly fewer Notes are published than are actually written.&lt;/p>
+&lt;h2 id="which-accounts-of-german-parties-and-politicians-receive-community-notes">Which accounts of German parties and politicians receive Community Notes?&lt;/h2>
+&lt;iframe src="https://synosys.github.io/Barplots.html" width="100%" height="600px" frameborder="0">&lt;/iframe>
+&lt;p>&lt;strong>Figure 2&lt;/strong> Number of posts with Community Notes.&lt;/p>
+&lt;p>In the following, I present the results of the data analysis. In total, I analysed almost 9000 Notes, of which almost 1700 were considered helpful and therefore published. Figure 2a shows the accounts with the most Notes. Of all accounts on X, Markus Söder, the leader of the CSU and Chief Minister of Bavaria, received the most Notes. However, this changes when it comes to helpful Notes (Fig. 2b). Here, with the exception of Julian Reichelt, former editor-in-chief of Bild and founder of Nius, rather unknown accounts are among the top-ranked accounts. Political accounts, namely those of the CSU and Markus Söder, are only found from 8th place onwards. With this in mind, and also looking at Fig. 2c and Fig. 2d, we can see that the accounts with the most Notes and those with the most helpful Notes are in some cases very different.&lt;/p>
+&lt;h2 id="which-parties-receive-the-most-community-notes">Which parties receive the most Community Notes?&lt;/h2>
+&lt;iframe src="https://synosys.github.io/Barplots_Parties.html" width="100%" height="500px" frameborder="0">&lt;/iframe>
+&lt;p>&lt;strong>Figure 3&lt;/strong> Number of posts with Community Notes.&lt;/p>
+&lt;p>Figure 3 shows the Notes of German politicians by party. Party scores are often strongly influenced by individual politicians. As shown in Figure 2, for the CSU it is mainly the official party account and that of Markus Söder. For the SPD it is mainly Ralf Stegner, member of the Bundestag, and Arno Gottschalk, financial policy spokesman for the Bremen parliamentary group. A rough analysis of the content shows that Stegner&amp;rsquo;s posts mainly relate to the Russian war in Ukraine.&lt;/p>
+&lt;p>As before, the ranking of most Notes differs if you only look at the helpful ones. The Greens lead the ranking of Notes, closely followe&lt;/p></description></item><item><title>New multi-author preprint about who should govern online environments</title><link>https://synosys.github.io/news/choice_architects/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/choice_architects/</guid><description>&lt;p>In this multi-author paper, spearheaded by &lt;a href="https://www.mpib-berlin.mpg.de/person/friederike-stock/419405" target="_blank" rel="noopener">Friederike Stock&lt;/a>, and as part of the &lt;a href="https://jrp.pscholars.org/" target="_blank" rel="noopener">Junior Researcher Program&lt;/a> with young researchers from 26 different countries and the project was supervised by Philipp Lorenz-Spreen. Little is known about who users themselves think should control their online environments, and under what circumstances. In our preregistered study, participants across 26 countries (N = 11,686) decided between combinations of three possible choice architects—governments, platforms, and individuals—and three objectives—societal, commercial, and personal—in seven real-world contexts. Across all countries, people strongly prefer to set their own rules for their online choice architectures. Find the full preprint &lt;a href="https://osf.io/preprints/osf/haqu9" target="_blank" rel="noopener">here&lt;/a>.&lt;/p></description></item><item><title>New Research Explores News Values in Perceived Misinformation Across 24 Countries</title><link>https://synosys.github.io/news/fake_news_24/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/fake_news_24/</guid><description>&lt;p>Sami Nenno, Postdoc in the Junior Research Group Computational Social Science at SynoSys, Center Synergy of Systems, has co-authored an insightful new paper, All the (Fake) News That’s Fit to Share? News Values in Perceived Misinformation Across Twenty-Four Countries. Co-written with Cornelius Puschmann, the study has been published in The International Journal of Press/Politics and investigates the relationship between journalistic news values and perceived misinformation in diverse national contexts.&lt;/p>
+&lt;p>The research addresses a notable gap in the understanding of how misinformation is shaped and perceived globally. While much of the previous scholarship has focused on misinformation within WEIRD (Western, Educated, Industrialized, Rich, and Democratic) countries, this study expands the scope by including both WEIRD and non-WEIRD regions. Using a dataset of over 770,000 Facebook-shared URLs flagged as misinformation by users, the study analyzes the prevalence of five key news values: conflict, negativity, proximity, individualization, and informativeness. Through computational analysis, the authors explore how these news values appear in flagged and unflagged content and assess their variation across 24 countries.&lt;/p>
+&lt;p>The research reveals that flagged content, often perceived as misinformation, tends to emphasize conflict and negativity more strongly than unflagged content. Other news values, such as proximity and individualization, also appear more prominently in flagged items, though with varying intensity. Significant differences in the prevalence of news values were observed between WEIRD and non-WEIRD countries. For instance, proximity and negativity were found to be more pronounced in WEIRD countries, whereas individualization was more prevalent in non-WEIRD contexts. The study also highlights unique patterns in countries such as the United States and Brazil, where conflict and negativity were particularly dominant in flagged content.&lt;/p>
+&lt;p>The findings challenge existing frameworks of news values, which were primarily developed within Western contexts, by showing that these models may not fully account for the diversity of global media landscapes. This emphasizes the need for more inclusive theoretical models that better reflect regional and cultural differences.&lt;/p>
+&lt;p>This study contributes to the growing field of misinformation research by providing a global perspective on how news values intersect with perceived misinformation. It highlights the influence of journalistic styles and national media systems on the characteristics of flagged content, offering valuable insights for academics, journalists, and policymakers seeking to address the challenges posed by misinformation.&lt;/p>
+&lt;p>This publication was part of Sami Nenno&amp;rsquo;s PhD project and was written during his time at the University of Bremen and at the Alexander von Humboldt Institute for Internet and Society. He recently joined Synosys to continue his work. The paper is accessible online at &lt;a href="https://journals.sagepub.com/doi/10.1177/19401612241311893" target="_blank" rel="noopener">this link&lt;/a>.&lt;/p></description></item><item><title>New Study Reveals Who’s Most Vulnerable to Misinformation—and why</title><link>https://synosys.github.io/news/misinformation/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/misinformation/</guid><description>&lt;p>Our junior research group leader Philipp Lorenz-Spreen, whose work focuses on the digital information environment and among other things on misinformation, has co-authored a comprehensive meta-analysis of over 256,000 decisions from thousands of participants that sheds light on who is most susceptible to misinformation and the factors behind it. Their research reveals that susceptibility depends less on formal education and more on individual and contextual factors, such as age, analytical thinking, and political alignment. Older adults and those with strong analytical skills tend to discern truth from falsehood better, though they are also more skeptical, which means they classify more news as false overall. A tendency called “true news bias” emerges when people encounter news aligning with their political beliefs or previously seen content, making them more prone to believe information without scrutiny. These findings offer valuable insights for his further studies of the spreading dynamics of misinformation and the development of interventions that help people to navigate the information environment of the internet. &lt;a href="https://doi.org/10.1073/pnas.2409329121" target="_blank" rel="noopener">Read in full here&lt;/a>.&lt;/p></description></item><item><title>Artificial Intelligence is spreading fake news during the U.S. election campaign</title><link>https://synosys.github.io/news/ai_fake_news_us_election/</link><pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/ai_fake_news_us_election/</guid><description/></item><item><title>Escalating Foreign Influence: How during the U.S. election campaign Russia, China, and Iran, create a surge of misleading narratives seeks to distort perceptions of key political figures</title><link>https://synosys.github.io/news/kamala_harris_us_election/</link><pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/kamala_harris_us_election/</guid><description/></item><item><title>Our Recent Paper Unveils Breakthrough Insights into Fatigue Symptoms in Post-COVID Syndrome and ME/CFS</title><link>https://synosys.github.io/news/post_covid-syndrome/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/post_covid-syndrome/</guid><description>&lt;p>We are excited to share the results of our recent study, in which we report new insights into Post-exertional Malaise (PEM), a severe condition where physical activity amplifies symptoms in people with Post-COVID Syndrome (PCC) and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).&lt;/p>
+&lt;p>Our study highlights that even everyday activities, such as walking or light exertion, can significantly increase symptoms in affected patients. The root cause is an impaired ability of the body to utilize oxygen efficiently. Normally, cells utilize oxygen for energy production. However, in patients with PCC and ME/CFS, this process is disrupted, causing rapid exhaustion and muscle fatigue.&lt;/p>
+&lt;p>We also found that many patients exhibit ongoing immune activation, as if their bodies are still fighting an infection long after recovery from their COVID-19. This immune response contributes to the impaired oxygen utilization and amplifies fatigue and other symptoms.&lt;/p>
+&lt;p>We are excited because we believe that our findings may open up new pathways for developing effective treatments. Our research suggests that careful management of physical activity, including avoiding overexertion, could be key to preventing symptom flare-ups and to improving daily life for affected patients.&lt;/p>
+&lt;p>We are excited about the potential impact of this study and are confident that it offers hope for those struggling with the long-lasting effects of PCC and ME/CFS. You can read the full paper &lt;a href="https://link.springer.com/article/10.1007/s15010-024-02386-8" target="_blank" rel="noopener">here&lt;/a>.&lt;/p></description></item><item><title>FEDORA Project Secures Funding to Explore Post-COVID Ecological Dynamics</title><link>https://synosys.github.io/news/fedora/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/fedora/</guid><description>&lt;p>We are thrilled to announce that our project, “FEDORA - Federated Network Modeling of Ecological Complex Dynamical Patterns in Post-COVID,” has successfully secured funding. This pioneering initiative aims to advance the understanding of how ecological systems are affected by complex dynamical patterns emerging in the aftermath of the COVID-19 pandemic.&lt;/p>
+&lt;p>The FEDORA project will focus on federated network modeling to examine these complex patterns, particularly those related to wearable technology, sleep, as well as persistent symptoms observed post-COVID. Through a collaborative approach, the project will harness cutting-edge data and modeling techniques to reveal new insights into the long-term impacts of COVID-19 on ecological and human health.&lt;/p>
+&lt;p>Our interdisciplinary team will work together to develop groundbreaking models that integrate data from various sources, creating a comprehensive understanding of the interplay between ecological and health dynamics in the post-COVID world. The insights gained from this project will not only contribute to scientific knowledge but also guide future public health strategies and ecological conservation efforts.&lt;/p>
+&lt;p>We look forward to sharing more updates as the project progresses and invite the community to stay tuned for further developments.&lt;/p>
+&lt;p>&lt;img src="logo-federal.jpg" alt="FEDORA Project Logo">&lt;/p></description></item><item><title>Just published: Using smartphones to study vaccination decisions in the wild</title><link>https://synosys.github.io/news/smartphones_vaccination_paper/</link><pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/smartphones_vaccination_paper/</guid><description>&lt;p>We are pleased to share our latest research findings with the community. Recently, we have developed an innovative method in cooperation with the DTU to study how people make vaccination decisions in everyday life. For this purpose, we used a specially designed smartphone app that captures real interactions and allows us to analyze the impact of these interactions on vaccination decisions.
 Our findings show that people in real decision-making situations rely more heavily on their personal experiences or personal risk assessments than on what they hear or see from others. This method allows us to better understand decision-making behavior in a real-world context.
-We are confident that these new insights will provide valuable input for shaping future vaccination campaigns.&lt;/p&gt;
-&lt;p&gt;You can find the detailed paper here:&lt;/p&gt;
-
-
-
-
-
-
-
-  
-    
-
-
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-   
-  &lt;a href=&#34;https://synosys.github.io/publication/girardini-2024-understanding/&#34;&gt;Using smartphones to study vaccination decisions in the wild&lt;/a&gt;.&lt;br /&gt;
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-  &lt;span &gt;
-  N A Girardini&lt;/span&gt;, &lt;span &gt;
-  A Stopczynski&lt;/span&gt;, &lt;span &gt;
-  O Baranov&lt;/span&gt;, &lt;span &gt;
-  C Betsch&lt;/span&gt;, &lt;span &gt;
-  &lt;a href=&#34;https://synosys.github.io/authors/dirk/&#34;&gt;D Brockmann&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-  S Lehmann&lt;/span&gt;, &lt;span &gt;
-  R Böhm&lt;/span&gt; &lt;/span
-  &gt;&lt;br /&gt;
-   PLOS Digital Health 3(8): e0000550
-   (2024).
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/https://doi.org/10.1371/journal.pdig.0000550&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000550&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    View&lt;/a&gt;
-  
-&lt;/p&gt;
-  
-&lt;/div&gt;
-
-  
-
-
-</description>
-    </item>
-    
-  </channel>
-</rss>
+We are confident that these new insights will provide valuable input for shaping future vaccination campaigns.&lt;/p>
+&lt;p>You can find the detailed paper here:&lt;/p>
+&lt;div class="pub-list-item" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;a href="https://synosys.github.io/publication/girardini-2024-understanding/">Using smartphones to study vaccination decisions in the wild&lt;/a>.&lt;br />
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+N A Girardini&lt;/span>, &lt;span >
+A Stopczynski&lt;/span>, &lt;span >
+O Baranov&lt;/span>, &lt;span >
+C Betsch&lt;/span>, &lt;span >
+&lt;a href="https://synosys.github.io/authors/dirk/">D Brockmann&lt;/a>&lt;/span>, &lt;span >
+S Lehmann&lt;/span>, &lt;span >
+R Böhm&lt;/span> &lt;/span
+>&lt;br />
+PLOS Digital Health 3(8): e0000550
+(2024).
+&lt;p>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1371/journal.pdig.0000550" target="_blank" rel="noopener">
+DOI
+&lt;/a>
+&lt;a class="btn btn-outline-primary btn-page-header btn-sm" href="https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000550" target="_blank" rel="noopener">
+View&lt;/a>
+&lt;/p>
+&lt;/div></description></item></channel></rss>

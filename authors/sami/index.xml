@@ -1,109 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sami Nenno | SynoSys</title>
-    <link>https://synosys.github.io/authors/sami/</link>
-      <atom:link href="https://synosys.github.io/authors/sami/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sami Nenno</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://synosys.github.io/authors/sami/avatar_hub9aac1fe4ec81f200b71f2c1b20474ba_490089_270x270_fill_lanczos_center_3.png</url>
-      <title>Sami Nenno</title>
-      <link>https://synosys.github.io/authors/sami/</link>
-    </image>
-    
-    <item>
-      <title>All The (Fake) News That’s Fit to Share? News Values in Perceived Misinformation across Twenty-Four Countries</title>
-      <link>https://synosys.github.io/publication/sami-all-the-fake-news-thats-fit-to-share/</link>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/publication/sami-all-the-fake-news-thats-fit-to-share/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Methods for Computational Social Sciences</title>
-      <link>https://synosys.github.io/teaching/methods_css/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/teaching/methods_css/</guid>
-      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48847978502/CourseNode/1743388566773105003/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Time (Lecture) Mondays, 3. DS and 5. DS&lt;/p&gt;
-&lt;p&gt;Location APB/E001&lt;/p&gt;
-&lt;p&gt;Department Computer Science&lt;/p&gt;
-&lt;p&gt;Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
-&lt;p&gt;Language English&lt;/p&gt;
-&lt;p&gt;Assessment oral exam&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
-&lt;p&gt;The lecture will introduce you to social science research questions and findings, while the exercise will give you the practical skills to answer social questions yourself using computational tools. The first part focuses on basic techniques of text analysis. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing (NLP), such as sentiment analysis.&lt;/p&gt;
-&lt;p&gt;We will then move on to analyzing the structural factors of online data, from time series to networks and their dynamics. We will also explore how to collect such data from social media and how to conduct online field experiments. We will then have the tools to move on to applied research questions, covering topics such as political polarization, misinformation, public health and human mobility. We will learn what conclusions can and cannot be drawn from these descriptions. Finally, we will go beyond description and learn about causality, simulation models of social systems that allow mechanistic understanding.&lt;/p&gt;
-&lt;p&gt;The last part of the course will focus on NLP again, this time with a focus on deep learning methods such as Large Language Models (LLMs). We will use transformer models to identify complex patterns in the communication of German parties on social media.&lt;/p&gt;
-&lt;p&gt;In summary, this course will provide a toolbox for describing different types of social systems with a focus on textual data, as well as a family of modelling approaches that can go beyond individual-level statistics to describe collective processes.&lt;/p&gt;
-&lt;h3 id=&#34;schedule&#34;&gt;Schedule:&lt;/h3&gt;
-&lt;p&gt;Week 1 What is Computational Social Science?&lt;/p&gt;
-&lt;p&gt;Week 2 Data, types, sources and preparation in R/Python&lt;/p&gt;
-&lt;p&gt;Week 3 Collecting text data&lt;/p&gt;
-&lt;p&gt;Week 4 Identifying sentiment and clusters&lt;/p&gt;
-&lt;p&gt;Week 5 Time series analysis&lt;/p&gt;
-&lt;p&gt;Week 6 Regressions and statistical modeling&lt;/p&gt;
-&lt;p&gt;Week 7 Network science 1&lt;/p&gt;
-&lt;p&gt;Week 8 Network science 2&lt;/p&gt;
-&lt;p&gt;Week 9 Causal inference in observational data&lt;/p&gt;
-&lt;p&gt;Break June 8 - 15&lt;/p&gt;
-&lt;p&gt;Week 10 Agent-based-models&lt;/p&gt;
-&lt;p&gt;Week 11 Topic Modeling with Transformers 1&lt;/p&gt;
-&lt;p&gt;Week 12 Topic Modeling with Transformers 2&lt;/p&gt;
-&lt;p&gt;Week 13 LLMs&lt;/p&gt;
-&lt;p&gt;Week 14 Final session, feedback, Q&amp;amp;A, Discussion&lt;/p&gt;
-&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography:&lt;/h3&gt;
-&lt;p&gt;Llaudet, E., &amp;amp; Imai, K. (2022). Data analysis for social science: A friendly and practical introduction. Princeton University Press.&lt;/p&gt;
-&lt;p&gt;Albert-László Barabási (2015). Network Science. Cambridge University Press (also here: networksciencebook.com)&lt;/p&gt;
-&lt;p&gt;Cunningham, S. (2021). Causal inference: The mixtape. Yale university press.&lt;/p&gt;
-&lt;p&gt;Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., &amp;hellip; &amp;amp; Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.&lt;/p&gt;
-&lt;p&gt;Flache, A., Mäs, M., Feliciani, T., Chattoe-Brown, E., Deffuant, G., Huet, S., &amp;amp; Lorenz, J. (2017). Models of social influence: Towards the next frontiers. Jasss-The journal of artificial societies and social simulation, 20(4), 2.&lt;/p&gt;
-&lt;p&gt;Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., &amp;amp; Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature human behaviour, 7(1), 74-101.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Do Community Notes have a party preference?</title>
-      <link>https://synosys.github.io/news/community_notes/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/community_notes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Community notes are supposed to curb disinformation on X - but they themselves follow political patterns. A new data analysis shows that Green Party posts are particularly criticised, but their notes are hardly considered helpful. At the same time, there is no clear political trend in the notes that are actually published. Why is this the case? The article analyses patterns in the distribution and rating of the notes and sheds light on the dynamics that can be derived from the data.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note: This work has not yet been peer reviewed.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;community-notes-instead-of-fact-checks&#34;&gt;Community Notes instead of Fact-checks?&lt;/h2&gt;
-&lt;p&gt;At the beginning of the year, &lt;a href=&#34;https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/&#34; target=&#34;_blank&#34;&gt; Meta&amp;rsquo;s CEO Mark Zuckerberg announced &lt;/a&gt; that the company was ending its collaboration with independent fact-checkers replacing them with X-style Community Notes (Notes for short). Zuckerberg claimed that fact-checking limited free speech. However, &lt;a href=&#34;https://netzpolitik.org/2025/zuckerbergs-kehrtwende-meta-goes-maga/&#34; target=&#34;_blank&#34;&gt;it seems more likely&lt;/a&gt; that this is a concession to Trump and the Republican Party, who accuse fact-checkers of being politically motivated.&lt;/p&gt;
-&lt;p&gt;The accusation that fact-checking is biased in favour of the left or liberal camp is not new and is also made in &lt;a href=&#34;https://www.nzz.ch/meinung/faktenchecks-zuckerberg-musk-trump-medien-aktivismus-ard-faktenfinder-russland-nordstream-propaganda-fake-news-ld.1867044&#34; target=&#34;_blank&#34;&gt;German-speaking countries&lt;/a&gt;. Of course, fact-checking, like any other journalistic genre, is not free of errors and distortions. However, it is often overlooked that disinformation is frequently associated with right-wing and populist attitudes (Lasser et al. 2022, Törnberg and Chueri 2025). If fact-checks tend to scrutinise right-wing actors, this does not necessarily reveal a bias, but could also reflect an actual asymmetry (Mosleh et al. 2024). For example, a recent study shows that helpful Notes are also more likely to be found in posts from the Republicans (Renault et al. 2025).&lt;/p&gt;
-&lt;p&gt;This blog post presents the results of a data analysis of German-language Notes that were rated as helpful or unhelpful at least 20 times and published between January 2024 and January 2025 inclusive. As Notes will also be launched on Facebook and Instagram in the future (initially only in the US), it is worth asking whether there is a focus on parties from a particular ideological spectrum.&lt;/p&gt;
-&lt;h2 id=&#34;how-do-community-notes-work-on-x&#34;&gt;How do Community Notes work on X?&lt;/h2&gt;
-&lt;p&gt;Notes are found as comments on posts and are intended to point out their shortcomings. The Notes for this data analysis show posts as incorrect or unverified (Fig. 1). Notes are written by previously registered users. To register, the account must be older than six months and a verified phone number is required. Because anyone can participate, Notes are often described as the wisdom of the crowd and contrasted with fact-checks as an unbiased alternative. However, this interpretation overlooks the fact that the users who write Notes are not free of political views. Their assessments and comments may therefore be influenced by their own interests or ideological biases (Allen et al. 2022).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://synosys.github.io/Söder_Community_Note.png&#34; width=&#34;50%&#34; height=&#34;700px&#34; frameborder=&#34;0&#34;&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Figure 1&lt;/strong&gt; &lt;a href=&#34;https://x.com/Markus_Soeder/status/1879106313956765889&#34; target=&#34;_blank&#34;&gt;Post&lt;/a&gt; with a community note that was rated as helpful and therefore published.&lt;/p&gt;
-&lt;p&gt;Precisely because a single registration is enough to write Notes for all posts on X, this is not yet a sign of quality for their correctness. For this reason, registered users can not only write their own Notes, but also rate the Notes of others as helpful or not. To arrive at a final rating, X uses a so-called bridging algorithm. This algorithm takes into account the position of registered users on the political spectrum and requires contributors with different viewpoints to rate the note as helpful (Wojcik et al. 2022). This process is often successful in reflecting the political spectrum, but it also ensures that significantly fewer Notes are published than are actually written.&lt;/p&gt;
-&lt;h2 id=&#34;which-accounts-of-german-parties-and-politicians-receive-community-notes&#34;&gt;Which accounts of German parties and politicians receive Community Notes?&lt;/h2&gt;
-&lt;iframe src=&#34;https://synosys.github.io/Barplots.html&#34; width=&#34;100%&#34; height=&#34;600px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;strong&gt;Figure 2&lt;/strong&gt; Number of posts with Community Notes.&lt;/p&gt;
-&lt;p&gt;In the following, I present the results of the data analysis. In total, I analysed almost 9000 Notes, of which almost 1700 were considered helpful and therefore published. Figure 2a shows the accounts with the most Notes. Of all accounts on X, Markus Söder, the leader of the CSU and Chief Minister of Bavaria, received the most Notes. However, this changes when it comes to helpful Notes (Fig. 2b). Here, with the exception of Julian Reichelt, former editor-in-chief of Bild and founder of Nius, rather unknown accounts are among the top-ranked accounts. Political accounts, namely those of the CSU and Markus Söder, are only found from 8th place onwards. With this in mind, and also looking at Fig. 2c and Fig. 2d, we can see that the accounts with the most Notes and those with the most helpful Notes are in some cases very different.&lt;/p&gt;
-&lt;h2 id=&#34;which-parties-receive-the-most-community-notes&#34;&gt;Which parties receive the most Community Notes?&lt;/h2&gt;
-&lt;iframe src=&#34;https://synosys.github.io/Barplots_Parties.html&#34; width=&#34;100%&#34; height=&#34;500px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;strong&gt;Figure 3&lt;/strong&gt; Number of posts with Community Notes.&lt;/p&gt;
-&lt;p&gt;Figure 3 shows the Notes of German politicians by party. Party scores are often strongly influenced by individual politicians. As shown in Figure 2, for the CSU it is mainly the official party account and that of Markus Söder. For the SPD it is mainly Ralf Stegner, member of the Bundestag, and Arno Gottschalk, financial policy spokesman for the Bremen parliamentary group. A rough analysis of the content shows that Stegner&amp;rsquo;s posts mainly relate to the Russian war in Ukraine.&lt;/p&gt;
-&lt;p&gt;As before, the ranking of most Notes differs if you only look at the helpful ones. The Greens lead the ranking of Notes, closely followe&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Research Explores News Values in Perceived Misinformation Across 24 Countries</title>
-      <link>https://synosys.github.io/news/fake_news_24/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/news/fake_news_24/</guid>
-      <description>&lt;p&gt;Sami Nenno, Postdoc in the Junior Research Group Computational Social Science at SynoSys, Center Synergy of Systems, has co-authored an insightful new paper, All the (Fake) News That’s Fit to Share? News Values in Perceived Misinformation Across Twenty-Four Countries. Co-written with Cornelius Puschmann, the study has been published in The International Journal of Press/Politics and investigates the relationship between journalistic news values and perceived misinformation in diverse national contexts.&lt;/p&gt;
-&lt;p&gt;The research addresses a notable gap in the understanding of how misinformation is shaped and perceived globally. While much of the previous scholarship has focused on misinformation within WEIRD (Western, Educated, Industrialized, Rich, and Democratic) countries, this study expands the scope by including both WEIRD and non-WEIRD regions. Using a dataset of over 770,000 Facebook-shared URLs flagged as misinformation by users, the study analyzes the prevalence of five key news values: conflict, negativity, proximity, individualization, and informativeness. Through computational analysis, the authors explore how these news values appear in flagged and unflagged content and assess their variation across 24 countries.&lt;/p&gt;
-&lt;p&gt;The research reveals that flagged content, often perceived as misinformation, tends to emphasize conflict and negativity more strongly than unflagged content. Other news values, such as proximity and individualization, also appear more prominently in flagged items, though with varying intensity. Significant differences in the prevalence of news values were observed between WEIRD and non-WEIRD countries. For instance, proximity and negativity were found to be more pronounced in WEIRD countries, whereas individualization was more prevalent in non-WEIRD contexts. The study also highlights unique patterns in countries such as the United States and Brazil, where conflict and negativity were particularly dominant in flagged content.&lt;/p&gt;
-&lt;p&gt;The findings challenge existing frameworks of news values, which were primarily developed within Western contexts, by showing that these models may not fully account for the diversity of global media landscapes. This emphasizes the need for more inclusive theoretical models that better reflect regional and cultural differences.&lt;/p&gt;
-&lt;p&gt;This study contributes to the growing field of misinformation research by providing a global perspective on how news values intersect with perceived misinformation. It highlights the influence of journalistic styles and national media systems on the characteristics of flagged content, offering valuable insights for academics, journalists, and policymakers seeking to address the challenges posed by misinformation.&lt;/p&gt;
-&lt;p&gt;This publication was part of Sami Nenno&amp;rsquo;s PhD project and was written during his time at the University of Bremen and at the Alexander von Humboldt Institute for Internet and Society. He recently joined Synosys to continue his work. The paper is accessible online at &lt;a href=&#34;https://journals.sagepub.com/doi/10.1177/19401612241311893&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sami Nenno | SynoSys</title><link>https://synosys.github.io/authors/sami/</link><atom:link href="https://synosys.github.io/authors/sami/index.xml" rel="self" type="application/rss+xml"/><description>Sami Nenno</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate><image><url>https://synosys.github.io/authors/sami/avatar_hub9aac1fe4ec81f200b71f2c1b20474ba_490089_270x270_fill_lanczos_center_3.png</url><title>Sami Nenno</title><link>https://synosys.github.io/authors/sami/</link></image><item><title>All The (Fake) News That’s Fit to Share? News Values in Perceived Misinformation across Twenty-Four Countries</title><link>https://synosys.github.io/publication/sami-all-the-fake-news-thats-fit-to-share/</link><pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate><guid>https://synosys.github.io/publication/sami-all-the-fake-news-thats-fit-to-share/</guid><description/></item><item><title>Methods for Computational Social Sciences</title><link>https://synosys.github.io/teaching/methods_css/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://synosys.github.io/teaching/methods_css/</guid><description>&lt;p>Opal: &lt;a href="https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48847978502/CourseNode/1743388566773105003/" target="_blank">Link here&lt;/a>.&lt;/p>
+&lt;p>Time (Lecture) Mondays, 3. DS and 5. DS&lt;/p>
+&lt;p>Location APB/E001&lt;/p>
+&lt;p>Department Computer Science&lt;/p>
+&lt;p>Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p>
+&lt;p>Language English&lt;/p>
+&lt;p>Assessment oral exam&lt;/p>
+&lt;h2 id="description">Description:&lt;/h2>
+&lt;p>The lecture will introduce you to social science research questions and findings, while the exercise will give you the practical skills to answer social questions yourself using computational tools. The first part focuses on basic techniques of text analysis. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing (NLP), such as sentiment analysis.&lt;/p>
+&lt;p>We will then move on to analyzing the structural factors of online data, from time series to networks and their dynamics. We will also explore how to collect such data from social media and how to conduct online field experiments. We will then have the tools to move on to applied research questions, covering topics such as political polarization, misinformation, public health and human mobility. We will learn what conclusions can and cannot be drawn from these descriptions. Finally, we will go beyond description and learn about causality, simulation models of social systems that allow mechanistic understanding.&lt;/p>
+&lt;p>The last part of the course will focus on NLP again, this time with a focus on deep learning methods such as Large Language Models (LLMs). We will use transformer models to identify complex patterns in the communication of German parties on social media.&lt;/p>
+&lt;p>In summary, this course will provide a toolbox for describing different types of social systems with a focus on textual data, as well as a family of modelling approaches that can go beyond individual-level statistics to describe collective processes.&lt;/p>
+&lt;h3 id="schedule">Schedule:&lt;/h3>
+&lt;p>Week 1 What is Computational Social Science?&lt;/p>
+&lt;p>Week 2 Data, types, sources and preparation in R/Python&lt;/p>
+&lt;p>Week 3 Collecting text data&lt;/p>
+&lt;p>Week 4 Identifying sentiment and clusters&lt;/p>
+&lt;p>Week 5 Time series analysis&lt;/p>
+&lt;p>Week 6 Regressions and statistical modeling&lt;/p>
+&lt;p>Week 7 Network science 1&lt;/p>
+&lt;p>Week 8 Network science 2&lt;/p>
+&lt;p>Week 9 Causal inference in observational data&lt;/p>
+&lt;p>Break June 8 - 15&lt;/p>
+&lt;p>Week 10 Agent-based-models&lt;/p>
+&lt;p>Week 11 Topic Modeling with Transformers 1&lt;/p>
+&lt;p>Week 12 Topic Modeling with Transformers 2&lt;/p>
+&lt;p>Week 13 LLMs&lt;/p>
+&lt;p>Week 14 Final session, feedback, Q&amp;amp;A, Discussion&lt;/p>
+&lt;h3 id="bibliography">Bibliography:&lt;/h3>
+&lt;p>Llaudet, E., &amp;amp; Imai, K. (2022). Data analysis for social science: A friendly and practical introduction. Princeton University Press.&lt;/p>
+&lt;p>Albert-László Barabási (2015). Network Science. Cambridge University Press (also here: networksciencebook.com)&lt;/p>
+&lt;p>Cunningham, S. (2021). Causal inference: The mixtape. Yale university press.&lt;/p>
+&lt;p>Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., &amp;hellip; &amp;amp; Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.&lt;/p>
+&lt;p>Flache, A., Mäs, M., Feliciani, T., Chattoe-Brown, E., Deffuant, G., Huet, S., &amp;amp; Lorenz, J. (2017). Models of social influence: Towards the next frontiers. Jasss-The journal of artificial societies and social simulation, 20(4), 2.&lt;/p>
+&lt;p>Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., &amp;amp; Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature human behaviour, 7(1), 74-101.&lt;/p></description></item><item><title>Do Community Notes have a party preference?</title><link>https://synosys.github.io/news/community_notes/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/community_notes/</guid><description>&lt;p>&lt;strong>Community notes are supposed to curb disinformation on X - but they themselves follow political patterns. A new data analysis shows that Green Party posts are particularly criticised, but their notes are hardly considered helpful. At the same time, there is no clear political trend in the notes that are actually published. Why is this the case? The article analyses patterns in the distribution and rating of the notes and sheds light on the dynamics that can be derived from the data.&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Note: This work has not yet been peer reviewed.&lt;/strong>&lt;/p>
+&lt;h2 id="community-notes-instead-of-fact-checks">Community Notes instead of Fact-checks?&lt;/h2>
+&lt;p>At the beginning of the year, &lt;a href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank"> Meta&amp;rsquo;s CEO Mark Zuckerberg announced &lt;/a> that the company was ending its collaboration with independent fact-checkers replacing them with X-style Community Notes (Notes for short). Zuckerberg claimed that fact-checking limited free speech. However, &lt;a href="https://netzpolitik.org/2025/zuckerbergs-kehrtwende-meta-goes-maga/" target="_blank">it seems more likely&lt;/a> that this is a concession to Trump and the Republican Party, who accuse fact-checkers of being politically motivated.&lt;/p>
+&lt;p>The accusation that fact-checking is biased in favour of the left or liberal camp is not new and is also made in &lt;a href="https://www.nzz.ch/meinung/faktenchecks-zuckerberg-musk-trump-medien-aktivismus-ard-faktenfinder-russland-nordstream-propaganda-fake-news-ld.1867044" target="_blank">German-speaking countries&lt;/a>. Of course, fact-checking, like any other journalistic genre, is not free of errors and distortions. However, it is often overlooked that disinformation is frequently associated with right-wing and populist attitudes (Lasser et al. 2022, Törnberg and Chueri 2025). If fact-checks tend to scrutinise right-wing actors, this does not necessarily reveal a bias, but could also reflect an actual asymmetry (Mosleh et al. 2024). For example, a recent study shows that helpful Notes are also more likely to be found in posts from the Republicans (Renault et al. 2025).&lt;/p>
+&lt;p>This blog post presents the results of a data analysis of German-language Notes that were rated as helpful or unhelpful at least 20 times and published between January 2024 and January 2025 inclusive. As Notes will also be launched on Facebook and Instagram in the future (initially only in the US), it is worth asking whether there is a focus on parties from a particular ideological spectrum.&lt;/p>
+&lt;h2 id="how-do-community-notes-work-on-x">How do Community Notes work on X?&lt;/h2>
+&lt;p>Notes are found as comments on posts and are intended to point out their shortcomings. The Notes for this data analysis show posts as incorrect or unverified (Fig. 1). Notes are written by previously registered users. To register, the account must be older than six months and a verified phone number is required. Because anyone can participate, Notes are often described as the wisdom of the crowd and contrasted with fact-checks as an unbiased alternative. However, this interpretation overlooks the fact that the users who write Notes are not free of political views. Their assessments and comments may therefore be influenced by their own interests or ideological biases (Allen et al. 2022).&lt;/p>
+&lt;p>&lt;img src="https://synosys.github.io/Söder_Community_Note.png" width="50%" height="700px" frameborder="0">&lt;/img>&lt;/p>
+&lt;p>&lt;strong>Figure 1&lt;/strong> &lt;a href="https://x.com/Markus_Soeder/status/1879106313956765889" target="_blank">Post&lt;/a> with a community note that was rated as helpful and therefore published.&lt;/p>
+&lt;p>Precisely because a single registration is enough to write Notes for all posts on X, this is not yet a sign of quality for their correctness. For this reason, registered users can not only write their own Notes, but also rate the Notes of others as helpful or not. To arrive at a final rating, X uses a so-called bridging algorithm. This algorithm takes into account the position of registered users on the political spectrum and requires contributors with different viewpoints to rate the note as helpful (Wojcik et al. 2022). This process is often successful in reflecting the political spectrum, but it also ensures that significantly fewer Notes are published than are actually written.&lt;/p>
+&lt;h2 id="which-accounts-of-german-parties-and-politicians-receive-community-notes">Which accounts of German parties and politicians receive Community Notes?&lt;/h2>
+&lt;iframe src="https://synosys.github.io/Barplots.html" width="100%" height="600px" frameborder="0">&lt;/iframe>
+&lt;p>&lt;strong>Figure 2&lt;/strong> Number of posts with Community Notes.&lt;/p>
+&lt;p>In the following, I present the results of the data analysis. In total, I analysed almost 9000 Notes, of which almost 1700 were considered helpful and therefore published. Figure 2a shows the accounts with the most Notes. Of all accounts on X, Markus Söder, the leader of the CSU and Chief Minister of Bavaria, received the most Notes. However, this changes when it comes to helpful Notes (Fig. 2b). Here, with the exception of Julian Reichelt, former editor-in-chief of Bild and founder of Nius, rather unknown accounts are among the top-ranked accounts. Political accounts, namely those of the CSU and Markus Söder, are only found from 8th place onwards. With this in mind, and also looking at Fig. 2c and Fig. 2d, we can see that the accounts with the most Notes and those with the most helpful Notes are in some cases very different.&lt;/p>
+&lt;h2 id="which-parties-receive-the-most-community-notes">Which parties receive the most Community Notes?&lt;/h2>
+&lt;iframe src="https://synosys.github.io/Barplots_Parties.html" width="100%" height="500px" frameborder="0">&lt;/iframe>
+&lt;p>&lt;strong>Figure 3&lt;/strong> Number of posts with Community Notes.&lt;/p>
+&lt;p>Figure 3 shows the Notes of German politicians by party. Party scores are often strongly influenced by individual politicians. As shown in Figure 2, for the CSU it is mainly the official party account and that of Markus Söder. For the SPD it is mainly Ralf Stegner, member of the Bundestag, and Arno Gottschalk, financial policy spokesman for the Bremen parliamentary group. A rough analysis of the content shows that Stegner&amp;rsquo;s posts mainly relate to the Russian war in Ukraine.&lt;/p>
+&lt;p>As before, the ranking of most Notes differs if you only look at the helpful ones. The Greens lead the ranking of Notes, closely followe&lt;/p></description></item><item><title>New Research Explores News Values in Perceived Misinformation Across 24 Countries</title><link>https://synosys.github.io/news/fake_news_24/</link><pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate><guid>https://synosys.github.io/news/fake_news_24/</guid><description>&lt;p>Sami Nenno, Postdoc in the Junior Research Group Computational Social Science at SynoSys, Center Synergy of Systems, has co-authored an insightful new paper, All the (Fake) News That’s Fit to Share? News Values in Perceived Misinformation Across Twenty-Four Countries. Co-written with Cornelius Puschmann, the study has been published in The International Journal of Press/Politics and investigates the relationship between journalistic news values and perceived misinformation in diverse national contexts.&lt;/p>
+&lt;p>The research addresses a notable gap in the understanding of how misinformation is shaped and perceived globally. While much of the previous scholarship has focused on misinformation within WEIRD (Western, Educated, Industrialized, Rich, and Democratic) countries, this study expands the scope by including both WEIRD and non-WEIRD regions. Using a dataset of over 770,000 Facebook-shared URLs flagged as misinformation by users, the study analyzes the prevalence of five key news values: conflict, negativity, proximity, individualization, and informativeness. Through computational analysis, the authors explore how these news values appear in flagged and unflagged content and assess their variation across 24 countries.&lt;/p>
+&lt;p>The research reveals that flagged content, often perceived as misinformation, tends to emphasize conflict and negativity more strongly than unflagged content. Other news values, such as proximity and individualization, also appear more prominently in flagged items, though with varying intensity. Significant differences in the prevalence of news values were observed between WEIRD and non-WEIRD countries. For instance, proximity and negativity were found to be more pronounced in WEIRD countries, whereas individualization was more prevalent in non-WEIRD contexts. The study also highlights unique patterns in countries such as the United States and Brazil, where conflict and negativity were particularly dominant in flagged content.&lt;/p>
+&lt;p>The findings challenge existing frameworks of news values, which were primarily developed within Western contexts, by showing that these models may not fully account for the diversity of global media landscapes. This emphasizes the need for more inclusive theoretical models that better reflect regional and cultural differences.&lt;/p>
+&lt;p>This study contributes to the growing field of misinformation research by providing a global perspective on how news values intersect with perceived misinformation. It highlights the influence of journalistic styles and national media systems on the characteristics of flagged content, offering valuable insights for academics, journalists, and policymakers seeking to address the challenges posed by misinformation.&lt;/p>
+&lt;p>This publication was part of Sami Nenno&amp;rsquo;s PhD project and was written during his time at the University of Bremen and at the Alexander von Humboldt Institute for Internet and Society. He recently joined Synosys to continue his work. The paper is accessible online at &lt;a href="https://journals.sagepub.com/doi/10.1177/19401612241311893" target="_blank" rel="noopener">this link&lt;/a>.&lt;/p></description></item></channel></rss>

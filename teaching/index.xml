@@ -1,96 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Teaching | SynoSys</title>
-    <link>https://synosys.github.io/teaching/</link>
-      <atom:link href="https://synosys.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <description>Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://synosys.github.io/media/sharing.png</url>
-      <title>Teaching</title>
-      <link>https://synosys.github.io/teaching/</link>
-    </image>
-    
-    <item>
-      <title>Introduction to Statistical Modeling for Online Behavior Data</title>
-      <link>https://synosys.github.io/teaching/stats_model/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/teaching/stats_model/</guid>
-      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48880648204/CourseNode/1743474776839555003&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Time Thursdays, 5. DS&lt;/p&gt;
-&lt;p&gt;Location BAR/0I89&lt;/p&gt;
-&lt;p&gt;Department Computer Science&lt;/p&gt;
-&lt;p&gt;Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
-&lt;p&gt;Language English&lt;/p&gt;
-&lt;p&gt;Assessment oral exam&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
-&lt;p&gt;Online platforms generate vast amounts of behavioral data, including subjective ratings (e.g., likes, stars, reactions) and objective engagement metrics (e.g., views, clicks, watch time). While machine learning excels at predicting user behavior, statistical modeling—a cornerstone of empirical research—is critical for interpretable analysis. It helps uncover relationships between user behavior and various factors (e.g., how demographics influence engagement patterns) and enables causal inference in experiments (e.g., measuring the impact of different feed-ranking algorithms on user experience). These methods are widely used in UX research, product analytics, and A/B testing.&lt;/p&gt;
-&lt;p&gt;This course provides a hands-on introduction to statistical modeling in R, focusing on methods most useful for analyzing behavioral data. We&amp;rsquo;ll cover key concepts and progress to model selection based on outcome type. Topics include logistic regression for binary outcomes (e.g., like/dislike reactions), ordinal regression for rating scales, beta regression for continuous feedback (e.g., sliders), and hierarchical models for nested data (e.g., multiple ratings from the same users). In the end, you&amp;rsquo;ll not only know which model to use but also how to effectively visualize and communicate your findings through clear, interpretable result presentations.&lt;/p&gt;
-&lt;p&gt;No prior statistical modeling experience is required. If you&amp;rsquo;re familiar with Python or similar languages, the transition to R should be easy. All scripts and exercises are provided.&lt;/p&gt;
-&lt;h3 id=&#34;schedule&#34;&gt;Schedule:&lt;/h3&gt;
-&lt;p&gt;Part 1: General Introduction&lt;/p&gt;
-&lt;p&gt;Week 1 Introduction to statistical modeling: goals and principles&lt;/p&gt;
-&lt;p&gt;Week 2 Linear regression: the foundational model, applications and limitations&lt;/p&gt;
-&lt;p&gt;Part 2: Selected Generalized Linear Models&lt;/p&gt;
-&lt;p&gt;Week 1 Logistic regression 1: analysis of likes and dislikes&lt;/p&gt;
-&lt;p&gt;Week 2 Logistic regression 2: multivariate analysis&lt;/p&gt;
-&lt;p&gt;Week 3 Ordinal regression 1: stars and other likert-type ratings&lt;/p&gt;
-&lt;p&gt;Week 4 Ordinal regression 2: modeling distributional parameters&lt;/p&gt;
-&lt;p&gt;Week 5 Beta regression 1: slider-type ratings&lt;/p&gt;
-&lt;p&gt;Week 6 Beta regression 2: modeling distributional parameters&lt;/p&gt;
-&lt;p&gt;Week 7 Interim summary, additional exercises, and other GLMs&lt;/p&gt;
-&lt;p&gt;Part 3: Experimental design &amp;amp; hierarchical models&lt;/p&gt;
-&lt;p&gt;Week 1 Modeling between- and within-individual experimental designs&lt;/p&gt;
-&lt;p&gt;Week 2 Hierarchical models 1: introduction&lt;/p&gt;
-&lt;p&gt;Week 3 Hierarchical models 2: logistic and ordinal regression&lt;/p&gt;
-&lt;p&gt;Week 4 Hierarchical models 3: Beta regression&lt;/p&gt;
-&lt;p&gt;Week 5 Final session, Q&amp;amp;A, discussion and feedback&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Methods for Computational Social Sciences</title>
-      <link>https://synosys.github.io/teaching/methods_css/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/teaching/methods_css/</guid>
-      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48847978502/CourseNode/1743388566773105003/&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Time (Lecture) Mondays, 3. DS and 5. DS&lt;/p&gt;
-&lt;p&gt;Location APB/E001&lt;/p&gt;
-&lt;p&gt;Department Computer Science&lt;/p&gt;
-&lt;p&gt;Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
-&lt;p&gt;Language English&lt;/p&gt;
-&lt;p&gt;Assessment oral exam&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
-&lt;p&gt;The lecture will introduce you to social science research questions and findings, while the exercise will give you the practical skills to answer social questions yourself using computational tools. The first part focuses on basic techniques of text analysis. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing (NLP), such as sentiment analysis.&lt;/p&gt;
-&lt;p&gt;We will then move on to analyzing the structural factors of online data, from time series to networks and their dynamics. We will also explore how to collect such data from social media and how to conduct online field experiments. We will then have the tools to move on to applied research questions, covering topics such as political polarization, misinformation, public health and human mobility. We will learn what conclusions can and cannot be drawn from these descriptions. Finally, we will go beyond description and learn about causality, simulation models of social systems that allow mechanistic understanding.&lt;/p&gt;
-&lt;p&gt;The last part of the course will focus on NLP again, this time with a focus on deep learning methods such as Large Language Models (LLMs). We will use transformer models to identify complex patterns in the communication of German parties on social media.&lt;/p&gt;
-&lt;p&gt;In summary, this course will provide a toolbox for describing different types of social systems with a focus on textual data, as well as a family of modelling approaches that can go beyond individual-level statistics to describe collective processes.&lt;/p&gt;
-&lt;h3 id=&#34;schedule&#34;&gt;Schedule:&lt;/h3&gt;
-&lt;p&gt;Week 1 What is Computational Social Science?&lt;/p&gt;
-&lt;p&gt;Week 2 Data, types, sources and preparation in R/Python&lt;/p&gt;
-&lt;p&gt;Week 3 Collecting text data&lt;/p&gt;
-&lt;p&gt;Week 4 Identifying sentiment and clusters&lt;/p&gt;
-&lt;p&gt;Week 5 Time series analysis&lt;/p&gt;
-&lt;p&gt;Week 6 Regressions and statistical modeling&lt;/p&gt;
-&lt;p&gt;Week 7 Network science 1&lt;/p&gt;
-&lt;p&gt;Week 8 Network science 2&lt;/p&gt;
-&lt;p&gt;Week 9 Causal inference in observational data&lt;/p&gt;
-&lt;p&gt;Break June 8 - 15&lt;/p&gt;
-&lt;p&gt;Week 10 Agent-based-models&lt;/p&gt;
-&lt;p&gt;Week 11 Topic Modeling with Transformers 1&lt;/p&gt;
-&lt;p&gt;Week 12 Topic Modeling with Transformers 2&lt;/p&gt;
-&lt;p&gt;Week 13 LLMs&lt;/p&gt;
-&lt;p&gt;Week 14 Final session, feedback, Q&amp;amp;A, Discussion&lt;/p&gt;
-&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography:&lt;/h3&gt;
-&lt;p&gt;Llaudet, E., &amp;amp; Imai, K. (2022). Data analysis for social science: A friendly and practical introduction. Princeton University Press.&lt;/p&gt;
-&lt;p&gt;Albert-László Barabási (2015). Network Science. Cambridge University Press (also here: networksciencebook.com)&lt;/p&gt;
-&lt;p&gt;Cunningham, S. (2021). Causal inference: The mixtape. Yale university press.&lt;/p&gt;
-&lt;p&gt;Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., &amp;hellip; &amp;amp; Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.&lt;/p&gt;
-&lt;p&gt;Flache, A., Mäs, M., Feliciani, T., Chattoe-Brown, E., Deffuant, G., Huet, S., &amp;amp; Lorenz, J. (2017). Models of social influence: Towards the next frontiers. Jasss-The journal of artificial societies and social simulation, 20(4), 2.&lt;/p&gt;
-&lt;p&gt;Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., &amp;amp; Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature human behaviour, 7(1), 74-101.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching | SynoSys</title><link>https://synosys.github.io/teaching/</link><atom:link href="https://synosys.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teaching</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><image><url>https://synosys.github.io/media/sharing.png</url><title>Teaching</title><link>https://synosys.github.io/teaching/</link></image><item><title>Introduction to Statistical Modeling for Online Behavior Data</title><link>https://synosys.github.io/teaching/stats_model/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://synosys.github.io/teaching/stats_model/</guid><description>&lt;p>Opal: &lt;a href="https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48880648204/CourseNode/1743474776839555003" target="_blank">Link here&lt;/a>.&lt;/p>
+&lt;p>Time Thursdays, 5. DS&lt;/p>
+&lt;p>Location BAR/0I89&lt;/p>
+&lt;p>Department Computer Science&lt;/p>
+&lt;p>Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p>
+&lt;p>Language English&lt;/p>
+&lt;p>Assessment oral exam&lt;/p>
+&lt;h2 id="description">Description:&lt;/h2>
+&lt;p>Online platforms generate vast amounts of behavioral data, including subjective ratings (e.g., likes, stars, reactions) and objective engagement metrics (e.g., views, clicks, watch time). While machine learning excels at predicting user behavior, statistical modeling—a cornerstone of empirical research—is critical for interpretable analysis. It helps uncover relationships between user behavior and various factors (e.g., how demographics influence engagement patterns) and enables causal inference in experiments (e.g., measuring the impact of different feed-ranking algorithms on user experience). These methods are widely used in UX research, product analytics, and A/B testing.&lt;/p>
+&lt;p>This course provides a hands-on introduction to statistical modeling in R, focusing on methods most useful for analyzing behavioral data. We&amp;rsquo;ll cover key concepts and progress to model selection based on outcome type. Topics include logistic regression for binary outcomes (e.g., like/dislike reactions), ordinal regression for rating scales, beta regression for continuous feedback (e.g., sliders), and hierarchical models for nested data (e.g., multiple ratings from the same users). In the end, you&amp;rsquo;ll not only know which model to use but also how to effectively visualize and communicate your findings through clear, interpretable result presentations.&lt;/p>
+&lt;p>No prior statistical modeling experience is required. If you&amp;rsquo;re familiar with Python or similar languages, the transition to R should be easy. All scripts and exercises are provided.&lt;/p>
+&lt;h3 id="schedule">Schedule:&lt;/h3>
+&lt;p>Part 1: General Introduction&lt;/p>
+&lt;p>Week 1 Introduction to statistical modeling: goals and principles&lt;/p>
+&lt;p>Week 2 Linear regression: the foundational model, applications and limitations&lt;/p>
+&lt;p>Part 2: Selected Generalized Linear Models&lt;/p>
+&lt;p>Week 1 Logistic regression 1: analysis of likes and dislikes&lt;/p>
+&lt;p>Week 2 Logistic regression 2: multivariate analysis&lt;/p>
+&lt;p>Week 3 Ordinal regression 1: stars and other likert-type ratings&lt;/p>
+&lt;p>Week 4 Ordinal regression 2: modeling distributional parameters&lt;/p>
+&lt;p>Week 5 Beta regression 1: slider-type ratings&lt;/p>
+&lt;p>Week 6 Beta regression 2: modeling distributional parameters&lt;/p>
+&lt;p>Week 7 Interim summary, additional exercises, and other GLMs&lt;/p>
+&lt;p>Part 3: Experimental design &amp;amp; hierarchical models&lt;/p>
+&lt;p>Week 1 Modeling between- and within-individual experimental designs&lt;/p>
+&lt;p>Week 2 Hierarchical models 1: introduction&lt;/p>
+&lt;p>Week 3 Hierarchical models 2: logistic and ordinal regression&lt;/p>
+&lt;p>Week 4 Hierarchical models 3: Beta regression&lt;/p>
+&lt;p>Week 5 Final session, Q&amp;amp;A, discussion and feedback&lt;/p></description></item><item><title>Methods for Computational Social Sciences</title><link>https://synosys.github.io/teaching/methods_css/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate><guid>https://synosys.github.io/teaching/methods_css/</guid><description>&lt;p>Opal: &lt;a href="https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/48847978502/CourseNode/1743388566773105003/" target="_blank">Link here&lt;/a>.&lt;/p>
+&lt;p>Time (Lecture) Mondays, 3. DS and 5. DS&lt;/p>
+&lt;p>Location APB/E001&lt;/p>
+&lt;p>Department Computer Science&lt;/p>
+&lt;p>Modules INF-BAS3 (Software- und Web-Engineering)&lt;/p>
+&lt;p>Language English&lt;/p>
+&lt;p>Assessment oral exam&lt;/p>
+&lt;h2 id="description">Description:&lt;/h2>
+&lt;p>The lecture will introduce you to social science research questions and findings, while the exercise will give you the practical skills to answer social questions yourself using computational tools. The first part focuses on basic techniques of text analysis. We will learn how to collect text data from sources such as newspapers, parliamentary minutes or social media, and how to pre-process it for natural language processing (NLP), such as sentiment analysis.&lt;/p>
+&lt;p>We will then move on to analyzing the structural factors of online data, from time series to networks and their dynamics. We will also explore how to collect such data from social media and how to conduct online field experiments. We will then have the tools to move on to applied research questions, covering topics such as political polarization, misinformation, public health and human mobility. We will learn what conclusions can and cannot be drawn from these descriptions. Finally, we will go beyond description and learn about causality, simulation models of social systems that allow mechanistic understanding.&lt;/p>
+&lt;p>The last part of the course will focus on NLP again, this time with a focus on deep learning methods such as Large Language Models (LLMs). We will use transformer models to identify complex patterns in the communication of German parties on social media.&lt;/p>
+&lt;p>In summary, this course will provide a toolbox for describing different types of social systems with a focus on textual data, as well as a family of modelling approaches that can go beyond individual-level statistics to describe collective processes.&lt;/p>
+&lt;h3 id="schedule">Schedule:&lt;/h3>
+&lt;p>Week 1 What is Computational Social Science?&lt;/p>
+&lt;p>Week 2 Data, types, sources and preparation in R/Python&lt;/p>
+&lt;p>Week 3 Collecting text data&lt;/p>
+&lt;p>Week 4 Identifying sentiment and clusters&lt;/p>
+&lt;p>Week 5 Time series analysis&lt;/p>
+&lt;p>Week 6 Regressions and statistical modeling&lt;/p>
+&lt;p>Week 7 Network science 1&lt;/p>
+&lt;p>Week 8 Network science 2&lt;/p>
+&lt;p>Week 9 Causal inference in observational data&lt;/p>
+&lt;p>Break June 8 - 15&lt;/p>
+&lt;p>Week 10 Agent-based-models&lt;/p>
+&lt;p>Week 11 Topic Modeling with Transformers 1&lt;/p>
+&lt;p>Week 12 Topic Modeling with Transformers 2&lt;/p>
+&lt;p>Week 13 LLMs&lt;/p>
+&lt;p>Week 14 Final session, feedback, Q&amp;amp;A, Discussion&lt;/p>
+&lt;h3 id="bibliography">Bibliography:&lt;/h3>
+&lt;p>Llaudet, E., &amp;amp; Imai, K. (2022). Data analysis for social science: A friendly and practical introduction. Princeton University Press.&lt;/p>
+&lt;p>Albert-László Barabási (2015). Network Science. Cambridge University Press (also here: networksciencebook.com)&lt;/p>
+&lt;p>Cunningham, S. (2021). Causal inference: The mixtape. Yale university press.&lt;/p>
+&lt;p>Lazer, D., Pentland, A., Adamic, L., Aral, S., Barabási, A. L., Brewer, D., &amp;hellip; &amp;amp; Van Alstyne, M. (2009). Computational social science. Science, 323(5915), 721-723.&lt;/p>
+&lt;p>Flache, A., Mäs, M., Feliciani, T., Chattoe-Brown, E., Deffuant, G., Huet, S., &amp;amp; Lorenz, J. (2017). Models of social influence: Towards the next frontiers. Jasss-The journal of artificial societies and social simulation, 20(4), 2.&lt;/p>
+&lt;p>Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., &amp;amp; Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature human behaviour, 7(1), 74-101.&lt;/p></description></item></channel></rss>

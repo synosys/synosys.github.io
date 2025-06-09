@@ -1,42 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Susi Gottwald | SynoSys</title>
-    <link>https://synosys.github.io/authors/susi/</link>
-      <atom:link href="https://synosys.github.io/authors/susi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Susi Gottwald</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://synosys.github.io/authors/susi/avatar_hu69bee4adc3fe4693ed2865433266797f_1764882_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Susi Gottwald</title>
-      <link>https://synosys.github.io/authors/susi/</link>
-    </image>
-    
-    <item>
-      <title>The ROCS-Team welcomes new members!</title>
-      <link>https://synosys.github.io/old_news/welcome_new_members/</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/old_news/welcome_new_members/</guid>
-      <description>&lt;p&gt;Our team keeps growing!&lt;/p&gt;
-&lt;p&gt;We warmly welcome:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Adrian Pelcaru&lt;/li&gt;
-&lt;li&gt;Paul Buttkus&lt;/li&gt;
-&lt;li&gt;Tashin Talbot&lt;/li&gt;
-&lt;li&gt;Marc Wiedemann&lt;/li&gt;
-&lt;li&gt;Jakob Kolb&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We are very happy that they are on board. Welcome!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Corona Datenspende App</title>
-      <link>https://synosys.github.io/project/datenspende/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/project/datenspende/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Susi Gottwald | SynoSys</title><link>https://synosys.github.io/authors/susi/</link><atom:link href="https://synosys.github.io/authors/susi/index.xml" rel="self" type="application/rss+xml"/><description>Susi Gottwald</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><image><url>https://synosys.github.io/authors/susi/avatar_hu69bee4adc3fe4693ed2865433266797f_1764882_270x270_fill_q75_lanczos_center.jpg</url><title>Susi Gottwald</title><link>https://synosys.github.io/authors/susi/</link></image><item><title>The ROCS-Team welcomes new members!</title><link>https://synosys.github.io/old_news/welcome_new_members/</link><pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate><guid>https://synosys.github.io/old_news/welcome_new_members/</guid><description>&lt;p>Our team keeps growing!&lt;/p>
+&lt;p>We warmly welcome:&lt;/p>
+&lt;ul>
+&lt;li>Adrian Pelcaru&lt;/li>
+&lt;li>Paul Buttkus&lt;/li>
+&lt;li>Tashin Talbot&lt;/li>
+&lt;li>Marc Wiedemann&lt;/li>
+&lt;li>Jakob Kolb&lt;/li>
+&lt;/ul>
+&lt;p>We are very happy that they are on board. Welcome!&lt;/p></description></item><item><title>Corona Datenspende App</title><link>https://synosys.github.io/project/datenspende/</link><pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate><guid>https://synosys.github.io/project/datenspende/</guid><description/></item></channel></rss>
