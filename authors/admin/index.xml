@@ -5,12 +5,21 @@
     <link>https://synosys.github.io/authors/admin/</link>
       <atom:link href="https://synosys.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>admin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>admin</title>
       <link>https://synosys.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Complex Systems Course</title>
+      <link>https://synosys.github.io/teaching/complex-systems-course/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/teaching/complex-systems-course/</guid>
+      <description>&lt;p&gt;This course provides a comprehensive introduction to complex systems theory with interactive content.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New replication study examines the influence of digital media on democracy</title>
