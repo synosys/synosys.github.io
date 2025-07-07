@@ -1,0 +1,20 @@
+{
+    "datasets": [
+        {
+            "id": "heartrate",
+            "label": {
+                "en": "heart rate",
+                "de": "heart rate"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },  
+            "geojson": [
+                "nuts1"
+            ],
+            "min": 0,
+            "max": 1000
+        }
+    ]
+}

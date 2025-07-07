@@ -1,0 +1,83 @@
+{
+    "ui": {
+        "en": {
+            "title": "Datenspende Vital Data Explorer",
+            "regions": {
+                "nuts0": "Germany",
+                "nuts1": "Federal States",
+                "nuts3": "Districts"
+            },
+            "dataset.info": " Select a dataset (all data is shown as a 7-day average):",
+            "region.info": "Select region(s) below or by clicking on map:"
+        },
+        "de": {
+            "title": "Datenspende Vitaldaten-Explorer",
+            "regions": {
+                "nuts0": "Deutschland",
+                "nuts1": "Bundesländer",
+                "nuts3": "Landkreise"
+            },
+            "dataset.info": "Datensatz auswählen (Daten jeweils über 7 Tage gemittelt):",
+            "region.info": "Region(en) eingeben oder per Klick auf der Karte markieren:"
+        }
+    },
+    "datasets": [
+        {
+            "id": "hr_daily_rolling",
+            "label": {
+                "en": "resting heart rate in bpm",
+                "de": "Ruhepuls in Schlägen pro Minute"
+            },
+            "map.legend": {
+                "en": "Average resting heart rate on",
+                "de": "Mittlerer Ruhepuls am"
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 60,
+            "max": 62,
+            "color": "red"
+        },
+        {
+            "id": "steps_daily_rolling",
+            "label": {
+                "en": "step count",
+                "de": "Schrittzahl"
+            },
+            "map.legend": {
+                "en": "Average step count on",
+                "de": "Mittlere Schrittzahl am"
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 6800,
+            "max": 8000,
+            "color": "green"
+        },
+        {
+            "id": "sleep_daily_rolling",
+            "label": {
+                "en": "sleep duration in minutes",
+                "de": "Schlafdauer in Minuten"
+            },
+            "map.legend": {
+                "en": "Average sleep duration on",
+                "de": "Mittlere Schlafdauer am"
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 350,
+            "max": 450,
+            "color": "blue"
+        }
+    ]
+}

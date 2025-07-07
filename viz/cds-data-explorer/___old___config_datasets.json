@@ -1,0 +1,175 @@
+{
+    "datasets": [
+        {
+            "id": "hr_daily",
+            "label": {
+                "en": "heart rate (daily)",
+                "de": "heart rate"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 60,
+            "max": 62,
+            "color": "red"
+        },
+        {
+            "id": "hr_weekly",
+            "label": {
+                "en": "heart rate (weekly)",
+                "de": "heart rate"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 60,
+            "max": 62,
+            "color": "red"
+        },
+        {
+            "id": "hr_daily_rolling",
+            "label": {
+                "en": "heart rate (daily rolling)",
+                "de": "heart rate"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 60,
+            "max": 62,
+            "color": "red"
+        },
+        {
+            "id": "steps_daily",
+            "label": {
+                "en": "steps (daily)",
+                "de": "Schrittzahl"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 6800,
+            "max": 8000,
+            "color": "green"
+        },
+        {
+            "id": "steps_weekly",
+            "label": {
+                "en": "steps (weekly)",
+                "de": "Schrittzahl"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 6800,
+            "max": 8000,
+            "color": "green"
+        },
+        {
+            "id": "steps_daily_rolling",
+            "label": {
+                "en": "steps (daily rolling)",
+                "de": "Schrittzahl"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 6800,
+            "max": 8000,
+            "color": "green"
+        },
+        {
+            "id": "sleep_daily",
+            "label": {
+                "en": "sleep duration (daily)",
+                "de": "Schlafdauer"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 380,
+            "max": 500,
+            "color": "blue"
+        },
+        {
+            "id": "sleep_weekly",
+            "label": {
+                "en": "sleep duration (weekly)",
+                "de": "Schlafdauer"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 350,
+            "max": 450,
+            "color": "blue"
+        },
+        {
+            "id": "sleep_daily_rolling",
+            "label": {
+                "en": "sleep duration (daily rolling)",
+                "de": "Schlafdauer"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts3"
+            ],
+            "min": 350,
+            "max": 450,
+            "color": "blue"
+        }
+    ]
+}

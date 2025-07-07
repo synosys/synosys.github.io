@@ -1,0 +1,22 @@
+{
+    "tilesets": [
+        {
+            "label": "Bundesländer",
+            "id": "nuts1",
+            "path": "nuts1_5000",
+            "idLookup": "NUTS_CODE"
+        },
+        {
+            "label": "nuts2",
+            "id": "nuts2",
+            "path": "nuts2_5000",
+            "idLookup": "NUTS_CODE"
+        },
+        {
+            "label": "Landkreise",
+            "id": "nuts3",
+            "path": "nuts3_5000",
+            "idLookup": "NUTS_CODE"
+        }
+    ]
+}
