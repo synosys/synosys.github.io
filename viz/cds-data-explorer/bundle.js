@@ -29371,31 +29371,31 @@ module.exports = (state, emit) => {
   // <!-- <div class="mr2 pa2">${state.data.dates[state.dateIndex]}</div> -->
 
 },{"choo/html":22}],109:[function(require,module,exports){
-const html = require('choo/html')
-const devtools = require('choo-devtools')
-const choo = require('choo')
-const dataLoader = require('./models/data-loader.js')
-const currentView = require('./models/current-view.js')
+const html = require("choo/html");
+const devtools = require("choo-devtools");
+const choo = require("choo");
+const dataLoader = require("./models/data-loader.js");
+const currentView = require("./models/current-view.js");
 
-const main = require('./main.js')
+const main = require("./main.js");
 
-var app = choo()
-app.use(devtools())
-app.use(dataLoader)
-app.use(currentView)
-app.route('/', mainView)
-app.route('/viz/datenspende-animated-choropleth/dist', mainView)
-app.route('/viz/data-explorer/dist', mainView)
-app.mount('body')
+var app = choo();
+app.use(devtools());
+app.use(dataLoader);
+app.use(currentView);
+app.route("/", mainView);
+app.route("/*", mainView);
+app.route("/viz/datenspende-animated-choropleth/dist", mainView);
+app.route("/viz/data-explorer/dist", mainView);
+app.mount("body");
 
-function mainView (state, emit) {
+function mainView(state, emit) {
   return html`
     <body class="w-100 h-100 flex justify-center montserrat">
       ${main(state, emit)}
     </body>
-  `
+  `;
 }
-
 
 },{"./main.js":112,"./models/current-view.js":113,"./models/data-loader.js":114,"choo":23,"choo-devtools":10,"choo/html":22}],110:[function(require,module,exports){
 const d3 = require('d3')

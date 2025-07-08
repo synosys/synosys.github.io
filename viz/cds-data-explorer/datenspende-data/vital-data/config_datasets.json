@@ -1,0 +1,175 @@
+{
+    "datasets": [
+        {
+            "id": "hr_daily",
+            "label": {
+                "en": "heart rate",
+                "de": "heart rate"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 55,
+            "max": 73
+        },
+        {
+            "id": "hr_weekly",
+            "label": {
+                "en": "heart rate",
+                "de": "heart rate"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 56,
+            "max": 67
+        },
+        {
+            "id": "hr_daily_rolling",
+            "label": {
+                "en": "heart rate",
+                "de": "heart rate"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 56,
+            "max": 70
+        },
+        {
+            "id": "steps_daily",
+            "label": {
+                "en": "steps",
+                "de": "Schrittzahl"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 1000,
+            "max": 14000
+        },
+        {
+            "id": "steps_weekly",
+            "label": {
+                "en": "steps",
+                "de": "Schrittzahl"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 5000,
+            "max": 11000
+        },
+        {
+            "id": "steps_daily_rolling",
+            "label": {
+                "en": "steps",
+                "de": "Schrittzahl"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 5000,
+            "max": 12000
+        },
+        {
+            "id": "sleep_daily",
+            "label": {
+                "en": "sleep duration",
+                "de": "Schlafdauer"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 280,
+            "max": 600
+        },
+        {
+            "id": "sleep_weekly",
+            "label": {
+                "en": "sleep duration",
+                "de": "Schlafdauer"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 350,
+            "max": 530
+        },
+        {
+            "id": "sleep_daily_rolling",
+            "label": {
+                "en": "sleep duration",
+                "de": "Schlafdauer"
+            },
+            "description": {
+                "en": "",
+                "de": ""
+            },
+            "geojson": [
+                "nuts0",
+                "nuts1",
+                "nuts2",
+                "nuts3"
+            ],
+            "min": 350,
+            "max": 520
+        }
+    ]
+}
