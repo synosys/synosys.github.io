@@ -1,0 +1,89 @@
+body, html {
+  font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: light;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-left {
+  padding:  4px;
+}
+
+.container-map {
+  box-shadow: 0px 0px 8px #cecccc;
+  border-radius: 4px;
+}
+
+.container-chart {
+  position: relative;
+}
+
+.chart-slider {
+  position: absolute;
+  bottom: 0px;
+  height: 100%;
+}
+
+
+
+*:focus {
+    outline: none;
+}
+
+/.tagify {
+  --tags-focus-border-color: #3595f6;
+  border-radius: 6px;
+}
+
+/* map-related styles */
+.tooltip {
+  /* background-color: #eee; */
+  /* opacity: 0.9; */
+  padding: 0.4em;
+  transition: opacity 0.5s;
+  pointer-events: none;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 0px 8px #cecccc;
+  border-radius: 2px;
+  color: #333;
+  font-weight:550;
+}
+
+.tooltip-number {
+  font-size: small; 
+  font-weight:350;
+  color: #333;
+}
+
+.section {
+  padding: 0.6em;
+  padding-left:  0px;
+  padding-right:  0px;
+  margin-top: 8px;
+  margin-left: 60px;
+  margin-right: 44px;
+  min-height: 64px;
+}
+
+h3 {
+  margin-block-start: 0.1em;
+  margin-block-end: 0.5em;
+}
+
+.map-title {
+  position: absolute;
+  margin: 0.6em;
+  padding: 1em;
+  top: 10px;
+  left: 10px;
+  pointer-events: none;
+  width: fit-content;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 0px 8px #cecccc;
+  border-radius: 4px;
+  
+  color: #333;
+}
+
+/* selection element */
