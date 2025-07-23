@@ -1,70 +1,68 @@
 body {
-    display: flex;
-    justify-content: center;
-    background-color: #fff;
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
 }
 
-html, body, div {
-    font-family: Helvetica, Arial, sans-serif;
-    margin: 0px;
-    padding: 0px;
-    font-size: small;
+html,
+body,
+div {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  font-size: small;
 }
 
 .uplot {
-    font-family: Helvetica, Arial, sans-serif;
-    cursor: crosshair;
+  font-family: Helvetica, Arial, sans-serif;
+  cursor: crosshair;
 }
 
 .u-legend {
-    font-size: 0.8rem;
-    font-weight: 100;
-    float: left;
+  font-size: 0.8rem;
+  font-weight: 100;
+  float: left;
 }
 
 .u-label {
-    font-family: Helvetica, Arial, sans-serif;
-    font-weight: 300;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 
 .u-over {
-    pointer-events: all;
+  pointer-events: all;
 }
 
 .u-wrap {
-    pointer-events: none;
+  pointer-events: none;
 }
 
 .tooltip {
-    font-size: 0.7rem;
-    padding: 1.0rem;
-    color: #333;
-    /* border: 1px solid #666; */
-    background: rgba(255, 255, 255, 0.8);
-    box-shadow: 0px 0px 8px #cecccc;
-    /* transition: all 0.3s; */
+  font-size: 0.7rem;
+  padding: 1rem;
+  color: #333;
+  /* border: 1px solid #666; */
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 0px 8px #cecccc;
+  /* transition: all 0.3s; */
 }
 
 .title {
-    font-size: 1.4rem;
-    padding: 0.6rem;
-    font-weight: bold;
-    margin-right: 10px;
+  font-size: 1.4rem;
+  padding: 0.6rem;
+  font-weight: bold;
+  margin-right: 10px;
 }
 .button {
-    padding: 0.4rem;
-    text-decoration: none;
-    text-align: center;
-    cursor: pointer;
-    border-radius: 5px;
-    border: 1px solid black;
-    margin: 0.2rem;
+  padding: 0.4rem;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin: 0.2rem;
 }
 
 .button:hover {
-    background-color: #eee;
-}
-
-.selected {
-    /* background-color: #ddd; */
+  background-color: #eee;
 }
