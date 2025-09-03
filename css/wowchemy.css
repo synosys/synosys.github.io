@@ -9491,6 +9491,272 @@ div.chart {
   margin-bottom: 1rem;
   overflow-x: auto; }
 
+/* Pinterest-style Teaching Cards CSS with Main Workspace Styling */
+/* Container using Bootstrap grid approach like projects */
+.teaching-cards-fullwidth {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px;
+  /* Negative margin to offset card margins */ }
+
+.teaching-card-pinterest {
+  background: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: hidden;
+  position: relative;
+  flex: 0 0 calc(33.333% - 20px);
+  /* 3 columns with margins */
+  margin: 10px;
+  margin-bottom: 1rem;
+  /* Add top accent border matching main workspace */ }
+  .teaching-card-pinterest::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #ffa97f 0%, #8082ff 100%);
+    opacity: 0;
+    transition: opacity 0.3s ease; }
+
+/* Responsive breakpoints similar to projects */
+@media (max-width: 1199px) {
+  .teaching-card-pinterest {
+    flex: 0 0 calc(50% - 20px);
+    /* 2 columns on medium screens */ } }
+
+@media (max-width: 768px) {
+  .teaching-card-pinterest {
+    flex: 0 0 calc(100% - 20px);
+    /* 1 column on mobile */ } }
+
+.teaching-card-pinterest:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  border-color: rgba(255, 169, 127, 0.3); }
+  .teaching-card-pinterest:hover::before {
+    opacity: 1; }
+
+.teaching-card-header {
+  background: linear-gradient(135deg, #f7f7f7 0%, #fffff8 100%);
+  color: #2c3e50;
+  padding: 12px 15px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05); }
+  .teaching-card-header .teaching-authors-header {
+    margin: 0;
+    text-align: left;
+    /* Author name on left with padding */
+    padding-left: 0.5rem;
+    color: #8082ff;
+    /* Main workspace accent color */
+    font-weight: 500; }
+    .teaching-card-header .teaching-authors-header .author-name {
+      font-weight: 600;
+      font-size: 0.9rem;
+      display: inline-block; }
+
+.teaching-card-content {
+  padding: 15px 20px;
+  background: #ffffff; }
+  .teaching-card-content .teaching-card-title {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.3; }
+    .teaching-card-content .teaching-card-title a {
+      color: #2c3e50;
+      text-decoration: none;
+      transition: color 0.2s ease; }
+      .teaching-card-content .teaching-card-title a:hover {
+        color: #ffa97f;
+        /* Main workspace hover color */
+        text-decoration: none; }
+  .teaching-card-content .teaching-card-subtitle {
+    margin: 0 0 1rem 0;
+    font-size: 0.9rem;
+    color: #718096;
+    font-style: italic;
+    font-weight: 300; }
+  .teaching-card-content .teaching-card-summary {
+    margin: 0 0 1rem 0;
+    font-size: 0.8rem;
+    color: #4a5568;
+    line-height: 1.5;
+    font-weight: 400; }
+  .teaching-card-content .teaching-card-details {
+    margin: 1rem 0; }
+    .teaching-card-content .teaching-card-details .detail-item {
+      display: flex;
+      align-items: flex-start;
+      margin: 6px 0;
+      font-size: 0.75rem;
+      padding: 3px 0; }
+      .teaching-card-content .teaching-card-details .detail-item i {
+        color: #8082ff;
+        /* Main workspace link color */
+        width: 16px;
+        margin-right: 8px;
+        flex-shrink: 0;
+        font-size: 0.8rem; }
+      .teaching-card-content .teaching-card-details .detail-item .detail-label {
+        font-weight: 600;
+        color: #8082ff;
+        /* Main workspace link color */
+        margin-right: 8px;
+        min-width: 80px;
+        flex-shrink: 0;
+        font-size: 0.75rem; }
+      .teaching-card-content .teaching-card-details .detail-item .detail-value {
+        color: #4a5568;
+        flex: 1;
+        font-weight: 400;
+        font-size: 0.75rem;
+        line-height: 1.4; }
+      .teaching-card-content .teaching-card-details .detail-item:last-child {
+        margin-bottom: 0; }
+      .teaching-card-content .teaching-card-details .detail-item.empty .detail-value {
+        color: #a0aec0;
+        font-style: italic;
+        opacity: 0.7; }
+  .teaching-card-content .teaching-card-description {
+    margin: 0 0 1rem 0;
+    font-size: 0.8rem;
+    color: #718096;
+    line-height: 1.5; }
+  .teaching-card-content .teaching-card-actions {
+    margin-top: 1rem;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap; }
+    .teaching-card-content .teaching-card-actions .btn {
+      font-size: 0.75rem;
+      padding: 0.6rem 1.2rem;
+      border-radius: 6px;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      text-transform: none;
+      letter-spacing: normal;
+      font-weight: 500;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      position: relative;
+      overflow: hidden;
+      /* Shine effect on hover */ }
+      .teaching-card-content .teaching-card-actions .btn::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+        transition: left 0.5s; }
+      .teaching-card-content .teaching-card-actions .btn:hover::before {
+        left: 100%; }
+      .teaching-card-content .teaching-card-actions .btn i {
+        font-size: 0.7rem; }
+      .teaching-card-content .teaching-card-actions .btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); }
+    .teaching-card-content .teaching-card-actions .btn-outline-primary {
+      border: 2px solid #8082ff;
+      /* Main workspace link color */
+      color: #8082ff;
+      background: transparent; }
+      .teaching-card-content .teaching-card-actions .btn-outline-primary:hover {
+        background: #8082ff;
+        color: white;
+        box-shadow: 0 6px 20px rgba(128, 130, 255, 0.4); }
+    .teaching-card-content .teaching-card-actions .btn-outline-success {
+      border: 2px solid #ffa97f;
+      /* Main workspace accent color */
+      color: #ffa97f;
+      background: transparent; }
+      .teaching-card-content .teaching-card-actions .btn-outline-success:hover {
+        background: #ffa97f;
+        color: white;
+        box-shadow: 0 6px 20px rgba(255, 169, 127, 0.4); }
+
+/* Dark mode support - matching main workspace dark theme */
+@media (prefers-color-scheme: dark) {
+  .teaching-card-pinterest {
+    background: #2d3748;
+    border: 1px solid rgba(255, 255, 255, 0.1); }
+    .teaching-card-pinterest:hover {
+      border-color: rgba(255, 169, 127, 0.4); }
+    .teaching-card-pinterest::before {
+      background: linear-gradient(90deg, #ffa97f 0%, #90cdf4 100%); }
+  .teaching-card-header {
+    background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%);
+    color: #f7fafc;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+    .teaching-card-header .teaching-authors-header {
+      color: #90cdf4;
+      /* Light blue for dark mode */ }
+  .teaching-card-content {
+    background: #2d3748; }
+    .teaching-card-content .teaching-card-title a {
+      color: #f7fafc; }
+      .teaching-card-content .teaching-card-title a:hover {
+        color: #ffa97f; }
+    .teaching-card-content .teaching-card-subtitle {
+      color: #a0aec0; }
+    .teaching-card-content .teaching-card-summary {
+      color: #e2e8f0; }
+    .teaching-card-content .teaching-card-details .detail-item i {
+      color: #90cdf4; }
+    .teaching-card-content .teaching-card-details .detail-item .detail-label {
+      color: #90cdf4; }
+    .teaching-card-content .teaching-card-details .detail-item .detail-value {
+      color: #e2e8f0; }
+    .teaching-card-content .teaching-card-details .detail-item.empty .detail-value {
+      color: #718096; }
+    .teaching-card-content .teaching-card-description {
+      color: #cbd5e0; }
+    .teaching-card-content .teaching-card-actions .btn-outline-primary {
+      border-color: #90cdf4;
+      color: #90cdf4; }
+      .teaching-card-content .teaching-card-actions .btn-outline-primary:hover {
+        background: #90cdf4;
+        color: #1a202c; }
+    .teaching-card-content .teaching-card-actions .btn-outline-success {
+      border-color: #ffa97f;
+      color: #ffa97f; }
+      .teaching-card-content .teaching-card-actions .btn-outline-success:hover {
+        background: #ffa97f;
+        color: #1a202c; } }
+
+/* Responsive fine-tuning with enhanced styling */
+@media (max-width: 576px) {
+  .teaching-card-pinterest .teaching-card-header {
+    padding: 10px 12px; }
+    .teaching-card-pinterest .teaching-card-header .teaching-authors-header {
+      padding-left: 0.25rem; }
+      .teaching-card-pinterest .teaching-card-header .teaching-authors-header .author-name {
+        font-size: 0.8rem; }
+  .teaching-card-pinterest .teaching-card-content {
+    padding: 12px 15px; }
+    .teaching-card-pinterest .teaching-card-content .teaching-card-title {
+      font-size: 1rem;
+      /* Even smaller on mobile */ }
+    .teaching-card-pinterest .teaching-card-content .teaching-card-details .detail-item {
+      font-size: 0.7rem;
+      margin: 4px 0; }
+      .teaching-card-pinterest .teaching-card-content .teaching-card-details .detail-item .detail-label {
+        min-width: 70px;
+        font-size: 0.7rem;
+        margin-right: 6px; }
+      .teaching-card-pinterest .teaching-card-content .teaching-card-details .detail-item .detail-value {
+        font-size: 0.7rem; }
+    .teaching-card-pinterest .teaching-card-content .teaching-card-actions .btn {
+      font-size: 0.7rem;
+      padding: 0.5rem 1rem; } }
+
 .titillium-web-extralight {
   font-family: "Titillium Web", serif;
   font-weight: 200;
