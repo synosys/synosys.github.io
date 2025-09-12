@@ -767,12 +767,6 @@
     <loc>https://synosys.github.io/topics/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://synosys.github.io/old_news/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/old_news/welcome_synosys/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://synosys.github.io/publication/gilbert-2024-citizen/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -1074,6 +1068,9 @@
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/non-pharmaceutical-interventions/</loc>
+    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/old_news/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/publication/burdinski-2021-tracing/</loc>
