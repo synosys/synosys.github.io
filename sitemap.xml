@@ -14,11 +14,35 @@
     <loc>https://synosys.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://synosys.github.io/authors/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+    <loc>https://synosys.github.io/tag/alife/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/artificial-life/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/authors/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/authors/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/complexity-explorables/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/authors/dirk/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/news/isal_prize/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/isal/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/news/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tags/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/computational-psychiatry/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
@@ -50,9 +74,6 @@
     <loc>https://synosys.github.io/tag/misinformation/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://synosys.github.io/news/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://synosys.github.io/tag/psychology/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,9 +81,6 @@
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/authors/sami/</loc>
-    <lastmod>2025-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/tags/</loc>
     <lastmod>2025-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/uncertainty/</loc>
@@ -74,16 +92,10 @@
     <loc>https://synosys.github.io/tag/complex-systems/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://synosys.github.io/authors/dirk/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://synosys.github.io/tag/dynamics/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/teaching/complex-system/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/teaching/complex_system_biology/</loc>
     <lastmod>2025-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/authors/annika/</loc>
@@ -776,24 +788,6 @@
     <loc>https://synosys.github.io/publication/phillipp-2024-evolution/</loc>
     <lastmod>2024-01-30T17:31:07+01:00</lastmod>
   </url><url>
-    <loc>https://synosys.github.io/authors/adrianp/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/tag/fractals/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/topics/human_mobility/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/tag/non-linear-dynamics/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/tag/time-series/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://synosys.github.io/topics/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://synosys.github.io/publication/gilbert-2024-citizen/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -858,6 +852,9 @@
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/epidemics/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/tag/fractals/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/tag/growth-processes/</loc>
@@ -1300,6 +1297,9 @@
   </url><url>
     <loc>https://synosys.github.io/authors/t-pachur/</loc>
     <lastmod>2021-01-30T17:31:07+01:00</lastmod>
+  </url><url>
+    <loc>https://synosys.github.io/authors/adrianp/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://synosys.github.io/old_news/tracing_paper/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
@@ -2206,6 +2206,8 @@
     <loc>https://synosys.github.io/authors/pascal/skills/</loc>
   </url><url>
     <loc>https://synosys.github.io/authors/susi/skills/</loc>
+  </url><url>
+    <loc>https://synosys.github.io/authors/thomas/</loc>
   </url><url>
     <loc>https://synosys.github.io/authors/thordis/</loc>
   </url>

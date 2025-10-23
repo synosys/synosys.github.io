@@ -28,6 +28,18 @@
     </item>
     
     <item>
+      <title>Dirk Brockmann receives ISAL Education and Outreach Award for “Complexity Explorables”</title>
+      <link>https://synosys.github.io/news/isal_prize/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/isal_prize/</guid>
+      <description>&lt;p&gt;Dirk Brockmann has received the Education and Outreach Award from the International Society for Artificial Life (ISAL). The award was presented during the ALIFE 2025 conference in Kyoto, Japan, and recognizes his innovative science communication project Complexity Explorables.&lt;/p&gt;
+&lt;p&gt;Complexity Explorables is an interactive online platform that explains central models of complex systems and Artificial Life in an accessible way. The collection visualizes topics such as traffic jams, herd immunity, swarm behavior, and social networks through interactive simulations. Each “Explorable” combines a concise introduction with a dynamic model that users can control, turning abstract concepts from complexity research into intuitive learning experiences.&lt;/p&gt;
+&lt;p&gt;Since its launch in 2017, Complexity Explorables has been used internationally in teaching, outreach, and network science education, including at the Santa Fe Institute (USA) and the Complexity Science Hub Vienna.&lt;/p&gt;
+&lt;p&gt;The ISAL jury praised the project as “full of interesting and engaging teaching materials related to various subfields of Artificial Life. It is clearly polished and professional and would be valuable for more of the ALife community to be aware of.”&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How people say they feel about uncertainty does not match how they decide</title>
       <link>https://synosys.github.io/news/computational_psychiatry/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
@@ -84,38 +96,6 @@ Time (Lab Course): Jan. 5th - Jan. 15th, 2026&lt;/p&gt;
 &lt;li&gt;Cooperative Systems&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The lecture will also cover a number of basic theoretical modeling methods, analysis tools and techniques that are required to understand and appreciate the richness and beauty of complex systems.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Complex Systems in Biology (and Beyond)</title>
-      <link>https://synosys.github.io/teaching/complex_system_biology/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/teaching/complex_system_biology/</guid>
-      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/50920947717&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Time (Lecture): Mondays, 09:20 – 10:50 AM&lt;br&gt;
-Time (Seminar): Tuesdays, 09:20 – 10:50 AM&lt;/p&gt;
-&lt;p&gt;Location: S7A-204&lt;/p&gt;
-&lt;p&gt;Module: M0500-61P05 (Systems Biology and Genomics)&lt;/p&gt;
-&lt;p&gt;Language: English&lt;/p&gt;
-&lt;p&gt;Assessment: presentation and written exam&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
-&lt;p&gt;This course offers an overview and basic understanding of complex dynamic phenomena in biological, physical and social systems. The focus is on biological systems but with a particular emphasis on how phenomena observed in biological systems are related to systems outside of biology. For example: Are the dynamic patterns observed in flocking birds and schooling fish related to pedestrian dynamics, or political polarization? What are the underlying principles?&lt;/p&gt;
-&lt;p&gt;Complexity science is about unraveling these underlying principles that drive a complex phenomenon and trying to construct models based on these underlying principles that can reproduce the basic properties of a system with as few ingredients as possible. Complex systems come in different flavors and can be associated with different fundamental phenomena and concepts each of which will be covered in the course.&lt;/p&gt;
-&lt;p&gt;Most of these concepts and phenomena occur and are applied across a broad range of fields. Here’s a list of those that will be covered in the course:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Chaotic Dynamics&lt;/li&gt;
-&lt;li&gt;Synchronization&lt;/li&gt;
-&lt;li&gt;Pattern Formation&lt;/li&gt;
-&lt;li&gt;Critical Phenomena &amp;amp; Tipping Points&lt;/li&gt;
-&lt;li&gt;Growth Processes&lt;/li&gt;
-&lt;li&gt;Collective Behavior&lt;/li&gt;
-&lt;li&gt;Complex Networks&lt;/li&gt;
-&lt;li&gt;Fractals &amp;amp; Self-Similarity&lt;/li&gt;
-&lt;li&gt;Cooperative Systems&lt;/li&gt;
-&lt;li&gt;Complexity Explorables&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The lectures will capture the topics listed above. The lecture will also cover a number of basic theoretical modeling methods, analysis tools and techniques that are required to understand and appreciate the richness and beauty of complex systems.&lt;/p&gt;
 </description>
     </item>
     
@@ -828,16 +808,6 @@ We are confident that these new insights will provide valuable input for shaping
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       <guid>https://synosys.github.io/publication/phillipp-2024-evolution/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Human Mobility</title>
-      <link>https://synosys.github.io/topics/human_mobility/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://synosys.github.io/topics/human_mobility/</guid>
-      <description>&lt;div align=&#34;justify&#34;&gt;
-From daily commutes and travel behaviors to the migration of populations on a global scale, human mobility encompasses a vast array of phenomena with profound societal implications. By leveraging innovative data sources such as GPS traces, mobile phone records, and social media check-ins, we gain unprecedented insights into the factors driving human movement patterns. Understanding human mobility is not only essential for urban planning, transportation management, and public health but also sheds light on broader societal trends, including the spread of infectious diseases, urbanization, and social inequalities. Through interdisciplinary collaboration and advanced analytical techniques, we strive to uncover the underlying mechanisms shaping human mobility and its impact on our interconnected world. Join us on a journey to unravel the complexities of human mobility and harness its potential to address pressing challenges and shape the future of our societies.
-&lt;/div&gt;</description>
     </item>
     
     <item>
