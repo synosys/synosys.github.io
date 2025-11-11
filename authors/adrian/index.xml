@@ -5,7 +5,11 @@
     <link>https://synosys.github.io/authors/adrian/</link>
       <atom:link href="https://synosys.github.io/authors/adrian/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrian Zachariae</description>
+<<<<<<< HEAD
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+=======
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+>>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
     <image>
       <url>https://synosys.github.io/authors/adrian/avatar_hufad7208688ebe21d5c4bbc29cb3c387f_782974_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Adrian Zachariae</title>
@@ -13,6 +17,8 @@
     </image>
     
     <item>
+<<<<<<< HEAD
+=======
       <title>How Network Structure Shapes Evolutionary Dynamics</title>
       <link>https://synosys.github.io/news/network_structure/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
@@ -25,6 +31,7 @@
     </item>
     
     <item>
+>>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
       <title>Clonal Interference in Heterogeneous Networks</title>
       <link>https://synosys.github.io/project/clonal_interference/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>

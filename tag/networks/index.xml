@@ -5,7 +5,11 @@
     <link>https://synosys.github.io/tag/networks/</link>
       <atom:link href="https://synosys.github.io/tag/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>networks</description>
+<<<<<<< HEAD
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+=======
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+>>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>networks</title>
@@ -13,6 +17,17 @@
     </image>
     
     <item>
+<<<<<<< HEAD
+      <title>Origins of the Fittest: Clonal Interference in Heterogeneous Networks.</title>
+      <link>https://synosys.github.io/publication/zachariae-2025-clonal/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/zachariae-2025-clonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+=======
+>>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
       <title>Clonal Interference in Heterogeneous Networks</title>
       <link>https://synosys.github.io/project/clonal_interference/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>

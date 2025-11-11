@@ -5,7 +5,11 @@
     <link>https://synosys.github.io/news/</link>
       <atom:link href="https://synosys.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
+<<<<<<< HEAD
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
+=======
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+>>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>News</title>
@@ -13,6 +17,8 @@
     </image>
     
     <item>
+<<<<<<< HEAD
+=======
       <title>How Network Structure Shapes Evolutionary Dynamics</title>
       <link>https://synosys.github.io/news/network_structure/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
@@ -25,6 +31,7 @@
     </item>
     
     <item>
+>>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
       <title>Dirk Brockmann receives ISAL Education and Outreach Award for “Complexity Explorables”</title>
       <link>https://synosys.github.io/news/isal_prize/</link>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>

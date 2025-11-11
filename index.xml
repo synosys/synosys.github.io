@@ -28,6 +28,8 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
       <title>How Network Structure Shapes Evolutionary Dynamics</title>
       <link>https://synosys.github.io/news/network_structure/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
@@ -40,6 +42,7 @@
     </item>
     
     <item>
+>>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
       <title>Dirk Brockmann receives ISAL Education and Outreach Award for “Complexity Explorables”</title>
       <link>https://synosys.github.io/news/isal_prize/</link>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
@@ -53,6 +56,17 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+      <title>Origins of the Fittest: Clonal Interference in Heterogeneous Networks.</title>
+      <link>https://synosys.github.io/publication/zachariae-2025-clonal/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/zachariae-2025-clonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+=======
+>>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
       <title>How people say they feel about uncertainty does not match how they decide</title>
       <link>https://synosys.github.io/news/computational_psychiatry/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
