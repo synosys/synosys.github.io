@@ -5,11 +5,7 @@
     <link>https://synosys.github.io/tags/</link>
       <atom:link href="https://synosys.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-<<<<<<< HEAD
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
-=======
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025 Center Synergy of Systems</copyright><lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
->>>>>>> ff530b2360385570ee139d28a7aa146ed4e43a7e
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>Tags</title>
