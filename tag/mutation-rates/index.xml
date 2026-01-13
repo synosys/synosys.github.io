@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mutation Rates | SynoSys</title>
+    <link>https://synosys.github.io/tag/mutation-rates/</link>
+      <atom:link href="https://synosys.github.io/tag/mutation-rates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mutation Rates</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>Mutation Rates</title>
+      <link>https://synosys.github.io/tag/mutation-rates/</link>
+    </image>
+    
+    <item>
+      <title>Origins of the Fittest: Clonal Interference in Heterogeneous Networks</title>
+      <link>https://synosys.github.io/publication/origins-of-the-fittest-2026/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/origins-of-the-fittest-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

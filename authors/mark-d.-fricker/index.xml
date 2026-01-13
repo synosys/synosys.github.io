@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark D. Fricker | SynoSys</title>
+    <link>https://synosys.github.io/authors/mark-d.-fricker/</link>
+      <atom:link href="https://synosys.github.io/authors/mark-d.-fricker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark D. Fricker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>Mark D. Fricker</title>
+      <link>https://synosys.github.io/authors/mark-d.-fricker/</link>
+    </image>
+    
+    <item>
+      <title>Not Extremely Plastic: Testing the Limits of Morphological Plasticity in Fungal Mycelia in Response to Soil Grazers</title>
+      <link>https://synosys.github.io/publication/carlos-not-extremely-plastic/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/carlos-not-extremely-plastic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
