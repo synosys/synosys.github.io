@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radu Diaconescu | SynoSys</title>
+    <link>https://synosys.github.io/authors/radu/</link>
+      <atom:link href="https://synosys.github.io/authors/radu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radu Diaconescu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright>
+    <image>
+      <url>https://synosys.github.io/authors/radu/avatar_hu8fea58040da27e2ad4f47f1c0ee73afd_524450_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Radu Diaconescu</title>
+      <link>https://synosys.github.io/authors/radu/</link>
+    </image>
+    
+  </channel>
+</rss>
