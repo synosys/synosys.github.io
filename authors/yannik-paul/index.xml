@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yannik Paul | SynoSys</title>
+    <link>https://synosys.github.io/authors/yannik-paul/</link>
+      <atom:link href="https://synosys.github.io/authors/yannik-paul/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yannik Paul</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>Yannik Paul</title>
+      <link>https://synosys.github.io/authors/yannik-paul/</link>
+    </image>
+    
+    <item>
+      <title>Decomposing Intolerance of Uncertainty: No Association With Affective Decision Making in a Community Sample</title>
+      <link>https://synosys.github.io/publication/kamil-2025-decomposing/</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/kamil-2025-decomposing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
