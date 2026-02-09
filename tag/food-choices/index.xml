@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food choices | SynoSys</title>
+    <link>https://synosys.github.io/tag/food-choices/</link>
+      <atom:link href="https://synosys.github.io/tag/food-choices/index.xml" rel="self" type="application/rss+xml" />
+    <description>Food choices</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>Food choices</title>
+      <link>https://synosys.github.io/tag/food-choices/</link>
+    </image>
+    
+    <item>
+      <title>New preprint examines which simple food heuristics actually work</title>
+      <link>https://synosys.github.io/news/new-preprint-food/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/news/new-preprint-food/</guid>
+      <description>&lt;p&gt;New preprint examines which simple food heuristics actually work&lt;/p&gt;
+&lt;p&gt;A new preprint by Kamil Fuławka, together with colleagues from the Max Planck Institute for Human Development, studies how people can make healthier food choices using simple decision rules.&lt;/p&gt;
+&lt;p&gt;Food choices involve many nutritional dimensions at once. To reduce this complexity, people often rely on heuristics (i.e. simple decision rules) such as choosing products with less sugar or less fat. The study systematically tests a range of single-cue heuristics using large dataset of nutrient densities in food products.&lt;/p&gt;
+&lt;p&gt;The results show that not all heuristics perform equally well. Rules such as choose less energy, more fiber, more protein, raw foods, darker grains, and wild foods are among the most effective. Across many food comparisons, these heuristics are associated with higher levels of vitamins, minerals, protein and fiber, while often reducing salt and sugar. The heuristics focused on minimizing salt, sugar, and saturated offered no broader benefits. Thus, rather than merely warning consumers about what to avoid, the results show that signaling what foods offer—their positive nutritional attributes—can more effectively support healthier choices.&lt;/p&gt;
+&lt;p&gt;The preprint demonstrates how large-scale food data can be used to systematically evaluate decision heuristics in complex real world choice settings. It also provides evidence relevant for nutrition guidelines, food labeling and digital decision support tools that aim to simplify healthy eating without oversimplifying the problem itself.&lt;/p&gt;
+&lt;p&gt;The preprint is currently under review and can be read here: &lt;a href=&#34;https://osf.io/preprints/psyarxiv/vdaup_v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://osf.io/preprints/psyarxiv/vdaup_v1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
