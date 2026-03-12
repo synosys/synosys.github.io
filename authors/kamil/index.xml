@@ -5,12 +5,28 @@
     <link>https://synosys.github.io/authors/kamil/</link>
       <atom:link href="https://synosys.github.io/authors/kamil/index.xml" rel="self" type="application/rss+xml" />
     <description>Kamil Fuławka</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/authors/kamil/avatar_hueaffc988be1310b04c8e1596ab7cc80f_344026_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Kamil Fuławka</title>
       <link>https://synosys.github.io/authors/kamil/</link>
     </image>
+    
+    <item>
+      <title>LLMs for Psychological Digital Content Analysis (SoSe 2026)</title>
+      <link>https://synosys.github.io/teaching/llm_psych_26/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/teaching/llm_psych_26/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/53477801989&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Time: Thursdays, 5. DS&lt;/p&gt;
+&lt;p&gt;Location: APB/E010&lt;/p&gt;
+&lt;p&gt;Module: INF-BAS3 (Software- und Web-Engineering)&lt;/p&gt;
+&lt;p&gt;Language: English&lt;/p&gt;
+&lt;p&gt;Assessment: oral exam&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;This seminar explores how psychological concepts can be systematically studied in digital content using LLM-based annotation workflows, from construct operationalization to prompt engineering and evaluation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New preprint examines which simple food heuristics actually work</title>
