@@ -5,12 +5,39 @@
     <link>https://synosys.github.io/tag/human-mobility/</link>
       <atom:link href="https://synosys.github.io/tag/human-mobility/index.xml" rel="self" type="application/rss+xml" />
     <description>human mobility</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>human mobility</title>
       <link>https://synosys.github.io/tag/human-mobility/</link>
     </image>
+    
+    <item>
+      <title>Mobility in Humans and Animals: A Data Exploration (SoSe 2026)</title>
+      <link>https://synosys.github.io/teaching/mobility_humans_animals_26/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/teaching/mobility_humans_animals_26/</guid>
+      <description>&lt;p&gt;Opal: &lt;a href=&#34;https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/53858631686&#34; target=&#34;_blank&#34;&gt;Link here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Time (Lecture): Monday, 5. DS&lt;br&gt;
+Time (Exercise): Thursday, 6. DS&lt;/p&gt;
+&lt;p&gt;Module: BIO-MA-AQUA1, BIO-MBBT-30Q01&lt;/p&gt;
+&lt;p&gt;Language: English&lt;/p&gt;
+&lt;p&gt;Assessment: Project Presentation&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;This course offers an overview on movement and mobility in animals and humans from a data-driven perspective. It will cover micro- to macroscopic movement from animals and humans, collective decision making during movement processes and transport networks. The course is strongly coupled to datasets, the lectures will prepare the background, both theoretically and method wise. In the exercise the students will analyze the datasets in prepared jupyter-notebooks.&lt;/p&gt;
+&lt;p&gt;At the middle of the semester the students select a dataset and a research question, which will be presented in the last part of the semester.&lt;/p&gt;
+&lt;p&gt;No preliminary programming knowledge is necessary, all will be communicated during lecture and exercises.&lt;/p&gt;
+&lt;p&gt;The course touches an interdisciplinary field:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Network theory&lt;/li&gt;
+&lt;li&gt;Data representation&lt;/li&gt;
+&lt;li&gt;Random Walk, Markov Networks&lt;/li&gt;
+&lt;li&gt;Human mobility models (gravity, radiation)&lt;/li&gt;
+&lt;li&gt;Animal behavior&lt;/li&gt;
+&lt;li&gt;Programming skills: Python, GitHub, data-analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Biases in human mobility data impact epidemic modeling</title>
