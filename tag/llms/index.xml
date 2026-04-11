@@ -5,12 +5,20 @@
     <link>https://synosys.github.io/tag/llms/</link>
       <atom:link href="https://synosys.github.io/tag/llms/index.xml" rel="self" type="application/rss+xml" />
     <description>LLMs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Sat, 20 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://synosys.github.io/media/sharing.png</url>
       <title>LLMs</title>
       <link>https://synosys.github.io/tag/llms/</link>
     </image>
+    
+    <item>
+      <title>Boosting metacognition in entangled human-AI interaction to navigate cognitive-behavioral drift</title>
+      <link>https://synosys.github.io/publication/lopez-2026-boosting-metacognition/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/lopez-2026-boosting-metacognition/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Large language models accurately identify decision reasons in verbal reports</title>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital media | SynoSys</title>
+    <link>https://synosys.github.io/tag/digital-media/</link>
+      <atom:link href="https://synosys.github.io/tag/digital-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital media</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2026 Center Synergy of Systems</copyright><lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://synosys.github.io/media/sharing.png</url>
+      <title>digital media</title>
+      <link>https://synosys.github.io/tag/digital-media/</link>
+    </image>
+    
+    <item>
+      <title>Fractured reality: How democracy can win the global struggle over the information space</title>
+      <link>https://synosys.github.io/publication/jrc-2026-fractured-reality/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/jrc-2026-fractured-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Perspectives on Digital Media and Democracy and Implications for Alternative Platform Governance</title>
+      <link>https://synosys.github.io/publication/lorenzspreen-2026-empirical-perspectives/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://synosys.github.io/publication/lorenzspreen-2026-empirical-perspectives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
